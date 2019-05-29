@@ -8,7 +8,7 @@
         "siteName": "hax-camp",
         "domain": "https:\/\/btopro.github.io\/hax-camp",
         "created": 1559088529,
-        "updated": 1559089356,
+        "updated": 1559089364,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -75,7 +75,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559089356,
+                "updated": 1559089364,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -90,16 +90,29 @@
             }
         },
         {
+            "id": "item-30f01efd-004b-44b7-80ed-36395b6b2878",
+            "indent": 0,
+            "location": "pages\/register\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "Register",
+            "description": "",
+            "metadata": {
+                "created": 1559089356,
+                "updated": 1559089364
+            }
+        },
+        {
             "id": "item-9e3d6381-4196-4eee-81c7-10fcd55d7867",
             "indent": 0,
             "location": "pages\/when-\/index.html",
-            "order": 1,
+            "order": 2,
             "parent": null,
             "title": "When?",
             "description": "Mid September 2019",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089356,
+                "updated": 1559089364,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -116,13 +129,13 @@
             "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
             "indent": 0,
             "location": "pages\/where-\/index.html",
-            "order": 2,
+            "order": 3,
             "parent": null,
             "title": "Where?",
             "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089356,
+                "updated": 1559089364,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -139,26 +152,13 @@
             "id": "item-ce67fd29-ff14-48cf-8fd9-74f97ce6f679",
             "indent": 0,
             "location": "pages\/who-\/index.html",
-            "order": 3,
+            "order": 4,
             "parent": null,
             "title": "Who?",
             "description": "",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089356
-            }
-        },
-        {
-            "id": "item-30f01efd-004b-44b7-80ed-36395b6b2878",
-            "indent": 0,
-            "location": "pages\/register\/index.html",
-            "order": 4,
-            "parent": null,
-            "title": "Register",
-            "description": "",
-            "metadata": {
-                "created": 1559089356,
-                "updated": 1559089356
+                "updated": 1559089364
             }
         },
         {
@@ -171,7 +171,7 @@
             "description": "",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559089356
+                "updated": 1559089364
             }
         },
         {
@@ -184,7 +184,7 @@
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089356,
+                "updated": 1559089364,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
