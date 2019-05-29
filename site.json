@@ -206,10 +206,22 @@
             "order": 6,
             "parent": null,
             "title": "Unconference?",
-            "description": "",
+            "description": "If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559090049
+                "updated": 1559090740,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "p": 5,
+                        "wikipedia-query": 1,
+                        "ul": 2
+                    },
+                    "elements": 8
+                }
             }
         },
         {
