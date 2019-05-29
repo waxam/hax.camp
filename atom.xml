@@ -1,23 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>hax.camp</title>
-  <link href="https://btopro.github.io/hax-camp/atom.xml" rel="self" />
-  <subtitle></subtitle>
-  <updated>2019-05-29T00:08:49+00:00</updated>
+  <link href="https://hax.camp/atom.xml" rel="self" />
+  <subtitle>HAXcamp</subtitle>
+  <updated>2019-05-29T01:01:24+00:00</updated>
   <author>
-      <name></name>
+      <name>btopro</name>
   </author>
-  <id>https://btopro.github.io/hax-camp/feed</id>
+  <id>https://hax.camp/feed</id>
   <entry>
-    <title>New page</title>
-    <id>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</id>
-    <updated>2019-05-29T00:08:49+00:00</updated>
+    <title>hax-camp</title>
+    <id>https://hax.camp/hax-camp</id>
+    <updated>2019-05-29T01:03:29+00:00</updated>
     <published>2019-05-29T00:08:49+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0"/>
+    <summary>Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a</summary>
+    <link href="https://hax.camp/hax-camp"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Register</title>
+    <id>https://hax.camp/register</id>
+    <updated>2019-05-29T01:03:05+00:00</updated>
+    <published>2019-05-29T00:59:02+00:00</published>
+    <summary>Coming soon.. but seriously you'll want to register</summary>
+    <link href="https://hax.camp/register"/>
+    
+    <content type="html">
+      <![CDATA[ Coming soon.. but seriously you'll want to register ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Why should I attend</title>
+    <id>https://hax.camp/why-attend</id>
+    <updated>2019-05-29T01:01:24+00:00</updated>
+    <published>2019-05-29T00:22:36+00:00</published>
+    <summary>Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor</summary>
+    <link href="https://hax.camp/why-attend"/>
+    
+    <content type="html">
+      <![CDATA[ Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Convince my Hippo</title>
+    <id>https://hax.camp/convince-my-hippo</id>
+    <updated>2019-05-29T01:01:24+00:00</updated>
+    <published>2019-05-29T00:34:09+00:00</published>
+    <summary>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man</summary>
+    <link href="https://hax.camp/convince-my-hippo"/>
+    
+    <content type="html">
+      <![CDATA[ HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>When?</title>
+    <id>https://hax.camp/when-</id>
+    <updated>2019-05-29T01:01:24+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary>Mid September 2019</summary>
+    <link href="https://hax.camp/when-"/>
+    
+    <content type="html">
+      <![CDATA[ Mid September 2019 ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Where?</title>
+    <id>https://hax.camp/where-</id>
+    <updated>2019-05-29T01:01:24+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary>State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.  </summary>
+    <link href="https://hax.camp/where-"/>
+    
+    <content type="html">
+      <![CDATA[ State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.   ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Unconference?</title>
+    <id>https://hax.camp/unconference-</id>
+    <updated>2019-05-29T01:01:24+00:00</updated>
+    <published>2019-05-29T00:22:36+00:00</published>
+    <summary>If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there</summary>
+    <link href="https://hax.camp/unconference-"/>
+    
+    <content type="html">
+      <![CDATA[ If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>CoC</title>
+    <id>https://hax.camp/coc</id>
+    <updated>2019-05-29T01:01:24+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary>Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge</summary>
+    <link href="https://hax.camp/coc"/>
+    
+    <content type="html">
+      <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge ]]>
     </content>
   </entry>
 </feed>

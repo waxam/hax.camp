@@ -1,14 +1,14 @@
 {
     "id": "7091efcd-8d42-42d7-9105-9bc5d30932e1",
     "title": "hax.camp",
-    "author": "",
+    "author": "btopro",
     "description": "HAXcamp",
     "license": "by-sa",
     "metadata": {
         "siteName": "hax-camp",
-        "domain": "https:\/\/btopro.github.io\/hax-camp",
+        "domain": "https:\/\/hax.camp",
         "created": 1559088529,
-        "updated": 1559088529,
+        "updated": 1559091684,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -62,22 +62,208 @@
             "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js",
             "html-block": "@lrnwebcomponents\/html-block\/html-block.js",
             "user-action": "@lrnwebcomponents\/user-action\/user-action.js"
-        }
+        },
+        "lastPublished": 1559091850,
+        "publishedLocation": "https:\/\/hax.camp"
     },
     "items": [
         {
             "id": "item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0",
             "indent": 0,
-            "location": "pages\/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0\/index.html",
+            "location": "pages\/hax-camp\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
-            "description": "",
+            "title": "hax-camp",
+            "description": "Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559088529
+                "updated": 1559091809,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6,
+                        "meme-maker": 1
+                    },
+                    "elements": 7
+                }
+            }
+        },
+        {
+            "id": "item-763783ba-20ef-45ac-bd5e-8c51b2626845",
+            "indent": 0,
+            "location": "pages\/register\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "Register",
+            "description": "Coming soon.. but seriously you'll want to register",
+            "metadata": {
+                "created": 1559091542,
+                "updated": 1559091785,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "meme-maker": 1
+                    },
+                    "elements": 2
+                }
+            }
+        },
+        {
+            "id": "item-30f01efd-004b-44b7-80ed-36395b6b2878",
+            "indent": 0,
+            "location": "pages\/why-attend\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Why should I attend",
+            "description": "Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor",
+            "metadata": {
+                "created": 1559089356,
+                "updated": 1559091684,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2,
+                        "ul": 1,
+                        "h2": 1,
+                        "meme-maker": 1
+                    },
+                    "elements": 5
+                }
+            }
+        },
+        {
+            "id": "item-06ae0dc3-8c3d-4311-9f8a-a1a4ee8e0057",
+            "indent": 0,
+            "location": "pages\/convince-my-hippo\/index.html",
+            "order": 3,
+            "parent": null,
+            "title": "Convince my Hippo",
+            "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
+            "metadata": {
+                "created": 1559090049,
+                "updated": 1559091684,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "ul": 1,
+                        "meme-maker": 1
+                    },
+                    "elements": 3
+                }
+            }
+        },
+        {
+            "id": "item-9e3d6381-4196-4eee-81c7-10fcd55d7867",
+            "indent": 0,
+            "location": "pages\/when-\/index.html",
+            "order": 4,
+            "parent": null,
+            "title": "When?",
+            "description": "Mid September 2019",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559091684,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
+            }
+        },
+        {
+            "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
+            "indent": 0,
+            "location": "pages\/where-\/index.html",
+            "order": 5,
+            "parent": null,
+            "title": "Where?",
+            "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.  ",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559091684,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2,
+                        "html-block": 1,
+                        "h2": 1
+                    },
+                    "elements": 4
+                }
+            }
+        },
+        {
+            "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
+            "indent": 0,
+            "location": "pages\/unconference-\/index.html",
+            "order": 6,
+            "parent": null,
+            "title": "Unconference?",
+            "description": "If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
+            "metadata": {
+                "created": 1559089356,
+                "updated": 1559091684,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "p": 5,
+                        "wikipedia-query": 1,
+                        "ul": 2
+                    },
+                    "elements": 8
+                }
+            }
+        },
+        {
+            "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
+            "indent": 0,
+            "location": "pages\/coc\/index.html",
+            "order": 7,
+            "parent": null,
+            "title": "CoC",
+            "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559091684,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 8,
+                    "paragraphs": 11,
+                    "schema": [],
+                    "tags": {
+                        "p": 11,
+                        "h2": 3,
+                        "h3": 5,
+                        "ul": 2
+                    },
+                    "elements": 21
+                }
             }
         }
-    ],
-    "location": "\/sites\/hax-camp\/index.html"
+    ]
 }

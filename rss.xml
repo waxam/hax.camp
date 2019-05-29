@@ -2,20 +2,90 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>hax.camp</title>
-    <link>https://btopro.github.io/hax-camp/rss.xml</link>
-    <description></description>
-    <copyright>Copyright (C) 2019 https://btopro.github.io/hax-camp</copyright>
+    <link>https://hax.camp/rss.xml</link>
+    <description>HAXcamp</description>
+    <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 00:08:49 +0000</lastBuildDate>
-    <atom:link href="https://btopro.github.io/hax-camp/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 29 May 2019 01:01:24 +0000</lastBuildDate>
+    <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
-      <link>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</link>
+      <title>hax-camp</title>
+      <link>https://hax.camp/hax-camp</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</guid>
+      <guid>https://hax.camp/hax-camp</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Register</title>
+      <link>https://hax.camp/register</link>
+      <description>
+          <![CDATA[ Coming soon.. but seriously you'll want to register ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/register</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why should I attend</title>
+      <link>https://hax.camp/why-attend</link>
+      <description>
+          <![CDATA[ Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/why-attend</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convince my Hippo</title>
+      <link>https://hax.camp/convince-my-hippo</link>
+      <description>
+          <![CDATA[ HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/convince-my-hippo</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When?</title>
+      <link>https://hax.camp/when-</link>
+      <description>
+          <![CDATA[ Mid September 2019 ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/when-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where?</title>
+      <link>https://hax.camp/where-</link>
+      <description>
+          <![CDATA[ State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.   ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/where-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unconference?</title>
+      <link>https://hax.camp/unconference-</link>
+      <description>
+          <![CDATA[ If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/unconference-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoC</title>
+      <link>https://hax.camp/coc</link>
+      <description>
+          <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/coc</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>
