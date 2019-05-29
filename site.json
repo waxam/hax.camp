@@ -220,19 +220,22 @@
             "order": 7,
             "parent": null,
             "title": "CoC",
-            "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...",
+            "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559090049,
-                "readtime": 1,
+                "updated": 1559091525,
+                "readtime": 2,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 3,
+                    "headings": 8,
+                    "paragraphs": 11,
                     "schema": [],
                     "tags": {
-                        "p": 3
+                        "p": 11,
+                        "h2": 3,
+                        "h3": 5,
+                        "ul": 2
                     },
-                    "elements": 3
+                    "elements": 21
                 }
             }
         }
