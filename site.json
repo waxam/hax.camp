@@ -170,19 +170,21 @@
             "order": 4,
             "parent": null,
             "title": "Where?",
-            "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.",
+            "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.  ",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559090049,
+                "updated": 1559090975,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
+                    "headings": 1,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
-                        "p": 1
+                        "p": 2,
+                        "html-block": 1,
+                        "h2": 1
                     },
-                    "elements": 1
+                    "elements": 4
                 }
             }
         },
