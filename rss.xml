@@ -58,5 +58,25 @@
       <guid>https://btopro.github.io/hax-camp/coc</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Register</title>
+      <link>https://btopro.github.io/hax-camp/register</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/register</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unconference?</title>
+      <link>https://btopro.github.io/hax-camp/unconference-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/unconference-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

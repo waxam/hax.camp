@@ -11,7 +11,7 @@
   <entry>
     <title>hax-camp</title>
     <id>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</id>
-    <updated>2019-05-29T00:20:22+00:00</updated>
+    <updated>2019-05-29T00:22:36+00:00</updated>
     <published>2019-05-29T00:08:49+00:00</published>
     <summary>Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT</summary>
     <link href="https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>When?</title>
     <id>https://btopro.github.io/hax-camp/when-</id>
-    <updated>2019-05-29T00:21:24+00:00</updated>
+    <updated>2019-05-29T00:22:36+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>Mid September 2019</summary>
     <link href="https://btopro.github.io/hax-camp/when-"/>
@@ -35,7 +35,7 @@
   <entry>
     <title>Where?</title>
     <id>https://btopro.github.io/hax-camp/where-</id>
-    <updated>2019-05-29T00:22:04+00:00</updated>
+    <updated>2019-05-29T00:22:36+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.</summary>
     <link href="https://btopro.github.io/hax-camp/where-"/>
@@ -47,7 +47,7 @@
   <entry>
     <title>Who?</title>
     <id>https://btopro.github.io/hax-camp/who-</id>
-    <updated>2019-05-29T00:20:22+00:00</updated>
+    <updated>2019-05-29T00:22:36+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/hax-camp/who-"/>
@@ -59,13 +59,37 @@
   <entry>
     <title>CoC</title>
     <id>https://btopro.github.io/hax-camp/coc</id>
-    <updated>2019-05-29T00:21:04+00:00</updated>
+    <updated>2019-05-29T00:22:36+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...</summary>
     <link href="https://btopro.github.io/hax-camp/coc"/>
     
     <content type="html">
       <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously... ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Register</title>
+    <id>https://btopro.github.io/hax-camp/register</id>
+    <updated>2019-05-29T00:22:36+00:00</updated>
+    <published>2019-05-29T00:22:36+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/hax-camp/register"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Unconference?</title>
+    <id>https://btopro.github.io/hax-camp/unconference-</id>
+    <updated>2019-05-29T00:22:36+00:00</updated>
+    <published>2019-05-29T00:22:36+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/hax-camp/unconference-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
         "siteName": "hax-camp",
         "domain": "https:\/\/btopro.github.io\/hax-camp",
         "created": 1559088529,
-        "updated": 1559089222,
+        "updated": 1559089356,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -75,7 +75,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559089222,
+                "updated": 1559089356,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -99,7 +99,7 @@
             "description": "Mid September 2019",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089284,
+                "updated": 1559089356,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -122,7 +122,7 @@
             "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089324,
+                "updated": 1559089356,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -145,20 +145,46 @@
             "description": "",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089222
+                "updated": 1559089356
+            }
+        },
+        {
+            "id": "item-30f01efd-004b-44b7-80ed-36395b6b2878",
+            "indent": 0,
+            "location": "pages\/register\/index.html",
+            "order": 4,
+            "parent": null,
+            "title": "Register",
+            "description": "",
+            "metadata": {
+                "created": 1559089356,
+                "updated": 1559089356
+            }
+        },
+        {
+            "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
+            "indent": 0,
+            "location": "pages\/unconference-\/index.html",
+            "order": 5,
+            "parent": null,
+            "title": "Unconference?",
+            "description": "",
+            "metadata": {
+                "created": 1559089356,
+                "updated": 1559089356
             }
         },
         {
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": 4,
+            "order": 6,
             "parent": null,
             "title": "CoC",
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089264,
+                "updated": 1559089356,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
