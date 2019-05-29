@@ -8,7 +8,7 @@
         "siteName": "hax-camp",
         "domain": "https:\/\/hax.camp",
         "created": 1559088529,
-        "updated": 1559091644,
+        "updated": 1559091655,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -75,7 +75,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559091643,
+                "updated": 1559091655,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -99,7 +99,7 @@
             "description": "",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1559091643
+                "updated": 1559091655
             }
         },
         {
@@ -112,7 +112,7 @@
             "description": "Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559091644,
+                "updated": 1559091655,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -138,7 +138,7 @@
             "description": "",
             "metadata": {
                 "created": 1559091630,
-                "updated": 1559091644
+                "updated": 1559091655
             }
         },
         {
@@ -176,7 +176,7 @@
             "description": "Mid September 2019",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559091644,
+                "updated": 1559091655,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -199,7 +199,7 @@
             "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.  ",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559091644,
+                "updated": 1559091655,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -224,7 +224,7 @@
             "description": "If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559091644,
+                "updated": 1559091655,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -249,7 +249,7 @@
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559091644,
+                "updated": 1559091655,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
