@@ -37,60 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/hax-camp\/index.html",
-        "KEd88NPKtcx2rGDZdEmEA"
-    ],
-    [
-        "pages\/register\/index.html",
-        "K3h2AaSHk5VuPG4VkJPBnw"
-    ],
-    [
-        "pages\/why-attend\/index.html",
-        "lMLuncqXaDzQf6V6tiAmw"
-    ],
-    [
-        "pages\/convince-my-hippo\/index.html",
-        "THRaIssRx3AzuZvFFqNNw"
-    ],
-    [
-        "pages\/when-\/index.html",
-        "QCyem0MTbg20g1Hl1A1pTw"
-    ],
-    [
-        "pages\/where-\/index.html",
-        "VyyueJ2MNCSITYnatTRdg"
-    ],
-    [
-        "pages\/unconference-\/index.html",
-        "FGc4f4abOrITsjX9KlCivg"
-    ],
-    [
-        "pages\/coc\/index.html",
-        "a2jPTYUJ7EGnyVCm2uGbA"
-    ],
-    [
-        "index.html",
-        "THsuFmZgFSyImqw56t3A"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "QCUYA1tUGORxhuNdC3amw"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -338,4 +285,6 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
-toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
+{% if cdnRegex %}
+toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
+{% endif %}
