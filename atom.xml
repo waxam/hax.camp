@@ -3,7 +3,7 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2019-05-29T00:22:44+00:00</updated>
+  <updated>2019-05-29T00:34:09+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
@@ -30,6 +30,18 @@
     
     <content type="html">
       <![CDATA[ Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor (o ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Convince my Hippo</title>
+    <id>https://hax.camp/convince-my-hippo</id>
+    <updated>2019-05-29T00:38:31+00:00</updated>
+    <published>2019-05-29T00:34:09+00:00</published>
+    <summary>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man</summary>
+    <link href="https://hax.camp/convince-my-hippo"/>
+    
+    <content type="html">
+      <![CDATA[ HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man ]]>
     </content>
   </entry>
   <entry>
@@ -90,18 +102,6 @@
     
     <content type="html">
       <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously... ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Convince my Hippo</title>
-    <id>https://hax.camp/convince-my-hippo</id>
-    <updated>2019-05-29T00:34:09+00:00</updated>
-    <published>2019-05-29T00:34:09+00:00</published>
-    <summary></summary>
-    <link href="https://hax.camp/convince-my-hippo"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
