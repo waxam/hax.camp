@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>hax.camp</title>
-  <link href="https://btopro.github.io/hax-camp/atom.xml" rel="self" />
+  <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
   <updated>2019-05-29T00:22:44+00:00</updated>
   <author>
-      <name></name>
+      <name>btopro</name>
   </author>
-  <id>https://btopro.github.io/hax-camp/feed</id>
+  <id>https://hax.camp/feed</id>
   <entry>
     <title>hax-camp</title>
-    <id>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</id>
+    <id>https://hax.camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</id>
     <updated>2019-05-29T00:22:44+00:00</updated>
     <published>2019-05-29T00:08:49+00:00</published>
     <summary>Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT</summary>
-    <link href="https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0"/>
+    <link href="https://hax.camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0"/>
     
     <content type="html">
       <![CDATA[ Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT ]]>
@@ -22,23 +22,23 @@
   </entry>
   <entry>
     <title>Why should I attend</title>
-    <id>https://btopro.github.io/hax-camp/why-attend</id>
-    <updated>2019-05-29T00:24:41+00:00</updated>
+    <id>https://hax.camp/why-attend</id>
+    <updated>2019-05-29T00:32:36+00:00</updated>
     <published>2019-05-29T00:22:36+00:00</published>
-    <summary>Why yo?</summary>
-    <link href="https://btopro.github.io/hax-camp/why-attend"/>
+    <summary>Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor (oh mai)</summary>
+    <link href="https://hax.camp/why-attend"/>
     
     <content type="html">
-      <![CDATA[ Why yo? ]]>
+      <![CDATA[ Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor (oh mai) ]]>
     </content>
   </entry>
   <entry>
     <title>When?</title>
-    <id>https://btopro.github.io/hax-camp/when-</id>
+    <id>https://hax.camp/when-</id>
     <updated>2019-05-29T00:22:44+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>Mid September 2019</summary>
-    <link href="https://btopro.github.io/hax-camp/when-"/>
+    <link href="https://hax.camp/when-"/>
     
     <content type="html">
       <![CDATA[ Mid September 2019 ]]>
@@ -46,11 +46,11 @@
   </entry>
   <entry>
     <title>Where?</title>
-    <id>https://btopro.github.io/hax-camp/where-</id>
+    <id>https://hax.camp/where-</id>
     <updated>2019-05-29T00:22:44+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.</summary>
-    <link href="https://btopro.github.io/hax-camp/where-"/>
+    <link href="https://hax.camp/where-"/>
     
     <content type="html">
       <![CDATA[ State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make. ]]>
@@ -58,11 +58,11 @@
   </entry>
   <entry>
     <title>Who?</title>
-    <id>https://btopro.github.io/hax-camp/who-</id>
+    <id>https://hax.camp/who-</id>
     <updated>2019-05-29T00:22:44+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/hax-camp/who-"/>
+    <link href="https://hax.camp/who-"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -70,11 +70,11 @@
   </entry>
   <entry>
     <title>Unconference?</title>
-    <id>https://btopro.github.io/hax-camp/unconference-</id>
+    <id>https://hax.camp/unconference-</id>
     <updated>2019-05-29T00:22:44+00:00</updated>
     <published>2019-05-29T00:22:36+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/hax-camp/unconference-"/>
+    <link href="https://hax.camp/unconference-"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -82,11 +82,11 @@
   </entry>
   <entry>
     <title>CoC</title>
-    <id>https://btopro.github.io/hax-camp/coc</id>
+    <id>https://hax.camp/coc</id>
     <updated>2019-05-29T00:22:44+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...</summary>
-    <link href="https://btopro.github.io/hax-camp/coc"/>
+    <link href="https://hax.camp/coc"/>
     
     <content type="html">
       <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously... ]]>

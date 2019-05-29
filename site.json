@@ -1,12 +1,12 @@
 {
     "id": "7091efcd-8d42-42d7-9105-9bc5d30932e1",
     "title": "hax.camp",
-    "author": "",
+    "author": "btopro",
     "description": "HAXcamp",
     "license": "by-sa",
     "metadata": {
         "siteName": "hax-camp",
-        "domain": "https:\/\/btopro.github.io\/hax-camp",
+        "domain": "https:\/\/hax.camp",
         "created": 1559088529,
         "updated": 1559089364,
         "theme": {
@@ -96,20 +96,22 @@
             "order": 1,
             "parent": null,
             "title": "Why should I attend",
-            "description": "Why yo?",
+            "description": "Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor (oh mai)",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559089481,
+                "updated": 1559089956,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
+                    "headings": 1,
                     "paragraphs": 1,
                     "schema": [],
                     "tags": {
                         "p": 1,
+                        "ul": 1,
+                        "h2": 1,
                         "meme-maker": 1
                     },
-                    "elements": 2
+                    "elements": 4
                 }
             }
         },
