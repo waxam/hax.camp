@@ -3,7 +3,7 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2019-05-29T01:00:55+00:00</updated>
+  <updated>2019-05-29T01:01:24+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
@@ -23,13 +23,13 @@
   <entry>
     <title>Register</title>
     <id>https://hax.camp/register</id>
-    <updated>2019-05-29T01:01:24+00:00</updated>
+    <updated>2019-05-29T01:03:05+00:00</updated>
     <published>2019-05-29T00:59:02+00:00</published>
-    <summary></summary>
+    <summary>Coming soon.. but seriously you'll want to register</summary>
     <link href="https://hax.camp/register"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Coming soon.. but seriously you'll want to register ]]>
     </content>
   </entry>
   <entry>
@@ -42,18 +42,6 @@
     
     <content type="html">
       <![CDATA[ Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Convince my Hippo</title>
-    <id>https://hax.camp/why-should-i-attend</id>
-    <updated>2019-05-29T01:00:55+00:00</updated>
-    <published>2019-05-29T01:00:30+00:00</published>
-    <summary></summary>
-    <link href="https://hax.camp/why-should-i-attend"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
   <entry>

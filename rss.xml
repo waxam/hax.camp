@@ -6,7 +6,7 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 01:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 01:01:24 +0000</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>hax-camp</title>
@@ -22,7 +22,7 @@
       <title>Register</title>
       <link>https://hax.camp/register</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ Coming soon.. but seriously you'll want to register ]]>
       </description>
       <category></category>
       <guid>https://hax.camp/register</guid>
@@ -36,16 +36,6 @@
       </description>
       <category></category>
       <guid>https://hax.camp/why-attend</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Convince my Hippo</title>
-      <link>https://hax.camp/why-should-i-attend</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://hax.camp/why-should-i-attend</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>

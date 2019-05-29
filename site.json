@@ -96,10 +96,21 @@
             "order": 1,
             "parent": null,
             "title": "Register",
-            "description": "",
+            "description": "Coming soon.. but seriously you'll want to register",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1559091684
+                "updated": 1559091785,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "meme-maker": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {
@@ -126,19 +137,6 @@
                     },
                     "elements": 5
                 }
-            }
-        },
-        {
-            "id": "item-a70aec57-2a5f-4a34-b158-5263079e5bff",
-            "indent": 0,
-            "location": "pages\/why-should-i-attend\/index.html",
-            "order": 3,
-            "parent": null,
-            "title": "Convince my Hippo",
-            "description": "",
-            "metadata": {
-                "created": 1559091630,
-                "updated": 1559091655
             }
         },
         {
