@@ -71,13 +71,12 @@
             "location": "pages\/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
+            "title": "",
             "description": "",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559088529
+                "updated": 1559088874
             }
         }
-    ],
-    "location": "\/sites\/hax-camp\/index.html"
+    ]
 }
