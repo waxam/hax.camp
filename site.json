@@ -92,14 +92,14 @@
         {
             "id": "item-30f01efd-004b-44b7-80ed-36395b6b2878",
             "indent": 0,
-            "location": "pages\/register\/index.html",
+            "location": "pages\/why-attend\/index.html",
             "order": 1,
             "parent": null,
-            "title": "Register",
-            "description": "Who should come?",
+            "title": "Why should I attend",
+            "description": "Why yo?",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559089467,
+                "updated": 1559089481,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
