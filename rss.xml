@@ -6,7 +6,7 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/hax-camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 00:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 00:22:44 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/hax-camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>hax-camp</title>
@@ -16,6 +16,16 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Register</title>
+      <link>https://btopro.github.io/hax-camp/register</link>
+      <description>
+          <![CDATA[ Who should come? ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/register</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,16 +56,6 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/hax-camp/who-</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Register</title>
-      <link>https://btopro.github.io/hax-camp/register</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/hax-camp/register</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>

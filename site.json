@@ -96,10 +96,21 @@
             "order": 1,
             "parent": null,
             "title": "Register",
-            "description": "",
+            "description": "Who should come?",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559089364
+                "updated": 1559089467,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "meme-maker": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {
