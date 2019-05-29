@@ -68,14 +68,14 @@
         {
             "id": "item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0",
             "indent": 0,
-            "location": "pages\/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0\/index.html",
+            "location": "pages\/hax-camp\/index.html",
             "order": 0,
             "parent": null,
             "title": "hax-camp",
             "description": "Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559091684,
+                "updated": 1559091809,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
