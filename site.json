@@ -8,7 +8,7 @@
         "siteName": "hax-camp",
         "domain": "https:\/\/btopro.github.io\/hax-camp",
         "created": 1559088529,
-        "updated": 1559088529,
+        "updated": 1559089222,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -75,7 +75,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559089188,
+                "updated": 1559089222,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -87,6 +87,58 @@
                     },
                     "elements": 7
                 }
+            }
+        },
+        {
+            "id": "item-9e3d6381-4196-4eee-81c7-10fcd55d7867",
+            "indent": 0,
+            "location": "pages\/when-\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "When?",
+            "description": "",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559089222
+            }
+        },
+        {
+            "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
+            "indent": 0,
+            "location": "pages\/where-\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Where?",
+            "description": "",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559089222
+            }
+        },
+        {
+            "id": "item-ce67fd29-ff14-48cf-8fd9-74f97ce6f679",
+            "indent": 0,
+            "location": "pages\/who-\/index.html",
+            "order": 3,
+            "parent": null,
+            "title": "Who?",
+            "description": "",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559089222
+            }
+        },
+        {
+            "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
+            "indent": 0,
+            "location": "pages\/coc\/index.html",
+            "order": 4,
+            "parent": null,
+            "title": "CoC",
+            "description": "",
+            "metadata": {
+                "created": 1559089222,
+                "updated": 1559089222
             }
         }
     ]
