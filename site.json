@@ -187,19 +187,6 @@
             }
         },
         {
-            "id": "item-ce67fd29-ff14-48cf-8fd9-74f97ce6f679",
-            "indent": 0,
-            "location": "pages\/who-\/index.html",
-            "order": 5,
-            "parent": null,
-            "title": "Who?",
-            "description": "",
-            "metadata": {
-                "created": 1559089222,
-                "updated": 1559090049
-            }
-        },
-        {
             "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
             "indent": 0,
             "location": "pages\/unconference-\/index.html",
