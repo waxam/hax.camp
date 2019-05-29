@@ -96,10 +96,20 @@
             "order": 1,
             "parent": null,
             "title": "When?",
-            "description": "",
+            "description": "Mid September 2019",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089222
+                "updated": 1559089284,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {
