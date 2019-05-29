@@ -3,7 +3,7 @@
   <title>hax.camp</title>
   <link href="https://btopro.github.io/hax-camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2019-05-29T00:08:49+00:00</updated>
+  <updated>2019-05-29T00:20:22+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -18,6 +18,54 @@
     
     <content type="html">
       <![CDATA[ Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>When?</title>
+    <id>https://btopro.github.io/hax-camp/when-</id>
+    <updated>2019-05-29T00:20:22+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/hax-camp/when-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Where?</title>
+    <id>https://btopro.github.io/hax-camp/where-</id>
+    <updated>2019-05-29T00:20:22+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/hax-camp/where-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Who?</title>
+    <id>https://btopro.github.io/hax-camp/who-</id>
+    <updated>2019-05-29T00:20:22+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/hax-camp/who-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>CoC</title>
+    <id>https://btopro.github.io/hax-camp/coc</id>
+    <updated>2019-05-29T00:21:04+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary>Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...</summary>
+    <link href="https://btopro.github.io/hax-camp/coc"/>
+    
+    <content type="html">
+      <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously... ]]>
     </content>
   </entry>
 </feed>

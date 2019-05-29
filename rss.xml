@@ -6,7 +6,7 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/hax-camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 00:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 00:20:22 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/hax-camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>hax-camp</title>
@@ -16,6 +16,46 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When?</title>
+      <link>https://btopro.github.io/hax-camp/when-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/when-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where?</title>
+      <link>https://btopro.github.io/hax-camp/where-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/where-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who?</title>
+      <link>https://btopro.github.io/hax-camp/who-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/who-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoC</title>
+      <link>https://btopro.github.io/hax-camp/coc</link>
+      <description>
+          <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously... ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/hax-camp/coc</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>

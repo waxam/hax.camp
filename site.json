@@ -135,10 +135,20 @@
             "order": 4,
             "parent": null,
             "title": "CoC",
-            "description": "",
+            "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089222
+                "updated": 1559089264,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [],
+                    "tags": {
+                        "p": 3
+                    },
+                    "elements": 3
+                }
             }
         }
     ]
