@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hax.camp</title>
+  <link href="https://btopro.github.io/hax-camp/atom.xml" rel="self" />
+  <subtitle></subtitle>
+  <updated>2019-05-29T00:08:49+00:00</updated>
+  <author>
+      <name></name>
+  </author>
+  <id>https://btopro.github.io/hax-camp/feed</id>
+  <entry>
+    <title>New page</title>
+    <id>https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0</id>
+    <updated>2019-05-29T00:08:49+00:00</updated>
+    <published>2019-05-29T00:08:49+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/hax-camp/item-2741639a-bbf6-458f-b6ae-ea1c2e39a5b0"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+</feed>
