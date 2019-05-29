@@ -8,7 +8,7 @@
         "siteName": "hax-camp",
         "domain": "https:\/\/hax.camp",
         "created": 1559088529,
-        "updated": 1559089364,
+        "updated": 1559090049,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -75,7 +75,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp).HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING IT",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1559089364,
+                "updated": 1559090049,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -99,7 +99,7 @@
             "description": "Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor (o",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559090036,
+                "updated": 1559090049,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -116,16 +116,29 @@
             }
         },
         {
+            "id": "item-06ae0dc3-8c3d-4311-9f8a-a1a4ee8e0057",
+            "indent": 0,
+            "location": "pages\/convince-my-hippo\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Convince my Hippo",
+            "description": "",
+            "metadata": {
+                "created": 1559090049,
+                "updated": 1559090049
+            }
+        },
+        {
             "id": "item-9e3d6381-4196-4eee-81c7-10fcd55d7867",
             "indent": 0,
             "location": "pages\/when-\/index.html",
-            "order": 2,
+            "order": 3,
             "parent": null,
             "title": "When?",
             "description": "Mid September 2019",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089364,
+                "updated": 1559090049,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -142,13 +155,13 @@
             "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
             "indent": 0,
             "location": "pages\/where-\/index.html",
-            "order": 3,
+            "order": 4,
             "parent": null,
             "title": "Where?",
             "description": "State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089364,
+                "updated": 1559090049,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -165,39 +178,39 @@
             "id": "item-ce67fd29-ff14-48cf-8fd9-74f97ce6f679",
             "indent": 0,
             "location": "pages\/who-\/index.html",
-            "order": 4,
+            "order": 5,
             "parent": null,
             "title": "Who?",
             "description": "",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089364
+                "updated": 1559090049
             }
         },
         {
             "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
             "indent": 0,
             "location": "pages\/unconference-\/index.html",
-            "order": 5,
+            "order": 6,
             "parent": null,
             "title": "Unconference?",
             "description": "",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559089364
+                "updated": 1559090049
             }
         },
         {
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": 6,
+            "order": 7,
             "parent": null,
             "title": "CoC",
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1559089364,
+                "updated": 1559090049,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
