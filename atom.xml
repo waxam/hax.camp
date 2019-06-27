@@ -132,21 +132,19 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Where?</title>
     <id>https://hax.camp/where-</id>
-    <updated>2019-05-28T19:01:24-06:00</updated>
+    <updated>2019-06-27T14:39:35-06:00</updated>
     <published>2019-05-28T18:20:22-06:00</published>
-    <summary>State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.  </summary>
+    <summary>Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on interest in furthering open source technology efforts</summary>
     <link href="https://hax.camp/where-"/>
     
     <content type="html">
-      <![CDATA[ <p>State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.</p>
-<html-block style="display: block; width: 100%;">  <span><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24166.544762574016!2d-77.87008105200869!3d40.78801307669812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89cea899c13bdb73%3A0x9ce1c6c2833c8091!2sState+College%2C+PA!5e0!3m2!1sen!2sus!4v1559090766780!5m2!1sen!2sus" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-</span>
+      <![CDATA[ <p>Duke University in Durham North Carolina.</p>
+<html-block style="display: block; width: 100%;">  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d417.18166325226474!2d-78.93719445875536!3d36.00255485006558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6b201eb327f%3A0xb21f1655ee1ca38d!2sDuke+University!5e0!3m2!1sen!2sus!4v1561667853255!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+
+
 </html-block>
 <h2 class="hax-active">Why is it here you might ask?</h2>
-<p>Well, a lot of awesome web components developers live in this area <i><b>*cough*</b>
-</i>
-. Also, it has to be somewhere and why not <b>Happy Valley</b>
-? HAX originated in this region so its fitting that an event with its name would show up here too!</p>
+<p>Duke has graciously offered to host the first ever HAX Camp based on interest in furthering open source technology efforts at the university surrounding web components and to foster community with other web component developers.</p>
  ]]>
     </content>
   </entry>
