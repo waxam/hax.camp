@@ -6,87 +6,232 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 01:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 19:01:24 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>hax-camp</title>
-      <link>https://hax.camp/hax-camp</link>
-      <description>
-          <![CDATA[ Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a ]]>
-      </description>
-      <category></category>
-      <guid>https://hax.camp/hax-camp</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Register</title>
       <link>https://hax.camp/register</link>
       <description>
-          <![CDATA[ Coming soon.. but seriously you'll want to register ]]>
+          <![CDATA[ <p>Coming soon.. but seriously you'll want to register</p>
+<meme-maker image-url="https://media1.giphy.com/media/oWjyixDbWuAk8/giphy.gif" top-text="one of us" bottom-text="one of us" style="width: 50%;"></meme-maker>
+ ]]>
       </description>
       <category></category>
       <guid>https://hax.camp/register</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why should I attend</title>
-      <link>https://hax.camp/why-attend</link>
-      <description>
-          <![CDATA[ Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor ]]>
-      </description>
-      <category></category>
-      <guid>https://hax.camp/why-attend</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2019 18:59:02 -0600</pubDate>
     </item>
     <item>
       <title>Convince my Hippo</title>
       <link>https://hax.camp/convince-my-hippo</link>
       <description>
-          <![CDATA[ HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man ]]>
+          <![CDATA[ <p>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:</p>
+<ul><li>Web components can be used in any Content Management System (CMS) or Front End library you use currently!</li>
+
+<li>Web components augment existing workflows, helping your team to work smarter, not harder, by building reusable, cross project components</li>
+<li>Eventually, web components CAN replicate your front end stack, but only if you want them to.</li>
+<li>Web components are a standard, they are only going to improve and increase in adoption (less framework retraining / churn).</li>
+<li>Experts from some of the largest web component libraries will be there.</li>
+<li>Web components reduce costs, improve transparency, are highly accessible, and generally just make web development fun again (and you want happy employees don't you!?)</li>
+</ul>
+<meme-maker image-url="https://media2.giphy.com/media/jKgPsc0ZlqNTa/giphy.gif" top-text="HAX.camp?!" bottom-text="Totes you should go!" style="width: 75%;"></meme-maker>
+ ]]>
       </description>
       <category></category>
       <guid>https://hax.camp/convince-my-hippo</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2019 18:34:09 -0600</pubDate>
     </item>
     <item>
-      <title>When?</title>
-      <link>https://hax.camp/when-</link>
+      <title>Why should I attend</title>
+      <link>https://hax.camp/why-attend</link>
       <description>
-          <![CDATA[ Mid September 2019 ]]>
+          <![CDATA[ <h3 class="hax-active">Why should I come</h3>
+<ul><li>Learn from others about how they are using web components<br/></li>
+<li>Learn about <a href="https://www.patternfly.org/">PatternFly Elements</a>
+ from their web component pros</li>
+
+
+
+
+
+<li>Learn about All things <a href="https://github.com/elmsln/haxcms">HAXTHEWeb</a>
+ and have community with other users</li>
+
+
+
+
+
+<li>See the future of OER with practical applications of web components</li>
+<li>Get trained on using Web components and different libraries</li>
+
+
+
+
+
+</ul>
+<h2>Who should come?</h2>
+<meme-maker image-url="https://live.staticflickr.com/4481/37249987684_d9efac206b_b.jpg" top-text="Everybody" bottom-text="everybody!" style="width: 25%;"></meme-maker>
+<p>No but <a href="https://homestarrunner.com/">"sewe-us-lee you guys"</a>
+
+, everyone should come to HAX camp! HAX camp is for all skill levels. The only requirement is that you are interested in web components and learning more about them!</p>
+ ]]>
       </description>
       <category></category>
-      <guid>https://hax.camp/when-</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where?</title>
-      <link>https://hax.camp/where-</link>
-      <description>
-          <![CDATA[ State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.   ]]>
-      </description>
-      <category></category>
-      <guid>https://hax.camp/where-</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://hax.camp/why-attend</guid>
+      <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
     </item>
     <item>
       <title>Unconference?</title>
       <link>https://hax.camp/unconference-</link>
       <description>
-          <![CDATA[ If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there ]]>
+          <![CDATA[ <p>If you've never been, they are awesome. here's a basic definition from Wikipedia.</p>
+<wikipedia-query show-title="show-title" search="Unconference" render-as="content" style="width: 100%;" search-response="[object Object]"></wikipedia-query>
+<p>Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there are <b><i>some</i>
+ </b>
+planned session items but it is largely up to the group in attendance as to what direction it goes.</p>
+<p>If 2 people showed up wanting to talk about how StencilJS elements data binding works in React? Then that'd be enough to have a conversation and call a session. If everyone wanted to learn about the Theming layer in HAXcms, that'd be on the schedule.</p>
+<p>The only requirements of the Unconference are..</p>
+<ul><li>Be respectful, but vote with your feet. If a conversation is not the one you wanted, find one you do. Participants are empowered to form the optimal conversations to make the most of the day for them.</li>
+
+<li>Keep on point. If a session was called about a topic, try and stick to it unless the group wants to wander to other topics.</li>
+<li>It must be related to <i>Web components</i>
+ in some fashion.</li>
+</ul>
+<p><span style="caret-color: rgb(0, 0, 0);">Our Unconference Format</span></p>
+<ul><li><span style="caret-color: rgb(0, 0, 0);">We will start the day with 30 minutes of saying who we are and what we are interested in learning from the day.</span></li>
+<li><span style="caret-color: rgb(0, 0, 0);">We will then have 10 minutes for people to build the schedule by filling out large poster cards. After which time everyone who wishes to call a session gives an elevator pitch for it.</span></li>
+<li><span style="caret-color: rgb(0, 0, 0);">We will then take 10 minutes and build the schedule on the wall.</span></li>
+<li>We have now created a conference and the day commences</li>
+</ul>
+ ]]>
       </description>
       <category></category>
       <guid>https://hax.camp/unconference-</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
+    </item>
+    <item>
+      <title>When?</title>
+      <link>https://hax.camp/when-</link>
+      <description>
+          <![CDATA[ <p>Mid September 2019</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/when-</guid>
+      <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
+    </item>
+    <item>
+      <title>Where?</title>
+      <link>https://hax.camp/where-</link>
+      <description>
+          <![CDATA[ <p>State College Pennsylvania. It's in the middle of the state next to a giant university. There's an airport, cows, and most importantly, web components discussions to be had and new friends to make.</p>
+<html-block style="display: block; width: 100%;">  <span><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24166.544762574016!2d-77.87008105200869!3d40.78801307669812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89cea899c13bdb73%3A0x9ce1c6c2833c8091!2sState+College%2C+PA!5e0!3m2!1sen!2sus!4v1559090766780!5m2!1sen!2sus" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</span>
+</html-block>
+<h2 class="hax-active">Why is it here you might ask?</h2>
+<p>Well, a lot of awesome web components developers live in this area <i><b>*cough*</b>
+</i>
+. Also, it has to be somewhere and why not <b>Happy Valley</b>
+? HAX originated in this region so its fitting that an event with its name would show up here too!</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/where-</guid>
+      <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
     </item>
     <item>
       <title>CoC</title>
       <link>https://hax.camp/coc</link>
       <description>
-          <![CDATA[ Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge ]]>
+          <![CDATA[ <p>Code of Conduct.</p>
+<p>Don't troll people by showing VDOM and everything will be cool.</p>
+<p>No but seriously...</p>
+<h2>Our pledge</h2>
+<p>
+In the interest of fostering an open and welcoming environment, we as organizers pledge to making participation in our event as awesome as we possibly can.
+It is the policy of hax-camp to maintain an environment free of harassment and free of discrimination against any person because of age, race, color, ancestry, national origin, religion,
+creed, service in the uniformed services (as defined in state and federal law), veteran status, sex, sexual orientation,
+marital or family status, pregnancy, pregnancy-related conditions, physical or mental disability, gender, perceived gender,
+gender identity, genetic information or political ideology.
+</p>
+<p>Discriminatory conduct and harassment will not be tolerated at our event.</p>
+<h2 class="hax-active">Our standards</h2>
+<h3 class="hax-active">How you will keep our community awesome:</h3>
+<ul><li>Showing empathy to everyone</li>
+
+<li>Being respectful of differing viewpoints and experiences</li>
+
+<li>Accepting constructive criticism</li>
+
+<li>Acting in the best interests of the community</li>
+</ul>
+<h3 class="hax-active">Behaviors our community will not tolerate:</h3>
+<ul><li>Harassment - public or private</li>
+
+<li>Unwelcome sexual attention or advances</li>
+
+<li>Trolling - derogatory interactions and personal or political attacks</li>
+
+<li>Doxing - publishing others' private information without permission</li>
+
+<li>Any conduct reasonably considered inappropriate in professional settings</li>
+</ul>
+<h2 class="hax-active">Our responsibilities</h2>
+<p>
+Event organizers are responsible for clarifying the standards of acceptable behavior and are expected
+to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+
+Organizers have the right to remove or modify comments, commits, code, documentation,
+issues, and other contributions that are not aligned to this Code of Conduct.
+</p>
+<h3>Scope</h3>
+<p>
+This Code of Conduct applies both within project spaces and in spaces where an individual is 
+representing the project or its community. Examples of representing a project or community include using 
+an official project e-mail address, posting via an official social media account, or acting as an official 
+representative at an event. Representation of a project may be further defined and clarified 
+by project maintainers.
+</p>
+<p>The hax-camp Code of Conduct applies to anyone involved in the event, including event organizers.
+</p>
+<h3>Enforcement</h3>
+<p>
+Instances of behavior which violates the hax-camp Code of Conduct may be reported by contacting 
+project leadership at bryan@waxam.io. The event leadership will review and investigate all complaints, and will 
+respond in a way that it deems appropriate. The event leadership is obligated to maintain 
+confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies 
+may be posted separately.
+</p>
+<p>The hax-camp Code of Conduct was originally produced in the United States of America and operates based on US legal norms
+which presumes innocence until guilt is proven.
+</p>
+<h3>CoC attribution</h3>
+<p>This Code of Conduct has been forked from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4</p>
+ ]]>
       </description>
       <category></category>
       <guid>https://hax.camp/coc</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
+    </item>
+    <item>
+      <title>hax-camp</title>
+      <link>https://hax.camp/hax-camp</link>
+      <description>
+          <![CDATA[ <p>Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.</p>
+<meme-maker image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="BC U new" bottom-text="it wood hapn" style="width: 50%; margin: 0px auto; display: block;"></meme-maker>
+<p>HAX camp is a first of its kind <i><b>unconference</b>
+
+</i>
+
+ dedicated to all thing Web components.</p>
+<p>Have you made something cool with Web components and want to show off? BRING IT</p>
+<p>Do you want to learn more about web components? BRING THAT TOO.</p>
+<p>Curious about all things HAXTheWeb. WELL WE WILL BE THERE.</p>
+<p>HAX Camp is dedicated to all the parts of the stack that relate to HAX.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/hax-camp</guid>
+      <pubDate>Tue, 28 May 2019 18:08:49 -0600</pubDate>
     </item>
   </channel>
 </rss>

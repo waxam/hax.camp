@@ -122,20 +122,21 @@
             "order": 2,
             "parent": null,
             "title": "Why should I attend",
-            "description": "Why should I comeGet training in WCFactory from the people behind #HAXTheWebLearn from others about how they are using web componentsLearn about HAXiam, HAXcms, and HAXeditor",
+            "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about\u00a0All things\u00a0HAXTHEWeb\u00a0and have community ",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1559091684,
+                "updated": 1561667752,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 2,
+                    "headings": 2,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "p": 2,
+                        "h3": 1,
                         "ul": 1,
                         "h2": 1,
-                        "meme-maker": 1
+                        "meme-maker": 1,
+                        "p": 1
                     },
                     "elements": 5
                 }
