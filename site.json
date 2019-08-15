@@ -256,19 +256,22 @@
             "order": "6",
             "parent": null,
             "title": "Getting here",
-            "description": "hax-camp is being hosted at Duke University in the Bostock Library, Jones Open Lab\u00a0\u00a0(Floor 1 - The\/Edge).",
+            "description": "hax-camp will be held at the Duke University\u00a0Bostock Library, Jones Open Lab\u00a0\u00a0(Floor 1 - The\/Edge)\u00a0on October 7th and 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Cen",
             "metadata": {
                 "created": 1565888234,
-                "updated": 1565888484,
+                "updated": 1565889980,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
+                    "headings": 3,
+                    "paragraphs": 4,
                     "schema": [],
                     "tags": {
-                        "p": 1
+                        "p": 4,
+                        "blockquote": 1,
+                        "iframe": 1,
+                        "h3": 3
                     },
-                    "elements": 1
+                    "elements": 9
                 }
             }
         },
