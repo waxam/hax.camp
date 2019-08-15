@@ -14,7 +14,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1565888006,
+            "updated": 1565888077,
             "settings": {
                 "pathauto": false
             },
@@ -95,7 +95,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1565888006,
+                "updated": 1565888076,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -119,7 +119,7 @@
             "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565888006,
+                "updated": 1565888076,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -145,7 +145,7 @@
             "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about\u00a0All things\u00a0HAXTHEWeb\u00a0and have community ",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565888006,
+                "updated": 1565888077,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -172,7 +172,7 @@
             "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
             "metadata": {
                 "created": 1559090049,
-                "updated": 1565888006,
+                "updated": 1565888077,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -197,7 +197,7 @@
             "description": "Registration will open the week of August 19th.",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1565888050,
+                "updated": 1565888077,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -212,16 +212,29 @@
             }
         },
         {
+            "id": "item-305b60c1-ebb0-420b-a5d9-466b952ac357",
+            "indent": 0,
+            "location": "pages\/schedule\/index.html",
+            "order": "5",
+            "parent": null,
+            "title": "Schedule",
+            "description": "",
+            "metadata": {
+                "created": 1565888077,
+                "updated": 1565888077
+            }
+        },
+        {
             "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
             "indent": 0,
             "location": "pages\/unconference-\/index.html",
-            "order": "5",
+            "order": "6",
             "parent": null,
             "title": "Whats an Unconference?",
             "description": "If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565888006,
+                "updated": 1565888077,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -240,13 +253,13 @@
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": "6",
+            "order": "7",
             "parent": null,
             "title": "Code of conduct",
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565888006,
+                "updated": 1565888077,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
