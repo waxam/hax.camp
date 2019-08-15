@@ -117,20 +117,20 @@
             "order": "0",
             "parent": null,
             "title": "hax-camp",
-            "description": "Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a",
+            "description": "hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING ITDo you want to learn more ab",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1565888083,
+                "updated": 1565888155,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 6,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 6,
+                        "p": 5,
                         "meme-maker": 1
                     },
-                    "elements": 7
+                    "elements": 6
                 }
             }
         },

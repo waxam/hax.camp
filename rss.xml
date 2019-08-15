@@ -6,7 +6,7 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 10:54:37 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 10:54:43 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Schedule</title>
@@ -51,6 +51,35 @@
       <pubDate>Tue, 28 May 2019 18:34:09 -0600</pubDate>
     </item>
     <item>
+      <title>Whats an Unconference?</title>
+      <link>https://hax.camp/unconference-</link>
+      <description>
+          <![CDATA[ <p>If you've never been, they are awesome. here's a basic definition from Wikipedia.</p>
+<wikipedia-query show-title="show-title" search="Unconference" render-as="content" style="width: 100%;" search-response="[object Object]"></wikipedia-query>
+<p>Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there are <b><i>some</i>
+ </b>
+planned session items but it is largely up to the group in attendance as to what direction it goes.</p>
+<p>If 2 people showed up wanting to talk about how StencilJS elements data binding works in React? Then that'd be enough to have a conversation and call a session. If everyone wanted to learn about the Theming layer in HAXcms, that'd be on the schedule.</p>
+<p>The only requirements of the Unconference are..</p>
+<ul><li>Be respectful, but vote with your feet. If a conversation is not the one you wanted, find one you do. Participants are empowered to form the optimal conversations to make the most of the day for them.</li>
+
+<li>Keep on point. If a session was called about a topic, try and stick to it unless the group wants to wander to other topics.</li>
+<li>It must be related to <i>Web components</i>
+ in some fashion.</li>
+</ul>
+<p><span style="caret-color: rgb(0, 0, 0);">Our Unconference Format</span></p>
+<ul><li><span style="caret-color: rgb(0, 0, 0);">We will start the day with 30 minutes of saying who we are and what we are interested in learning from the day.</span></li>
+<li><span style="caret-color: rgb(0, 0, 0);">We will then have 10 minutes for people to build the schedule by filling out large poster cards. After which time everyone who wishes to call a session gives an elevator pitch for it.</span></li>
+<li><span style="caret-color: rgb(0, 0, 0);">We will then take 10 minutes and build the schedule on the wall.</span></li>
+<li>We have now created a conference and the day commences</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/unconference-</guid>
+      <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
+    </item>
+    <item>
       <title>Why attend</title>
       <link>https://hax.camp/why-attend</link>
       <description>
@@ -87,35 +116,6 @@
       </description>
       <category></category>
       <guid>https://hax.camp/why-attend</guid>
-      <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
-    </item>
-    <item>
-      <title>Whats an Unconference?</title>
-      <link>https://hax.camp/unconference-</link>
-      <description>
-          <![CDATA[ <p>If you've never been, they are awesome. here's a basic definition from Wikipedia.</p>
-<wikipedia-query show-title="show-title" search="Unconference" render-as="content" style="width: 100%;" search-response="[object Object]"></wikipedia-query>
-<p>Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there are <b><i>some</i>
- </b>
-planned session items but it is largely up to the group in attendance as to what direction it goes.</p>
-<p>If 2 people showed up wanting to talk about how StencilJS elements data binding works in React? Then that'd be enough to have a conversation and call a session. If everyone wanted to learn about the Theming layer in HAXcms, that'd be on the schedule.</p>
-<p>The only requirements of the Unconference are..</p>
-<ul><li>Be respectful, but vote with your feet. If a conversation is not the one you wanted, find one you do. Participants are empowered to form the optimal conversations to make the most of the day for them.</li>
-
-<li>Keep on point. If a session was called about a topic, try and stick to it unless the group wants to wander to other topics.</li>
-<li>It must be related to <i>Web components</i>
- in some fashion.</li>
-</ul>
-<p><span style="caret-color: rgb(0, 0, 0);">Our Unconference Format</span></p>
-<ul><li><span style="caret-color: rgb(0, 0, 0);">We will start the day with 30 minutes of saying who we are and what we are interested in learning from the day.</span></li>
-<li><span style="caret-color: rgb(0, 0, 0);">We will then have 10 minutes for people to build the schedule by filling out large poster cards. After which time everyone who wishes to call a session gives an elevator pitch for it.</span></li>
-<li><span style="caret-color: rgb(0, 0, 0);">We will then take 10 minutes and build the schedule on the wall.</span></li>
-<li>We have now created a conference and the day commences</li>
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>https://hax.camp/unconference-</guid>
       <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
     </item>
     <item>
@@ -217,13 +217,15 @@ which presumes innocence until guilt is proven.
       <title>hax-camp</title>
       <link>https://hax.camp/hax-camp</link>
       <description>
-          <![CDATA[ <p>Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.</p>
-<meme-maker image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="BC U new" bottom-text="it wood hapn" style="width: 50%; margin: 0px auto; display: block;"></meme-maker>
-<p>HAX camp is a first of its kind <i><b>unconference</b>
+          <![CDATA[ <p>hax-camp is a first of its kind <i><b><a href="unconference">unconference</a>
+</b>
+
 
 </i>
 
+
  dedicated to all thing Web components.</p>
+<meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable datahaxray="Meme"></meme-maker>
 <p>Have you made something cool with Web components and want to show off? BRING IT</p>
 <p>Do you want to learn more about web components? BRING THAT TOO.</p>
 <p>Curious about all things HAXTheWeb. WELL WE WILL BE THERE.</p>
