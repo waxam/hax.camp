@@ -370,7 +370,9 @@ which presumes innocence until guilt is proven.
       <title>hax-camp</title>
       <link>https://hax.camp/hax-camp</link>
       <description>
-          <![CDATA[ <p>hax-camp is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
+          <![CDATA[ <p><b>hax-camp</b>
+ is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
+
 
 
 </b>
@@ -378,7 +380,9 @@ which presumes innocence until guilt is proven.
 
 
 
+
 </i>
+
 
 
 
@@ -387,12 +391,19 @@ which presumes innocence until guilt is proven.
 .</p>
 <meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable="" datahaxray="Meme"></meme-maker>
 <p>Have you made some cool <i><b>web components</b>
+
 </i>
+
  and want to show off? Join us!</p>
 <p>Do you want to learn more about web components? Join us!</p>
 <p>Want to learn more about HAX, HAXcms and all things <a href="https://haxtheweb.org/">HAXTheWeb</a>
+
 ? Join us!</p>
-<p>hax-camp is dedicated to all things web components, whether your using HAX or not.</p>
+<p><i><b>hax-camp is dedicated to all things web components</b>
+</i>
+, whether you are using HAXeditor/HAXcms or not.</p>
+<p>Why is the camp called HAX?</p>
+<p>The founders of this event think HAX is cool and it's a cool name and many of them work on a project called HAXTheWeb; short for Headless Authoring eXperience which is built out of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX specific discussions.</p>
  ]]>
       </description>
       <category></category>
