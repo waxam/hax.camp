@@ -385,14 +385,16 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>hax-camp</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-08-15T12:20:11-06:00</updated>
+    <updated>2019-08-15T12:20:20-06:00</updated>
     <published>2019-05-28T18:08:49-06:00</published>
-    <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made some cool web components and want to show off? Join us!Do you want to learn mo</summary>
+    <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made some cool web components and want to show off? Join us!Do you want to l</summary>
     <link href="https://hax.camp/hax-camp"/>
     
     <content type="html">
       <![CDATA[ <p><b>hax-camp</b>
+
  is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
+
 
 
 
@@ -402,28 +404,36 @@ which presumes innocence until guilt is proven.
 
 
 
+
 </i>
+
 
 
 
 
 
  dedicated to all thing <a href="https://open-wc.org">Web components</a>
+
 .</p>
 <meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable="" datahaxray="Meme"></meme-maker>
 <p>Have you made some cool <i><b>web components</b>
 
+
 </i>
+
 
  and want to show off? Join us!</p>
 <p>Do you want to learn more about web components? Join us!</p>
 <p>Want to learn more about HAX, HAXcms and all things <a href="https://haxtheweb.org/">HAXTheWeb</a>
 
+
 ? Join us!</p>
 <p><i><b>hax-camp is dedicated to all things web components</b>
+
 </i>
+
 , whether you are using HAXeditor/HAXcms or not.</p>
-<p>Why is the camp called HAX?</p>
+<h3 class="hax-active">Why is the camp called HAX?</h3>
 <p>The founders of this event think HAX is cool and it's a cool name and many of them work on a project called HAXTheWeb; short for Headless Authoring eXperience which is built out of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX specific discussions.</p>
  ]]>
     </content>
