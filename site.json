@@ -14,7 +14,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1565887612,
+            "updated": 1565888006,
             "settings": {
                 "pathauto": false
             },
@@ -95,7 +95,7 @@
             "description": "Yes. HAX camp (as tag, hax-camp). This HAXcms site is a WiP.HAX camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components a",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1565887611,
+                "updated": 1565888006,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -110,26 +110,28 @@
             }
         },
         {
-            "id": "item-763783ba-20ef-45ac-bd5e-8c51b2626845",
+            "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
             "indent": 0,
-            "location": "pages\/register\/index.html",
-            "order": "2",
+            "location": "pages\/details\/index.html",
+            "order": "1",
             "parent": null,
-            "title": "Registration",
-            "description": "Coming soon.. but seriously you'll want to register",
+            "title": "Details",
+            "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
             "metadata": {
-                "created": 1559091542,
-                "updated": 1565887612,
+                "created": 1559089222,
+                "updated": 1565888006,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
+                    "headings": 3,
+                    "paragraphs": 3,
                     "schema": [],
                     "tags": {
-                        "p": 1,
-                        "meme-maker": 1
+                        "h3": 2,
+                        "p": 3,
+                        "html-block": 1,
+                        "h2": 1
                     },
-                    "elements": 2
+                    "elements": 7
                 }
             }
         },
@@ -137,13 +139,13 @@
             "id": "item-30f01efd-004b-44b7-80ed-36395b6b2878",
             "indent": 0,
             "location": "pages\/why-attend\/index.html",
-            "order": "3",
+            "order": "2",
             "parent": null,
             "title": "Why attend",
             "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about\u00a0All things\u00a0HAXTHEWeb\u00a0and have community ",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565887612,
+                "updated": 1565888006,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -164,13 +166,13 @@
             "id": "item-06ae0dc3-8c3d-4311-9f8a-a1a4ee8e0057",
             "indent": 0,
             "location": "pages\/convince-my-hippo\/index.html",
-            "order": "4",
+            "order": "3",
             "parent": null,
             "title": "Convince your boss",
             "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
             "metadata": {
                 "created": 1559090049,
-                "updated": 1565887612,
+                "updated": 1565888006,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -186,28 +188,26 @@
             }
         },
         {
-            "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
+            "id": "item-763783ba-20ef-45ac-bd5e-8c51b2626845",
             "indent": 0,
-            "location": "pages\/details\/index.html",
-            "order": "6",
+            "location": "pages\/register\/index.html",
+            "order": "4",
             "parent": null,
-            "title": "Details",
-            "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
+            "title": "Registration",
+            "description": "Coming soon.. but seriously you'll want to register",
             "metadata": {
-                "created": 1559089222,
-                "updated": 1565887881,
+                "created": 1559091542,
+                "updated": 1565888006,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 3,
-                    "paragraphs": 3,
+                    "headings": 0,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "h3": 2,
-                        "p": 3,
-                        "html-block": 1,
-                        "h2": 1
+                        "p": 1,
+                        "meme-maker": 1
                     },
-                    "elements": 7
+                    "elements": 2
                 }
             }
         },
@@ -215,13 +215,13 @@
             "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
             "indent": 0,
             "location": "pages\/unconference-\/index.html",
-            "order": "7",
+            "order": "5",
             "parent": null,
             "title": "Whats an Unconference?",
             "description": "If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565887612,
+                "updated": 1565888006,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -240,13 +240,13 @@
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": "8",
+            "order": "6",
             "parent": null,
             "title": "Code of conduct",
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565887612,
+                "updated": 1565888006,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
