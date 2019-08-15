@@ -243,10 +243,22 @@
             "order": "5",
             "parent": null,
             "title": "Schedule",
-            "description": "",
+            "description": "The schedule will be fully built out by attendees the first day of each event as this is an Unconference format. Because unconferences can be nebulous if you've never been so we're going to supply a r",
             "metadata": {
                 "created": 1565888077,
-                "updated": 1565888234
+                "updated": 1565892553,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 3,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2,
+                        "h3": 3,
+                        "ul": 3
+                    },
+                    "elements": 8
+                }
             }
         },
         {

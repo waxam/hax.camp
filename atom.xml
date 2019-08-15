@@ -43,13 +43,69 @@ y<span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spa
   <entry>
     <title>Schedule</title>
     <id>https://hax.camp/schedule</id>
-    <updated>2019-08-15T10:57:14-06:00</updated>
+    <updated>2019-08-15T12:09:13-06:00</updated>
     <published>2019-08-15T10:54:37-06:00</published>
-    <summary></summary>
+    <summary>The schedule will be fully built out by attendees the first day of each event as this is an Unconference format. Because unconferences can be nebulous if you've never been so we're going to supply a r</summary>
     <link href="https://hax.camp/schedule"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>The schedule will be fully built out by attendees the first day of each event as this is an Unconference format. Because unconferences can be nebulous if you've never been so we're going to supply a rough schedule for the days as well as examples of discussions you'll be apart of.</p>
+<h3>Example / preplanned discussions</h3>
+<ul><li><b>Library usage discussion</b>
+ - Who's using what, experiences, likes/dislikes. LitElement vs PolymerElement, etc.</li>
+<li><b>Theming web components</b>
+ - more specifically this involves our use of custom properties to manage a theme layer and leveraging inheritance to support fallback styles</li>
+<li><b>HAXcms theme layer</b>
+ - Experiences in building custom themes for HAxcms entirely out of web components</li>
+<li><li><b>Light DOM vs shadow DOM</b>
+ - Pros & cons, lessons learned</li>
+<li><span style="letter-spacing: -0.48px;"><b>HAX capable elements</b>
+ - Learn how to wire design assets to HAX, how it works</span></li>
+<li><b>making hello-world</b>
+ - Creating a hello-world element with <a href="https://open-wc.org/">open-wc tooling</a>
+</li>
+<li><b>Tooling workflows</b>
+ - Rollup? Webpack? Polymer build? experience share and comparisons of <b>WCFactory</b>
+ vs <b>OpenWc</b>
+ vs others</li>
+<li><b>HAXeditor / HAXcms UX</b>
+ - discussion and roadmap prioritization</li>
+<li><b>Sakai Elements </b>
+- Where they are, where they should go next</li>
+<li><b>Monorepos vs multiple repos</b>
+ - How to manage WCs at scale with teams of developers and projects</li>
+<li><b>Bundle vs unbundle</b>
+ - When to do one vs the other, CDN discussions</li>
+</li>
+</ul>
+<h3>Monday Oct 7th 2019</h3>
+<ul><li>9:00 - 9:15 - coffee and registration</li>
+
+<li>9:15 - 9:30 - Welcome to hax-camp from organizers</li>
+<li>9:30 - 10:30 - Introductions and schedule formation</li>
+<li>10:45 - 11:30 - Slot 1 discussions / presentations</li>
+<li>11:40 - 12:15 - Slot 2 discussions / presentations</li>
+<li>12:20 - 1:20 - Lunch, HAXTheCamp talk by HAXTheWeb team</li>
+<li>1:30 - 2:10 - Slot 3 discussions / presentations</li>
+<li>2:20 - 3:00 - Slot 4 discussions / presentations</li>
+<li>3:10 - 3:50 - Slot 5 discussions / presentations</li>
+<li>4:00 - 4:30 - Debrief / share out / evening plans</li>
+<li>Evening activity</li>
+</ul>
+<h3><span style="letter-spacing: -0.48px;" class="hax-active">Tuesday Oct 8th 2019</span></h3>
+<ul><li>9:00 - 9:30 - coffee and registration</li>
+<li>9:30 - 10:15 - Schedule formation</li>
+<li>10:45 - 11:30 - Slot 1 discussions / presentations</li>
+<li>11:40 - 12:15 - Slot 2 discussions / presentations</li>
+<li>12:20 - 1:20 - Lunch, PatternFly by PFElements Team</li>
+<li>1:30 - 2:10 - Slot 3 discussions / presentations</li>
+<li>2:20 - 3:00 - Slot 4 discussions / presentations</li>
+<li>3:10 - 3:50 - Slot 5 discussions / presentations</li>
+<li>4:00 - 4:30 - Debrief / share out / evening plans</li>
+<li>Evening activity</li>
+</ul>
+<p><span style="letter-spacing: -0.48px;"><br/></span></p>
+ ]]>
     </content>
   </entry>
   <entry>
