@@ -205,21 +205,22 @@
             "order": "6",
             "parent": null,
             "title": "Where is it?",
-            "description": "Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on interest in furthering open source technology efforts",
+            "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565887612,
+                "updated": 1565887684,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 2,
+                    "headings": 3,
+                    "paragraphs": 3,
                     "schema": [],
                     "tags": {
-                        "p": 2,
+                        "h3": 2,
+                        "p": 3,
                         "html-block": 1,
                         "h2": 1
                     },
-                    "elements": 4
+                    "elements": 7
                 }
             }
         },
