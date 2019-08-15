@@ -65,15 +65,21 @@ y<span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spa
       <link>https://hax.camp/convince-my-hippo</link>
       <description>
           <![CDATA[ <p>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:</p>
-<ul><li>Web components can be used in any Content Management System (CMS) or Front End library you use currently!</li>
+<ul><li>Web components can be used in any Content Management System (CMS) or front end library you use currently!</li>
+
 
 <li>Web components augment existing workflows, helping your team to work smarter, not harder, by building reusable, cross project components</li>
-<li>Eventually, web components CAN replicate your front end stack, but only if you want them to.</li>
-<li>Web components are a standard, they are only going to improve and increase in adoption (less framework retraining / churn).</li>
-<li>Experts from some of the largest web component libraries will be there.</li>
-<li>Web components reduce costs, improve transparency, are highly accessible, and generally just make web development fun again (and you want happy employees don't you!?)</li>
+
+<li>Eventually, web components CAN replace your front end stack, but only if you want to and fit small and large scope projects.</li>
+
+<li>Web components are a W3C browser standard, they are only going to improve and increase in adoption (less framework retraining / churn).</li>
+
+<li>Experts from some of the largest web component libraries will be there. Learn from those forging the trail.</li>
+
+<li>Web components reduce costs, improve transparency, are highly accessible, and generally just make web development fun (and you want happy employees don't you!?)</li>
+
 </ul>
-<meme-maker image-url="https://media2.giphy.com/media/jKgPsc0ZlqNTa/giphy.gif" top-text="HAX.camp?!" bottom-text="Totes you should go!" style="width: 75%;"></meme-maker>
+<meme-maker image-url="https://media2.giphy.com/media/jKgPsc0ZlqNTa/giphy.gif" top-text="HAX.camp?!" bottom-text="Totes you should go!" style="width: 75%; margin: 0px auto; display: block;"></meme-maker>
  ]]>
       </description>
       <category></category>
