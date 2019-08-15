@@ -14,7 +14,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1565888234,
+            "updated": 1565893262,
             "settings": {
                 "pathauto": false
             },
@@ -95,7 +95,7 @@
             "description": "If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565888234,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -120,7 +120,7 @@
             "description": "hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made some cool web components and want to show off? Join us!Do you wa",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1565893245,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -145,7 +145,7 @@
             "description": "When is it?October 7th and 8th, 2019Where is it?Duke UniversityBostock LibraryTelecom DriveDurham, NC 27710Duke has graciously offered to host the first ever HAX Camp to increase knowled",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565890235,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -171,7 +171,7 @@
             "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb\u00a0and have communi",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565890512,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -198,7 +198,7 @@
             "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
             "metadata": {
                 "created": 1559090049,
-                "updated": 1565890599,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -223,7 +223,7 @@
             "description": "Registration will open the week of August 19th.",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1565888234,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -247,7 +247,7 @@
             "description": "The schedule will be fully built out by attendees the first day of each event as this is an Unconference format. Because unconferences can be nebulous if you've never been so we're going to supply a r",
             "metadata": {
                 "created": 1565888077,
-                "updated": 1565893022,
+                "updated": 1565893262,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 3,
@@ -272,7 +272,7 @@
             "description": "hax-camp will be held at the Duke University\u00a0Bostock Library(Floor 1)\u00a0on October 7th & 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Center lot is the closest - seeht",
             "metadata": {
                 "created": 1565888234,
-                "updated": 1565893057,
+                "updated": 1565893262,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -298,7 +298,7 @@
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565888234,
+                "updated": 1565893262,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
@@ -312,6 +312,19 @@
                     },
                     "elements": 21
                 }
+            }
+        },
+        {
+            "id": "item-b99e853d-dd72-4838-a66a-77acfe2c98db",
+            "indent": 0,
+            "location": "pages\/sponsors\/index.html",
+            "order": "8",
+            "parent": null,
+            "title": "Sponsors",
+            "description": "",
+            "metadata": {
+                "created": 1565893262,
+                "updated": 1565893262
             }
         }
     ]
