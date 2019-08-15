@@ -110,19 +110,6 @@
             }
         },
         {
-            "id": "item-450547e7-4ed3-48a0-8d12-bce3d5a58877",
-            "indent": 0,
-            "location": "pages\/details\/index.html",
-            "order": "1",
-            "parent": null,
-            "title": "Details",
-            "description": "",
-            "metadata": {
-                "created": 1565887612,
-                "updated": 1565887612
-            }
-        },
-        {
             "id": "item-763783ba-20ef-45ac-bd5e-8c51b2626845",
             "indent": 0,
             "location": "pages\/register\/index.html",

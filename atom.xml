@@ -9,18 +9,6 @@
   </author>
   <id>https://hax.camp/feed</id>
   <entry>
-    <title>Details</title>
-    <id>https://hax.camp/details</id>
-    <updated>2019-08-15T10:46:52-06:00</updated>
-    <published>2019-08-15T10:46:52-06:00</published>
-    <summary></summary>
-    <link href="https://hax.camp/details"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Registration</title>
     <id>https://hax.camp/register</id>
     <updated>2019-08-15T10:46:52-06:00</updated>
