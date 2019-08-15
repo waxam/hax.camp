@@ -188,14 +188,14 @@
         {
             "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
             "indent": 0,
-            "location": "pages\/details-1\/index.html",
+            "location": "pages\/details\/index.html",
             "order": "6",
             "parent": null,
             "title": "Details",
             "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565887715,
+                "updated": 1565887881,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
