@@ -321,10 +321,10 @@
             "order": "8",
             "parent": null,
             "title": "Sponsors",
-            "description": "",
+            "description": "Interested in helping sponsor hax-camp? Reach out to info[at]waxam.io about how you can get involved in making our camp a success!We are thankful for Duke University hosting hax-camp 2019!We are al",
             "metadata": {
                 "created": 1565893262,
-                "updated": 1565893262,
+                "updated": 1565894406,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/3450183.png",
@@ -334,7 +334,19 @@
                         "name": "3450183.png",
                         "size": 9992
                     }
-                ]
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "p": 5,
+                        "h3": 1,
+                        "img": 1
+                    },
+                    "elements": 7
+                }
             }
         }
     ]
