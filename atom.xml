@@ -9,9 +9,21 @@
   </author>
   <id>https://hax.camp/feed</id>
   <entry>
+    <title>Getting here</title>
+    <id>https://hax.camp/getting-here</id>
+    <updated>2019-08-15T10:57:14-06:00</updated>
+    <published>2019-08-15T10:57:14-06:00</published>
+    <summary></summary>
+    <link href="https://hax.camp/getting-here"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Schedule</title>
     <id>https://hax.camp/schedule</id>
-    <updated>2019-08-15T10:54:43-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-08-15T10:54:37-06:00</published>
     <summary></summary>
     <link href="https://hax.camp/schedule"/>
@@ -23,7 +35,7 @@
   <entry>
     <title>Registration</title>
     <id>https://hax.camp/register</id>
-    <updated>2019-08-15T10:54:43-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:59:02-06:00</published>
     <summary>Registration will open the week of August 19th.</summary>
     <link href="https://hax.camp/register"/>
@@ -37,7 +49,7 @@
   <entry>
     <title>Convince your boss</title>
     <id>https://hax.camp/convince-my-hippo</id>
-    <updated>2019-08-15T10:54:43-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:34:09-06:00</published>
     <summary>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man</summary>
     <link href="https://hax.camp/convince-my-hippo"/>
@@ -59,7 +71,7 @@
   <entry>
     <title>Whats an Unconference?</title>
     <id>https://hax.camp/schedule/unconference</id>
-    <updated>2019-08-15T10:56:02-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:22:36-06:00</published>
     <summary>If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there</summary>
     <link href="https://hax.camp/schedule/unconference"/>
@@ -90,7 +102,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Why attend</title>
     <id>https://hax.camp/why-attend</id>
-    <updated>2019-08-15T10:54:43-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:22:36-06:00</published>
     <summary>Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about All things HAXTHEWeb and have community </summary>
     <link href="https://hax.camp/why-attend"/>
@@ -131,7 +143,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Details</title>
     <id>https://hax.camp/details</id>
-    <updated>2019-08-15T10:54:43-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:20:22-06:00</published>
     <summary>When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i</summary>
     <link href="https://hax.camp/details"/>
@@ -154,7 +166,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Code of conduct</title>
     <id>https://hax.camp/coc</id>
-    <updated>2019-08-15T10:54:43-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:20:22-06:00</published>
     <summary>Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge</summary>
     <link href="https://hax.camp/coc"/>
@@ -230,7 +242,7 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>hax-camp</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-08-15T10:56:24-06:00</updated>
+    <updated>2019-08-15T10:57:14-06:00</updated>
     <published>2019-05-28T18:08:49-06:00</published>
     <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING ITDo you want to learn more</summary>
     <link href="https://hax.camp/hax-camp"/>

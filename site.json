@@ -14,7 +14,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1565888083,
+            "updated": 1565888234,
             "settings": {
                 "pathauto": false
             },
@@ -95,7 +95,7 @@
             "description": "If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565888162,
+                "updated": 1565888234,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -120,7 +120,7 @@
             "description": "hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING ITDo you want to learn more",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1565888184,
+                "updated": 1565888234,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -144,7 +144,7 @@
             "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565888083,
+                "updated": 1565888234,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -170,7 +170,7 @@
             "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about\u00a0All things\u00a0HAXTHEWeb\u00a0and have community ",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565888083,
+                "updated": 1565888234,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -197,7 +197,7 @@
             "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
             "metadata": {
                 "created": 1559090049,
-                "updated": 1565888083,
+                "updated": 1565888234,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -222,7 +222,7 @@
             "description": "Registration will open the week of August 19th.",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1565888083,
+                "updated": 1565888234,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -246,20 +246,33 @@
             "description": "",
             "metadata": {
                 "created": 1565888077,
-                "updated": 1565888083
+                "updated": 1565888234
+            }
+        },
+        {
+            "id": "item-1fdea501-7690-45fa-baeb-74accf3aebbb",
+            "indent": 0,
+            "location": "pages\/getting-here\/index.html",
+            "order": "6",
+            "parent": null,
+            "title": "Getting here",
+            "description": "",
+            "metadata": {
+                "created": 1565888234,
+                "updated": 1565888234
             }
         },
         {
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": "6",
+            "order": "7",
             "parent": null,
             "title": "Code of conduct",
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565888083,
+                "updated": 1565888234,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
