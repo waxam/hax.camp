@@ -88,14 +88,14 @@
         {
             "id": "item-1b05dbea-125a-4006-b956-f6ec519a4c27",
             "indent": "1",
-            "location": "pages\/unconference-\/index.html",
+            "location": "pages\/schedule\/unconference\/index.html",
             "order": "0",
             "parent": "item-305b60c1-ebb0-420b-a5d9-466b952ac357",
             "title": "Whats an Unconference?",
-            "description": "If you've never been, they are awesome. here's a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
+            "description": "If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565888083,
+                "updated": 1565888162,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
