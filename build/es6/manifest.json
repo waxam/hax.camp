@@ -1,7 +1,7 @@
 {
-    "name": "hax.camp",
-    "short_name": "hax-camp",
-    "description": "HAXcamp",
+    "name": "HAXcms",
+    "short_name": "haxcms",
+    "description": "Microsite manager for your universe!",
     "icons": [
         {
             "src": "assets\/android-icon-36x36.png",
@@ -46,9 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "/",
     "start_url": "/",
     "display": "standalone",
-    "theme_color": "#3a00ff",
-    "background_color": "#3a00ff"
+    "theme_color": "#3f51b5",
+    "background_color": "#3f51b5"
 }

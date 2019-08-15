@@ -37,72 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/schedule\/unconference\/index.html",
-        "DNHGKexj8azNfeRb8YS3Cw"
-    ],
-    [
-        "pages\/hax-camp\/index.html",
-        "NboT6i6lF6M6olrnuPEZgA"
-    ],
-    [
-        "pages\/details\/index.html",
-        "wh6Xarr11TWvCrjeetVw"
-    ],
-    [
-        "pages\/why-attend\/index.html",
-        "fJB1Wl5M10H1XukRD1FQ"
-    ],
-    [
-        "pages\/convince-my-hippo\/index.html",
-        "6JwI1w7Kj4K1vigmiHuMnw"
-    ],
-    [
-        "pages\/register\/index.html",
-        "rWf6YMGtvn8FRheNE1xOVA"
-    ],
-    [
-        "pages\/schedule\/index.html",
-        "mIvrnugJt3KUiJbDJRnMA"
-    ],
-    [
-        "pages\/getting-here\/index.html",
-        "i6BC5Wo09zn3F8koUxLMw"
-    ],
-    [
-        "pages\/coc\/index.html",
-        "a2jPTYUJ7EGnyVCm2uGbA"
-    ],
-    [
-        "pages\/sponsors\/index.html",
-        "F4SMigxpsH1N4U6tzXLQ"
-    ],
-    [
-        "index.html",
-        "wc9clVBgEELLuHjTqcgwww"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "qV5H3EbZSSjaNcnEdYcrQ"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ],
-    [
-        "files\/3450183.png",
-        "2vPNkZKZ5sW8UVQoThAcRA"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -350,3 +285,6 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
+{% if cdnRegex %}
+toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
+{% endif %}
