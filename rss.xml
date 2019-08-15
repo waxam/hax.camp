@@ -6,8 +6,18 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 10:57:14 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 12:21:02 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sponsors</title>
+      <link>https://hax.camp/sponsors</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/sponsors</guid>
+      <pubDate>Thu, 15 Aug 2019 12:21:02 -0600</pubDate>
+    </item>
     <item>
       <title>Getting here</title>
       <link>https://hax.camp/getting-here</link>

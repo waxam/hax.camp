@@ -3,11 +3,23 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2019-08-15T10:57:14-06:00</updated>
+  <updated>2019-08-15T12:21:02-06:00</updated>
   <author>
       <name>btopro</name>
   </author>
   <id>https://hax.camp/feed</id>
+  <entry>
+    <title>Sponsors</title>
+    <id>https://hax.camp/sponsors</id>
+    <updated>2019-08-15T12:21:02-06:00</updated>
+    <published>2019-08-15T12:21:02-06:00</published>
+    <summary></summary>
+    <link href="https://hax.camp/sponsors"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
   <entry>
     <title>Getting here</title>
     <id>https://hax.camp/getting-here</id>
