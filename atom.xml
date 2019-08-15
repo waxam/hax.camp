@@ -266,15 +266,17 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>hax-camp</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-08-15T10:57:14-06:00</updated>
+    <updated>2019-08-15T11:33:14-06:00</updated>
     <published>2019-05-28T18:08:49-06:00</published>
-    <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made something cool with Web components and want to show off? BRING ITDo you want to learn more</summary>
+    <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made some cool web components and want to show off? Join us!Do you want to learn more abo</summary>
     <link href="https://hax.camp/hax-camp"/>
     
     <content type="html">
       <![CDATA[ <p>hax-camp is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
 
+
 </b>
+
 
 
 
@@ -282,12 +284,17 @@ which presumes innocence until guilt is proven.
 
 
 
- dedicated to all thing Web components.</p>
+
+ dedicated to all thing <a href="https://open-wc.org">Web components</a>
+.</p>
 <meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable="" datahaxray="Meme"></meme-maker>
-<p>Have you made something cool with Web components and want to show off? BRING IT</p>
-<p>Do you want to learn more about web components? BRING THAT TOO.</p>
-<p>Curious about all things HAXTheWeb. WELL WE WILL BE THERE.</p>
-<p>HAX Camp is dedicated to all the parts of the stack that relate to HAX.</p>
+<p>Have you made some cool <i><b>web components</b>
+</i>
+ and want to show off? Join us!</p>
+<p>Do you want to learn more about web components? Join us!</p>
+<p>Want to learn more about HAX, HAXcms and all things <a href="https://haxtheweb.org/">HAXTheWeb</a>
+? Join us!</p>
+<p>hax-camp is dedicated to all things web components, whether your using HAX or not.</p>
  ]]>
     </content>
   </entry>
