@@ -141,22 +141,22 @@
             "order": "1",
             "parent": null,
             "title": "Details",
-            "description": "When is it?October 7th and 8th, 2019Where is it?Duke University in Durham North Carolina.  Why is it here you might ask?Duke has graciously offered to host the first ever HAX Camp based on i",
+            "description": "When is it?October 7th and 8th, 2019Where is it?Duke UniversityBostock LibraryTelecom DriveDurham, NC 27710Duke has graciously offered to host the first ever HAX Camp to increase knowled",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565888234,
+                "updated": 1565890235,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 3,
-                    "paragraphs": 3,
+                    "headings": 2,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
                         "h3": 2,
-                        "p": 3,
-                        "html-block": 1,
-                        "h2": 1
+                        "p": 2,
+                        "blockquote": 1,
+                        "html-block": 1
                     },
-                    "elements": 7
+                    "elements": 6
                 }
             }
         },
