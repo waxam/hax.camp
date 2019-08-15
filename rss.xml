@@ -6,13 +6,16 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 10:54:43 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 10:57:14 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Getting here</title>
       <link>https://hax.camp/getting-here</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>hax-camp is being hosted at Duke University in the <a href="https://naming.library.duke.edu/room/14181">Bostock Library, Jones Open Lab </a>
+<span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);"><a href="https://naming.library.duke.edu/room/14181"> (Floor 1 - The/Edge)</a>
+.</span></p>
+ ]]>
       </description>
       <category></category>
       <guid>https://hax.camp/getting-here</guid>
