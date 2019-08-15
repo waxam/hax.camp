@@ -9,7 +9,17 @@
     <lastBuildDate>Tue, 28 May 2019 19:01:24 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Register</title>
+      <title>Details</title>
+      <link>https://hax.camp/details</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/details</guid>
+      <pubDate>Thu, 15 Aug 2019 10:46:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Registration</title>
       <link>https://hax.camp/register</link>
       <description>
           <![CDATA[ <p>Coming soon.. but seriously you'll want to register</p>
@@ -21,7 +31,7 @@
       <pubDate>Tue, 28 May 2019 18:59:02 -0600</pubDate>
     </item>
     <item>
-      <title>Convince my Hippo</title>
+      <title>Convince your boss</title>
       <link>https://hax.camp/convince-my-hippo</link>
       <description>
           <![CDATA[ <p>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:</p>
@@ -41,7 +51,7 @@
       <pubDate>Tue, 28 May 2019 18:34:09 -0600</pubDate>
     </item>
     <item>
-      <title>Why should I attend</title>
+      <title>Why attend</title>
       <link>https://hax.camp/why-attend</link>
       <description>
           <![CDATA[ <h3 class="hax-active">Why should I come</h3>
@@ -80,7 +90,7 @@
       <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
     </item>
     <item>
-      <title>Unconference?</title>
+      <title>Whats an Unconference?</title>
       <link>https://hax.camp/unconference-</link>
       <description>
           <![CDATA[ <p>If you've never been, they are awesome. here's a basic definition from Wikipedia.</p>
@@ -120,7 +130,7 @@ planned session items but it is largely up to the group in attendance as to what
       <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
     </item>
     <item>
-      <title>Where?</title>
+      <title>Where is it?</title>
       <link>https://hax.camp/where-</link>
       <description>
           <![CDATA[ <p>Duke University in Durham North Carolina.</p>
@@ -137,7 +147,7 @@ planned session items but it is largely up to the group in attendance as to what
       <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
     </item>
     <item>
-      <title>CoC</title>
+      <title>Code of conduct</title>
       <link>https://hax.camp/coc</link>
       <description>
           <![CDATA[ <p>Code of Conduct.</p>
