@@ -199,29 +199,6 @@
             }
         },
         {
-            "id": "item-9e3d6381-4196-4eee-81c7-10fcd55d7867",
-            "indent": 0,
-            "location": "pages\/when-\/index.html",
-            "order": "5",
-            "parent": null,
-            "title": "When?",
-            "description": "Tentatively October 7th and 8th, 2019",
-            "metadata": {
-                "created": 1559089222,
-                "updated": 1565887612,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
-                    "schema": [],
-                    "tags": {
-                        "p": 1
-                    },
-                    "elements": 1
-                }
-            }
-        },
-        {
             "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
             "indent": 0,
             "location": "pages\/where-\/index.html",

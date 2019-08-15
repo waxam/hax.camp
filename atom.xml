@@ -3,7 +3,7 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2019-05-28T19:01:24-06:00</updated>
+  <updated>2019-08-15T10:46:52-06:00</updated>
   <author>
       <name>btopro</name>
   </author>
@@ -125,19 +125,6 @@ planned session items but it is largely up to the group in attendance as to what
 <li><span style="caret-color: rgb(0, 0, 0);">We will then take 10 minutes and build the schedule on the wall.</span></li>
 <li>We have now created a conference and the day commences</li>
 </ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>When?</title>
-    <id>https://hax.camp/when-</id>
-    <updated>2019-08-15T10:46:52-06:00</updated>
-    <published>2019-05-28T18:20:22-06:00</published>
-    <summary>Tentatively October 7th and 8th, 2019</summary>
-    <link href="https://hax.camp/when-"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Tentatively October 7th and 8th, 2019</p>
  ]]>
     </content>
   </entry>
