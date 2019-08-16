@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-08-15T12:40:06-06:00" -->
+<!-- generated-on="2019-08-16T11:51:00-06:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://hax.camphttps://hax.camp/schedule/unconference</loc>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/register</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-08-16T11:51:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
