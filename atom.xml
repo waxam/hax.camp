@@ -407,16 +407,18 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>hax-camp</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-08-20T12:03:22-06:00</updated>
     <published>2019-05-28T18:08:49-06:00</published>
-    <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made some cool web components and want to show off? Join us!Do you wa</summary>
+    <summary>hax-camp is a first of its kind unconference dedicated to all thing Web components.Have you made some cool web components and want to show off? Join us!Do</summary>
     <link href="https://hax.camp/hax-camp"/>
     
     <content type="html">
       <![CDATA[ <p><b>hax-camp</b>
 
 
+
  is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
+
 
 
 
@@ -430,7 +432,9 @@ which presumes innocence until guilt is proven.
 
 
 
+
 </i>
+
 
 
 
@@ -441,13 +445,16 @@ which presumes innocence until guilt is proven.
  dedicated to all thing <a href="https://open-wc.org">Web components</a>
 
 
+
 .</p>
 <meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable="" datahaxray="Meme"></meme-maker>
 <p>Have you made some cool <i><b>web components</b>
 
 
 
+
 </i>
+
 
 
 
@@ -457,17 +464,30 @@ which presumes innocence until guilt is proven.
 
 
 
+
 ? Join us!</p>
 <p><i><b>hax-camp is dedicated to all things web components</b>
+
 
 
 </i>
 
 
+
 , whether you are using HAXeditor/HAXcms or not.</p>
-<h3 class="hax-active">Why is the camp called HAX?</h3>
-<p>The founders of this event think HAX is cool and it's a cool name and many of them work on a project called HAXTheWeb; short for Headless Authoring eXperience which is built out of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX specific discussions.</p>
-<p>This site is built using HAXcms and the HAXeditor to edit content.</p>
+<h3>Why is the camp called HAX?</h3>
+<p>
+<p><a href="https://github.com/w3c/webcomponents" target="_blank" data-mce-href="https://github.com/w3c/webcomponents">Web components</a>
+
+, which the name is a valid one, are a way of scaling efforts by hacking traditional HTML and web development. Their ability to stack like reusable lego pieces, is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing front-end application development. And thus, we will all be HAX'ing how we used to work.</p>
+
+<p>The founders of this event work on a project called <a href="https://haxtheweb.org/" target="_blank" data-mce-href="https://haxtheweb.org">HAXTheWeb</a>
+
+; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX specific discussions.</p>
+</p>
+<p>This site is built using <i>HAXcms</i>
+ and the <i>HAXeditor</i>
+ to edit content.</p>
  ]]>
     </content>
   </entry>
