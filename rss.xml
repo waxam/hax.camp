@@ -394,7 +394,9 @@ which presumes innocence until guilt is proven.
 
 
 
+
  is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
+
 
 
 
@@ -410,7 +412,9 @@ which presumes innocence until guilt is proven.
 
 
 
+
 </i>
+
 
 
 
@@ -423,47 +427,69 @@ which presumes innocence until guilt is proven.
 
 
 
+
 .</p>
 <meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable="" datahaxray="Meme"></meme-maker>
-<p>Have you made some cool <i><b>web components</b>
-
-
-
-
-</i>
-
-
-
-
- and want to show off? Join us!</p>
-<p>Do you want to learn more about web components? Join us!</p>
-<p>Want to learn more about HAX, HAXcms and all things <a href="https://haxtheweb.org/">HAXTheWeb</a>
-
-
-
-
-? Join us!</p>
-<p><i><b>hax-camp is dedicated to all things web components</b>
-
-
-
-</i>
-
-
-
-, whether you are using HAXeditor/HAXcms or not.</p>
-<h3>Why is the camp called HAX?</h3>
 <p>
+<p>Want to learn more about <strong>LitElement</strong>
+
+, <strong>Polymer</strong>
+
+, <strong>VanillaJS</strong>
+
+, <strong>SkateJS</strong>
+
+ and others? <em>Come learn with us!</em>
+
+</p>
+
+<p>Interested in framework agnostic components you can use in your existing <strong>React</strong>
+, <strong>Angular</strong>
+, <strong>Vue</strong>
+, <strong>Backbone</strong>
+ and <strong>CMS</strong>
+ projects? <em>It's all we're talking about!</em>
+
+</p>
+
+<p>Have you made some cool <i>web components </i>
+
+and want to show off? <em>Join us!</em>
+
+</p>
+
+<p>Need to figure out tooling, building, SEO, polyfills, and other considerations? <em>Let's figure it out together!</em>
+
+</p>
+
+<p>Do you want to learn more about web components top to bottom? <em>Join us as we all discover together!</em>
+
+</p>
+
+<p>Want to learn more about HAX, HAXcms and all things <a href="https://haxtheweb.org/" target="_blank" data-mce-href="https://haxtheweb.org/">HAXTheWeb</a>
+
+ ? <em>Join us and find out!</em>
+
+</p>
+
+<p><strong>< hax-camp ></strong>
+
+ provides a space for collaboration, discussion, and sharing of best practices for those exploring web components. Whether you are using HAXeditor, HAXcms, or anything else, you’ll learn and share valuable knowledge about web components at <strong>< hax-camp ></strong>
+</p>
+</p>
+<h3>Why is the camp called HAX?</h3>
 <p><a href="https://github.com/w3c/webcomponents" target="_blank" data-mce-href="https://github.com/w3c/webcomponents">Web components</a>
 
-, which the name is a valid one, are a way of scaling efforts by hacking traditional HTML and web development. Their ability to stack like reusable lego pieces, is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing front-end application development. And thus, we will all be HAX'ing how we used to work.</p>
 
+, which the name is a valid one, are a way of scaling efforts by hacking traditional HTML and web development. Their ability to stack like reusable lego pieces, is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing front-end application development. And thus, we will all be HAX'ing how we used to work.</p>
 <p>The founders of this event work on a project called <a href="https://haxtheweb.org/" target="_blank" data-mce-href="https://haxtheweb.org">HAXTheWeb</a>
 
+
 ; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX specific discussions.</p>
-</p>
 <p>This site is built using <i>HAXcms</i>
+
  and the <i>HAXeditor</i>
+
  to edit content.</p>
  ]]>
       </description>
