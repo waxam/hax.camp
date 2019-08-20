@@ -119,10 +119,10 @@
             "order": "0",
             "parent": null,
             "title": "hax-camp",
-            "description": "hax-camp is a first of its kind unconference dedicated to all thing Web components.Want to learn more about\u00a0LitElement,\u00a0Polymer,\u00a0VanillaJS,\u00a0Sk",
+            "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsWant to learn more about\u00a0LitElement,\u00a0Polymer,\u00a0VanillaJS",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1566324307,
+                "updated": 1566324326,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
