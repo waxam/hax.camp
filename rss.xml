@@ -399,6 +399,7 @@ which presumes innocence until guilt is proven.
 
 
 
+
  is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
 
 
@@ -409,7 +410,9 @@ which presumes innocence until guilt is proven.
 
 
 
+
 </b>
+
 
 
 
@@ -433,44 +436,63 @@ which presumes innocence until guilt is proven.
 
 
 
+
  dedicated to all thing <a href="https://open-wc.org">Web components</a>
+
+</p>
+<p><div><div><p><b>Registration is now open!! <a href="https://www.eventbrite.com/e/haxcamp-web-components-all-the-things-tickets-69761529613?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing">Check out the EventBright and register today</a>
+<span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px);">!</span></b>
+</p>
+</div>
+</div>
 </p>
 <meme-maker style="width: 50%; margin: 0px auto; display: block;" image-url="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" top-text="hax-camp" bottom-text="I see what you did" imageurl="https://media3.giphy.com/media/oGO1MPNUVbbk4/giphy.gif" toptext="BC U new" bottomtext="it wood hapn" dataeditable="" datahaxray="Meme"></meme-maker>
 <p><span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">Want to learn more about </span><strong style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">LitElement</strong>
+
 
 <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">
 
 , </span><strong style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">Polymer</strong>
 
+
 <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">
 
 , </span><strong style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">VanillaJS</strong>
+
 
 <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">
 
 , </span><strong style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">SkateJS</strong>
 
+
 <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">
 
  and others? </span><em style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">Come learn with us!</em>
+
 
 <br/></p>
 <p>Interested in framework agnostic components you can use in your existing <strong>React</strong>
 
 
+
 , <strong>Angular</strong>
+
 
 
 , <strong>Vue</strong>
 
 
+
 , <strong>Backbone</strong>
+
 
 
  and <strong>CMS</strong>
 
 
+
  projects? <em>It's all we're talking about!</em>
+
 
 
 
@@ -479,7 +501,9 @@ which presumes innocence until guilt is proven.
 
 
 
+
 and want to show off? <em>Join us!</em>
+
 
 
 
@@ -488,8 +512,10 @@ and want to show off? <em>Join us!</em>
 
 
 
+
 </p>
 <p>Do you want to learn more about web components top to bottom? <em>Join us as we all discover together!</em>
+
 
 
 
@@ -498,7 +524,9 @@ and want to show off? <em>Join us!</em>
 
 
 
+
  ? <em>Join us and find out!</em>
+
 
 
 
@@ -507,11 +535,14 @@ and want to show off? <em>Join us!</em>
 
 
 
+
  provides a space for collaboration, discussion, and sharing of best practices for those exploring web components. Whether you are using HAXeditor, HAXcms, or anything else, you’ll learn and share valuable knowledge about web components at <strong>< hax-camp ></strong>
+
 
 </p>
 <h3>Why is the camp called HAX?</h3>
 <p><a href="https://github.com/w3c/webcomponents" target="_blank" data-mce-href="https://github.com/w3c/webcomponents">Web components</a>
+
 
 
 
@@ -522,12 +553,15 @@ and want to show off? <em>Join us!</em>
 
 
 
+
 ; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX specific discussions.</p>
 <p>This site is built using <i>HAXcms</i>
 
 
 
+
  and the <i>HAXeditor</i>
+
 
 
 

@@ -119,21 +119,22 @@
             "order": "0",
             "parent": null,
             "title": "hax-camp",
-            "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsWant to learn more about\u00a0LitElement,\u00a0Polymer,\u00a0VanillaJS",
+            "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!!\u00a0Check out the EventBright and register",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1566324326,
-                "readtime": 1,
+                "updated": 1566324739,
+                "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
-                    "paragraphs": 11,
+                    "paragraphs": 13,
                     "schema": [],
                     "tags": {
-                        "p": 11,
+                        "p": 13,
+                        "div": 1,
                         "meme-maker": 1,
                         "h3": 1
                     },
-                    "elements": 13
+                    "elements": 16
                 }
             }
         },
