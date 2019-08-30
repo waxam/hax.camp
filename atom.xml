@@ -11,23 +11,32 @@
   <entry>
     <title>Sponsors</title>
     <id>https://hax.camp/sponsors</id>
-    <updated>2019-08-15T12:40:06-06:00</updated>
+    <updated>2019-08-29T18:52:31-06:00</updated>
     <published>2019-08-15T12:21:02-06:00</published>
-    <summary>Interested in helping sponsor hax-camp? Reach out to info[at]waxam.io about how you can get involved in making our camp a success!We are thankful for Duke University hosting hax-camp 2019!We are al</summary>
+    <summary>A big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatLocation; Breakfast, LunchLunchSwag, </summary>
     <link href="https://hax.camp/sponsors"/>
     
     <content type="html">
-      <![CDATA[ <p>Interested in helping sponsor <b>hax-camp</b>
+      <![CDATA[ <p>A big thank you to all of our sponsors of <b>< hax-camp ></b>
+, This event is only made possible with your support!</p>
+<grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1-1" responsive-size="md" style="width: 100%;">  
+
+  
+  
+<img style="width: 75%;" src="files/2019-08-29_20-44-53.png" alt="Red Hat logo with letters" datadraggable slot="col-2"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%;"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 50%;"/><h2 slot="col-3">WaxaM</h2>
+<h2 slot="col-1">Duke Learning Innovation</h2>
+<p><br/></p>
+<p><br/></p>
+<h2 slot="col-2">Red Hat</h2>
+<p><br/></p>
+<p slot="col-1">Location; Breakfast, Lunch</p>
+<p slot="col-2">Lunch</p>
+<p slot="col-3">Swag, hosting, website, operational support</p>
+</grid-plate>
+<p>Interested in helping sponsor <b>hax-camp</b>
+
 ? Reach out to info[at]waxam.io about how you can get involved in making our camp a success!</p>
-<p>We are thankful for Duke University hosting hax-camp 2019!</p>
-<p>We are also thankful for <a href="https://waxam.io/">WaxaM</a>
- or sponsoring the stickers and jersey give aways at hax-camp!</p>
-<h3>Give aways</h3>
-<p><a href="https://twitter.com/btopro/status/1156015251663441920">A samplings of the jerseys available</a>
- for winning via the <a href="https://haxtheweb.org/scavenger-hunt">HAXcms Scavenger Hunt</a>
-.</p>
-<p>HAXTheWeb stickers provided for the event</p>
-<img src="files/3450183.png" alt="HAX the web sticker cutout that will be available during the event!" style="width: 50%;"/><br/><br/> ]]>
+<br/><br/> ]]>
     </content>
   </entry>
   <entry>
