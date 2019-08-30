@@ -344,6 +344,14 @@
                         "type": "image\/png",
                         "name": "bee.png",
                         "size": 14764
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/bee.png",
+                        "fullUrl": "\/sites\/hax-camp\/files\/bee.png",
+                        "url": "files\/bee.png",
+                        "type": "image\/png",
+                        "name": "bee.png",
+                        "size": 14764
                     }
                 ],
                 "readtime": 1,
