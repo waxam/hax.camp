@@ -11,29 +11,40 @@
   <entry>
     <title>Sponsors</title>
     <id>https://hax.camp/sponsors</id>
-    <updated>2019-08-29T18:52:31-06:00</updated>
+    <updated>2019-08-29T19:11:59-06:00</updated>
     <published>2019-08-15T12:21:02-06:00</published>
-    <summary>A big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatLocation; Breakfast, LunchLunchSwag, </summary>
+    <summary>A big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatLocation; Breakfast, Lunch, Saka</summary>
     <link href="https://hax.camp/sponsors"/>
     
     <content type="html">
       <![CDATA[ <p>A big thank you to all of our sponsors of <b>< hax-camp ></b>
+
 , This event is only made possible with your support!</p>
 <grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1-1" responsive-size="md" style="width: 100%;">  
 
   
   
-<img style="width: 75%;" src="files/2019-08-29_20-44-53.png" alt="Red Hat logo with letters" datadraggable slot="col-2"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%;"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 50%;"/><h2 slot="col-3">WaxaM</h2>
+<img style="width: 75%;" src="files/2019-08-29_20-44-53.png" alt="Red Hat logo with letters" datadraggable="" slot="col-2"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%;"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 50%;"/><h2 slot="col-3">WaxaM</h2>
+
 <h2 slot="col-1">Duke Learning Innovation</h2>
+
 <p><br/></p>
+
 <p><br/></p>
+
 <h2 slot="col-2">Red Hat</h2>
+
 <p><br/></p>
-<p slot="col-1">Location; Breakfast, Lunch</p>
-<p slot="col-2">Lunch</p>
+
+<p slot="col-1">Location; Breakfast, Lunch, Sakai streaming session room</p>
+
+<p slot="col-2">Lunch, Tuesday lunch and learn</p>
+
 <p slot="col-3">Swag, hosting, website, operational support</p>
+
 </grid-plate>
 <p>Interested in helping sponsor <b>hax-camp</b>
+
 
 ? Reach out to info[at]waxam.io about how you can get involved in making our camp a success!</p>
 <br/><br/> ]]>
