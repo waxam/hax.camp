@@ -15,30 +15,38 @@
           <![CDATA[ <p>A big thank you to all of our sponsors of <b>< hax-camp ></b>
 
 
+
 , This event is only made possible with your support!</p>
 <grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1-1" responsive-size="md" style="width: 100%;">  
 
   
   
-<img src="files/logo--500.png" alt="Red Hat" slot="col-2" style="width: 75%;"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%;"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 50%;"/><h2 slot="col-3">WaxaM</h2>
+<img src="files/logo--500.png" alt="Red Hat" slot="col-2" style="width: 75%; margin: 0px auto; display: block;"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%; margin: 0px auto; display: block;"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 25%; margin: 0px auto; display: block;"/><h2 slot="col-3">WaxaM</h2>
+
 
 
 <h2 slot="col-1">Duke Learning Innovation</h2>
 
 
+
 <p><br/></p>
 
 
+
 <p><br/></p>
+
 
 
 <h2 slot="col-2">Red Hat</h2>
 
 
+
 <p><br/></p>
 
 
-<p slot="col-1">Location; Breakfast, Lunch, Sakai streaming session room</p>
+
+<p slot="col-1">Host location; Breakfast, Lunch, Sakai streaming session room</p>
+
 
 
 
@@ -46,9 +54,16 @@
 <p slot="col-3">Swag, hosting, website, operational support</p>
 
 
+
 <p slot="col-2">Lunch, Tuesday lunch and learn</p>
-<img src="files/thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg" alt="Reclaim Hosting" slot="col-2" style="width: 100%;"/></grid-plate>
+
+<img src="files/thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg" alt="Reclaim Hosting" slot="col-2" style="width: 50%; margin: 0px auto; display: block;"/><h2 slot="col-2">Reclaim hosting</h2>
+<p><br/></p>
+<p><br/></p>
+<p slot="col-2">After party</p>
+</grid-plate>
 <p>Interested in helping sponsor <b>hax-camp</b>
+
 
 
 
