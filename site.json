@@ -380,6 +380,14 @@
                         "type": "image\/png",
                         "name": "logo--500.png",
                         "size": 9406
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg",
+                        "url": "files\/thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg",
+                        "type": "image\/jpeg",
+                        "name": "thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg",
+                        "size": 8082
                     }
                 ],
                 "readtime": 1,
