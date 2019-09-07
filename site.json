@@ -372,6 +372,14 @@
                         "type": "image\/png",
                         "name": "2019-08-29_20-45-10.png",
                         "size": 7114
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/logo--500.png",
+                        "fullUrl": "\/sites\/hax-camp\/files\/logo--500.png",
+                        "url": "files\/logo--500.png",
+                        "type": "image\/png",
+                        "name": "logo--500.png",
+                        "size": 9406
                     }
                 ],
                 "readtime": 1,
