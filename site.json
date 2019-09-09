@@ -388,6 +388,14 @@
                         "type": "image\/jpeg",
                         "name": "thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg",
                         "size": 8082
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png",
+                        "fullUrl": "\/sites\/hax-camp\/files\/thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png",
+                        "url": "files\/thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png",
+                        "type": "image\/png",
+                        "name": "thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png",
+                        "size": 45370
                     }
                 ],
                 "readtime": 1,
