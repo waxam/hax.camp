@@ -198,14 +198,14 @@
         {
             "id": "item-bd49f25c-0ade-4d20-b535-b615df720199",
             "indent": 0,
-            "location": "pages\/who-s-coming\/index.html",
+            "location": "pages\/whos-coming\/index.html",
             "order": "3",
             "parent": null,
-            "title": "Who's coming",
+            "title": "Who&#39;s coming",
             "description": "",
             "metadata": {
                 "created": 1568318500,
-                "updated": 1568318500
+                "updated": 1568318511
             }
         },
         {
