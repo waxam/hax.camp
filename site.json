@@ -214,6 +214,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190307_142259.jpg",
                         "size": 32993
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/n9uXHmHw_400x400.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/n9uXHmHw_400x400.jpg",
+                        "url": "files\/n9uXHmHw_400x400.jpg",
+                        "type": "image\/jpeg",
+                        "name": "n9uXHmHw_400x400.jpg",
+                        "size": 32503
                     }
                 ]
             }
