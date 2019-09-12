@@ -139,7 +139,17 @@
                         "h3": 1
                     },
                     "elements": 16
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/haxcampposter.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/haxcampposter.jpg",
+                        "url": "files\/haxcampposter.jpg",
+                        "type": "image\/jpeg",
+                        "name": "haxcampposter.jpg",
+                        "size": 186801
+                    }
+                ]
             }
         },
         {
