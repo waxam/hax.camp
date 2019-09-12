@@ -1,65 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-09-09T09:51:22-06:00" -->
+<!-- generated-on="2019-09-12T14:01:40-06:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://hax.camphttps://hax.camp/schedule/unconference</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/hax-camp</loc>
-    <lastmod>2019-08-20T13:09:28-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/details</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/why-attend</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/convince-my-hippo</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/register</loc>
-    <lastmod>2019-08-20T12:11:12-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/schedule</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/getting-here</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/coc</loc>
-    <lastmod>2019-08-15T12:21:02-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/sponsors</loc>
-    <lastmod>2019-09-09T09:51:22-06:00</lastmod>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://hax.camphttps://hax.camp/who-s-coming</loc>
+    <lastmod>2019-09-12T14:01:40-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

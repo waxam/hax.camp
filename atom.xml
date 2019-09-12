@@ -9,9 +9,21 @@
   </author>
   <id>https://hax.camp/feed</id>
   <entry>
+    <title>Who's coming</title>
+    <id>https://hax.camp/who-s-coming</id>
+    <updated>2019-09-12T14:01:40-06:00</updated>
+    <published>2019-09-12T14:01:40-06:00</published>
+    <summary></summary>
+    <link href="https://hax.camp/who-s-coming"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Sponsors</title>
     <id>https://hax.camp/sponsors</id>
-    <updated>2019-09-09T09:51:22-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-08-15T12:21:02-06:00</published>
     <summary>A big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatHost locati</summary>
     <link href="https://hax.camp/sponsors"/>
@@ -94,7 +106,7 @@
   <entry>
     <title>Getting here</title>
     <id>https://hax.camp/getting-here</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-08-15T10:57:14-06:00</published>
     <summary>hax-camp will be held at the Duke University Bostock Library(Floor 1) on October 7th & 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Center lot is the closest - seeht</summary>
     <link href="https://hax.camp/getting-here"/>
@@ -132,7 +144,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Schedule</title>
     <id>https://hax.camp/schedule</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-08-15T10:54:37-06:00</published>
     <summary>The schedule will be fully built out by attendees the first day of each event as this is an Unconference format. Because unconferences can be nebulous if you've never been so we're going to supply a r</summary>
     <link href="https://hax.camp/schedule"/>
@@ -245,7 +257,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Registration</title>
     <id>https://hax.camp/register</id>
-    <updated>2019-08-20T12:11:12-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:59:02-06:00</published>
     <summary>Registration is now open! Check out the EventBright and register today!</summary>
     <link href="https://hax.camp/register"/>
@@ -261,7 +273,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Convince your boss</title>
     <id>https://hax.camp/convince-my-hippo</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:34:09-06:00</published>
     <summary>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man</summary>
     <link href="https://hax.camp/convince-my-hippo"/>
@@ -289,7 +301,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Whats an Unconference?</title>
     <id>https://hax.camp/schedule/unconference</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:22:36-06:00</published>
     <summary>If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there</summary>
     <link href="https://hax.camp/schedule/unconference"/>
@@ -320,7 +332,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Why attend</title>
     <id>https://hax.camp/why-attend</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:22:36-06:00</published>
     <summary>Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb and have communi</summary>
     <link href="https://hax.camp/why-attend"/>
@@ -367,7 +379,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Details</title>
     <id>https://hax.camp/details</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:20:22-06:00</published>
     <summary>When is it?October 7th and 8th, 2019Where is it?Duke UniversityBostock LibraryTelecom DriveDurham, NC 27710Duke has graciously offered to host the first ever HAX Camp to increase knowled</summary>
     <link href="https://hax.camp/details"/>
@@ -394,7 +406,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Code of conduct</title>
     <id>https://hax.camp/coc</id>
-    <updated>2019-08-15T12:21:02-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:20:22-06:00</published>
     <summary>Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge</summary>
     <link href="https://hax.camp/coc"/>
@@ -470,7 +482,7 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>hax-camp</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-08-20T13:09:28-06:00</updated>
+    <updated>2019-09-12T14:01:40-06:00</updated>
     <published>2019-05-28T18:08:49-06:00</published>
     <summary>< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!! Check out the EventBright and re</summary>
     <link href="https://hax.camp/hax-camp"/>

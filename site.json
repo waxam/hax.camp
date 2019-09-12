@@ -14,7 +14,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1567883531,
+            "updated": 1568318500,
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false
@@ -101,7 +101,7 @@
             "description": "If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -126,7 +126,7 @@
             "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!!\u00a0Check out the EventBright and re",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1566328168,
+                "updated": 1568318500,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -152,7 +152,7 @@
             "description": "When is it?October 7th and 8th, 2019Where is it?Duke UniversityBostock LibraryTelecom DriveDurham, NC 27710Duke has graciously offered to host the first ever HAX Camp to increase knowled",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -178,7 +178,7 @@
             "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb\u00a0and have communi",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -196,16 +196,29 @@
             }
         },
         {
+            "id": "item-bd49f25c-0ade-4d20-b535-b615df720199",
+            "indent": 0,
+            "location": "pages\/who-s-coming\/index.html",
+            "order": "3",
+            "parent": null,
+            "title": "Who's coming",
+            "description": "",
+            "metadata": {
+                "created": 1568318500,
+                "updated": 1568318500
+            }
+        },
+        {
             "id": "item-06ae0dc3-8c3d-4311-9f8a-a1a4ee8e0057",
             "indent": 0,
             "location": "pages\/convince-my-hippo\/index.html",
-            "order": "3",
+            "order": "4",
             "parent": null,
             "title": "Convince your boss",
             "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
             "metadata": {
                 "created": 1559090049,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -224,13 +237,13 @@
             "id": "item-763783ba-20ef-45ac-bd5e-8c51b2626845",
             "indent": 0,
             "location": "pages\/register\/index.html",
-            "order": "4",
+            "order": "5",
             "parent": null,
             "title": "Registration",
             "description": "Registration is now open! Check out the EventBright and register today!",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1566324672,
+                "updated": 1568318500,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -248,13 +261,13 @@
             "id": "item-305b60c1-ebb0-420b-a5d9-466b952ac357",
             "indent": 0,
             "location": "pages\/schedule\/index.html",
-            "order": "5",
+            "order": "6",
             "parent": null,
             "title": "Schedule",
             "description": "The schedule will be fully built out by attendees the first day of each event as this is an Unconference format. Because unconferences can be nebulous if you've never been so we're going to supply a r",
             "metadata": {
                 "created": 1565888077,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 3,
@@ -273,13 +286,13 @@
             "id": "item-1fdea501-7690-45fa-baeb-74accf3aebbb",
             "indent": 0,
             "location": "pages\/getting-here\/index.html",
-            "order": "6",
+            "order": "7",
             "parent": null,
             "title": "Getting here",
             "description": "hax-camp will be held at the Duke University\u00a0Bostock Library(Floor 1)\u00a0on October 7th & 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Center lot is the closest - seeht",
             "metadata": {
                 "created": 1565888234,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -299,13 +312,13 @@
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": "7",
+            "order": "8",
             "parent": null,
             "title": "Code of conduct",
             "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously...Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1565893262,
+                "updated": 1568318500,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
@@ -325,13 +338,13 @@
             "id": "item-b99e853d-dd72-4838-a66a-77acfe2c98db",
             "indent": 0,
             "location": "pages\/sponsors\/index.html",
-            "order": "8",
+            "order": "9",
             "parent": null,
             "title": "Sponsors",
             "description": "A big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatHost locati",
             "metadata": {
                 "created": 1565893262,
-                "updated": 1568044282,
+                "updated": 1568318500,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/3450183.png",
