@@ -232,6 +232,14 @@
                         "type": "image\/jpeg",
                         "name": "n9uXHmHw_400x400.jpg",
                         "size": 32503
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/jolie.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/jolie.jpg",
+                        "url": "files\/jolie.jpg",
+                        "type": "image\/jpeg",
+                        "name": "jolie.jpg",
+                        "size": 32796
                     }
                 ],
                 "readtime": 1,
