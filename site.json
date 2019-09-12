@@ -240,6 +240,14 @@
                         "type": "image\/jpeg",
                         "name": "jolie.jpg",
                         "size": 32796
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/xmas_tree_sweater.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/xmas_tree_sweater.jpg",
+                        "url": "files\/xmas_tree_sweater.jpg",
+                        "type": "image\/jpeg",
+                        "name": "xmas_tree_sweater.jpg",
+                        "size": 145646
                     }
                 ],
                 "readtime": 1,
