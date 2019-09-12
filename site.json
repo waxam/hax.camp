@@ -123,22 +123,22 @@
             "order": "0",
             "parent": null,
             "title": "hax-camp",
-            "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!!\u00a0Check out the EventBright and re",
+            "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!!\u00a0Check out the EventBright an",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1568318500,
+                "updated": 1568321438,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
-                    "paragraphs": 13,
+                    "paragraphs": 11,
                     "schema": [],
                     "tags": {
-                        "p": 13,
+                        "p": 11,
                         "div": 1,
-                        "meme-maker": 1,
+                        "img": 1,
                         "h3": 1
                     },
-                    "elements": 16
+                    "elements": 14
                 },
                 "files": [
                     {
