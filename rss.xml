@@ -15,8 +15,9 @@
           <![CDATA[ <p>HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.</p>
 <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;">
 
-<person-testimonial style="width: 75%;" elevation="1" image="files/IMG_20190307_142259.jpg" name="@btopro" position="HAX / ELMS:LN Project lead" accent-color="blue" __utils="[object HTMLElement]" slot="col-2">  <span>I'm excited to show people the latest and greatest that HAXcms has to offer as well as learn more about how Sakai and Redhat have been leveraging web components in their design work.</span>
+<person-testimonial style="width: 100%;" elevation="1" image="files/IMG_20190307_142259.jpg" name="@btopro" position="HAX / ELMS:LN Project lead" accent-color="blue" __utils="[object HTMLElement]" slot="col-2">  <span>I'm excited to show people the latest and greatest that HAXcms has to offer as well as learn more about how Sakai and Redhat have been leveraging web components in their design work.</span>
 </person-testimonial>
+
 
 
 <person-testimonial elevation="1" image="files/n9uXHmHw_400x400.jpg" name="@NikkiMK" position="HAX Core contributor" accent-color="deep-purple" __utils="[object HTMLElement]" slot="col-1" style="width: 75%;">  <span>I'm excited to show off our rich-text-editor element coming to HAX in the near future as well as learn more about how PatternFly Elements are handling SASS color variables.</span>
@@ -24,8 +25,10 @@
 
 
 
+
 </grid-plate>
 <p>Join these and other cool cats at <a href="https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-69761529613?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare">HAX camp October 6th and 7th</a>
+
 !</p>
  ]]>
       </description>
