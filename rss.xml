@@ -22,6 +22,7 @@
 
 
 
+
 <person-testimonial elevation="1" image="files/n9uXHmHw_400x400.jpg" name="@NikkiMK" position="HAX Core contributor" accent-color="deep-purple" __utils="[object HTMLElement]" slot="col-1" style="width: 75%;">  <span>I'm excited to show off our rich-text-editor element coming to HAX in the near future as well as learn more about how PatternFly Elements are handling SASS color variables.</span>
 </person-testimonial>
 
@@ -30,12 +31,18 @@
 
 
 
+
 <person-testimonial elevation="1" image="files/jolie.jpg" name="@jolietingen" position="Product Manager, Kits" accent-color="blue" __utils="[object HTMLElement]" slot="col-2">  <span></span>
 </person-testimonial>
+
 <person-testimonial elevation="1" image="files/xmas_tree_sweater.jpg" name="@kreynen" position="Digital Marketing Developer at University of Colorado" accent-color="light-green" __utils="[object HTMLElement]" slot="col-1">  <span>I'm excited to show how Web Components are now a standard in mainstream services like Salesforce and how web developers can use Salesforce resources outside of Salesforce.</span>
+</person-testimonial>
+
+<person-testimonial elevation="1" image="files/Tom Profile Edit2.jpg" name="@Tom_Var" position="Instructional Production Specialist" accent-color="light-green" __utils="[object HTMLElement]" slot="col-2">  <span>I look forward to learning how to make a theme in HAX so people have an easier and more interactive way to show off everything from resumes to online courses</span>
 </person-testimonial>
 </grid-plate>
 <p>Join these and other cool cats at <a href="https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-69761529613?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare">HAX camp October 6th and 7th</a>
+
 
 
 
