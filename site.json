@@ -248,6 +248,14 @@
                         "type": "image\/jpeg",
                         "name": "xmas_tree_sweater.jpg",
                         "size": 145646
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/Tom Profile Edit2.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/Tom Profile Edit2.jpg",
+                        "url": "files\/Tom Profile Edit2.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Tom Profile Edit2.jpg",
+                        "size": 6225
                     }
                 ],
                 "readtime": 1,
