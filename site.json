@@ -256,6 +256,14 @@
                         "type": "image\/jpeg",
                         "name": "Tom Profile Edit2.jpg",
                         "size": 6225
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/fusco.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/fusco.jpg",
+                        "url": "files\/fusco.jpg",
+                        "type": "image\/jpeg",
+                        "name": "fusco.jpg",
+                        "size": 95612
                     }
                 ],
                 "readtime": 1,
