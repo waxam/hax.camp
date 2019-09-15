@@ -215,7 +215,7 @@
             "description": "HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show people the latest and greatest that HA",
             "metadata": {
                 "created": 1568318500,
-                "updated": 1568339826,
+                "updated": 1568584551,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/IMG_20190307_142259.jpg",
@@ -273,9 +273,10 @@
                     "schema": [],
                     "tags": {
                         "p": 2,
-                        "grid-plate": 1
+                        "grid-plate": 1,
+                        "person-testimonial": 1
                     },
-                    "elements": 3
+                    "elements": 4
                 }
             }
         },
