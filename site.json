@@ -264,6 +264,14 @@
                         "type": "image\/jpeg",
                         "name": "fusco.jpg",
                         "size": 95612
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/cgl_square_2M.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/cgl_square_2M.jpg",
+                        "url": "files\/cgl_square_2M.jpg",
+                        "type": "image\/jpeg",
+                        "name": "cgl_square_2M.jpg",
+                        "size": 108394
                     }
                 ],
                 "readtime": 1,
