@@ -11,7 +11,7 @@
   <entry>
     <title>Who is coming</title>
     <id>https://hax.camp/whos-coming</id>
-    <updated>2019-09-16T07:59:06-06:00</updated>
+    <updated>2019-09-16T10:45:25-06:00</updated>
     <published>2019-09-12T14:01:40-06:00</published>
     <summary>HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show people the latest and greatest that HA</summary>
     <link href="https://hax.camp/whos-coming"/>
@@ -22,6 +22,7 @@
 
 <person-testimonial style="width: 100%;" elevation="1" image="files/IMG_20190307_142259.jpg" name="@btopro" position="HAX / ELMS:LN Project lead" accent-color="blue" __utils="[object HTMLElement]" slot="col-2">  <span style="width: 75%;">I'm excited to show people the latest and greatest that HAXcms has to offer as well as learn more about how Sakai and Redhat have been leveraging web components in their design work.</span>
 </person-testimonial>
+
 
 
 
@@ -43,8 +44,10 @@
 
 
 
+
 <person-testimonial elevation="1" image="files/jolie.jpg" name="@jolietingen" position="Product Manager, Kits" accent-color="blue" __utils="[object HTMLElement]" slot="col-2">  <span></span>
 </person-testimonial>
+
 
 
 
@@ -55,8 +58,10 @@
 
 
 
+
 <person-testimonial elevation="1" image="files/Tom Profile Edit2.jpg" name="@Tom_Var" position="Instructional Production Specialist" accent-color="light-green" __utils="[object HTMLElement]" slot="col-2">  <span>I look forward to learning how to make a theme in HAX so people have an easier and more interactive way to show off everything from resumes to online courses</span>
 </person-testimonial>
+
 
 
 </grid-plate>
@@ -64,7 +69,8 @@
 </person-testimonial>
 <person-testimonial style="width: 75%;" elevation="1" image="files/cgl_square_2M.jpg" name="Chuck Lavera" position="HAX core contributor" accent-color="deep-orange" __utils="[object HTMLElement]">  <span>I'm excited to share our work on HAXcms theming, as well as to showcase how we create HAX-editable web components and wire them into custom themes.</span>
 </person-testimonial>
-<p>Join these and other cool cats at <a href="https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-69761529613?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare">HAX camp October 6th and 7th</a>
+<p>Join these and other cool cats at <a href="https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-69761529613?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare">HAX camp October 7th and 8th</a>
+
 
 
 
