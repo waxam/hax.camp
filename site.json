@@ -212,10 +212,10 @@
             "order": "3",
             "parent": null,
             "title": "Who is coming",
-            "description": "HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show people the latest and greatest that HA",
+            "description": "HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show off our rich-text-editor element coming ",
             "metadata": {
                 "created": 1568318500,
-                "updated": 1568652325,
+                "updated": 1568727542,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/IMG_20190307_142259.jpg",
@@ -289,10 +289,10 @@
                     "schema": [],
                     "tags": {
                         "p": 2,
-                        "grid-plate": 1,
-                        "person-testimonial": 2
+                        "person-testimonial": 8,
+                        "img": 1
                     },
-                    "elements": 5
+                    "elements": 11
                 }
             }
         },
