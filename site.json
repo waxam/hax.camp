@@ -272,6 +272,14 @@
                         "type": "image\/jpeg",
                         "name": "cgl_square_2M.jpg",
                         "size": 108394
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/thumbnail_IMG_0550.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/thumbnail_IMG_0550.jpg",
+                        "url": "files\/thumbnail_IMG_0550.jpg",
+                        "type": "image\/jpeg",
+                        "name": "thumbnail_IMG_0550.jpg",
+                        "size": 72984
                     }
                 ],
                 "readtime": 1,
