@@ -23,7 +23,7 @@
                 "vendor": "github",
                 "branch": "master",
                 "staticBranch": "gh-pages",
-                "url": "git@github.com:elmsln\/hax.camp.git",
+                "url": "git@github.waxam\/hax.camp.git",
                 "autoPush": false,
                 "publicRepoUrl": ""
             },
