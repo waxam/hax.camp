@@ -23,13 +23,13 @@
                 "vendor": "github",
                 "branch": "master",
                 "staticBranch": "gh-pages",
-                "url": "git@github.waxam\/hax.camp.git",
+                "url": "git@github.com:waxam\/hax.camp.git",
                 "autoPush": false,
-                "publicRepoUrl": ""
+                "publicRepoUrl": "https:\/\/github.com\/waxam\/hax.camp\/tree\/master\/"
             },
             "static": {
                 "cdn": "cdn.waxam.io",
-                "lastPublished": 1568746922,
+                "lastPublished": 1568768729,
                 "publishedLocation": "https:\/\/hax.camp",
                 "offline": false
             }
