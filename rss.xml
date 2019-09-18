@@ -6,7 +6,7 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2019 14:01:40 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 18:36:30 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Who is coming</title>
@@ -137,11 +137,15 @@
       <link>https://hax.camp/getting-here</link>
       <description>
           <![CDATA[ <p><b>hax-camp </b>
+
 will be held at the Duke University <a href="https://naming.library.duke.edu/room/14181">Bostock Library</a>
+
 <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);"><a href="https://naming.library.duke.edu/room/14181">(Floor 1)</a>
+
 
  on October 7th & 8th 2019.</span></p>
 <blockquote class="hax-active"><span style=""><span style="caret-color: rgb(25, 30, 35);"><b>Bostock Library<br/>Telecom Drive<br/>Durham, NC 27710</b>
+
 
 
 </span><br/></span></blockquote>
@@ -151,17 +155,22 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
 <span id="docs-internal-guid-9fca6db2-7fff-9715-58b8-a2f9a34b7c65" style=""><a href="https://parking.duke.edu/visitor" style="">https://parking.duke.edu/visitor</a>
 
 
+
  for details</span></span></span></p>
 <h3 class="hax-active"><span style="caret-color: rgb(0, 0, 0);"><span style=""><span style="">Transportation</span></span></span></h3>
 <p><span style="caret-color: rgb(0, 0, 0);"><span style=""><span style="">The <a href="https://www.rdu.com/">Raleigh-Durham International Airport</a>
 
 
+
  is a 25 minute drive from the Duke Library and around a $20-30 cab ride.</span></span></span></p>
 <h3><span style="caret-color: var(--hax-color-text);">Hotels</span></h3>
-<p><span style="caret-color: rgb(25, 30, 35);">Durham has many hotels in the surrounding area including a few just off campus and one on campus. <a href="https://www.google.com/maps/search/Hotels/@36.0052302,-78.9457881,14.9z/data=!4m14!2m13!3m6!1sHotels!2sTelecom+Dr,+Durham,+NC+27710!3s0x89ace6ae3a206b37:0xb1b730d7077b2d71!4m2!1d-78.9388428!2d36.0031066!5m5!5m4!1s2019-10-06!2i3!4m1!1i1?hl=en-US">Shortcut google link</a>
+<p><span style="caret-color: rgb(25, 30, 35);" class="hax-active">Durham has many hotels in the surrounding area including a few just off campus and one on campus. Many are staying at the <a href="https://www.marriott.com/hotels/travel/rdufs-courtyard-durham-near-duke-university-downtown/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe">Courtyard Durham near Duke University / Downtown</a>
+.</span></p>
+<p><span style="caret-color: rgb(25, 30, 35);">Here's a <a href="https://www.google.com/maps/search/Hotels/@36.0052302,-78.9457881,14.9z/data=!4m14!2m13!3m6!1sHotels!2sTelecom+Dr,+Durham,+NC+27710!3s0x89ace6ae3a206b37:0xb1b730d7077b2d71!4m2!1d-78.9388428!2d36.0031066!5m5!5m4!1s2019-10-06!2i3!4m1!1i1?hl=en-US">Shortcut google link</a>
 
 
- to see what's around.</span></p>
+
+ to see what else is around if you'd rather stay elsewhere or want to just see the area.</span></p>
  ]]>
       </description>
       <category></category>

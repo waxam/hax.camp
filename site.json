@@ -376,22 +376,22 @@
             "order": "7",
             "parent": null,
             "title": "Getting here",
-            "description": "hax-camp will be held at the Duke University\u00a0Bostock Library(Floor 1)\u00a0on October 7th & 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Center lot is the closest - seeht",
+            "description": "hax-camp will be held at the Duke University\u00a0Bostock Library(Floor 1)\u00a0on October 7th & 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Center lot is the closest - se",
             "metadata": {
                 "created": 1565888234,
-                "updated": 1568318500,
+                "updated": 1568823650,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
-                    "paragraphs": 4,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 4,
+                        "p": 5,
                         "blockquote": 1,
                         "iframe": 1,
                         "h3": 3
                     },
-                    "elements": 9
+                    "elements": 10
                 }
             }
         },
