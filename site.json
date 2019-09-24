@@ -280,6 +280,14 @@
                         "type": "image\/jpeg",
                         "name": "thumbnail_IMG_0550.jpg",
                         "size": 72984
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/2019-09-24_13-39-04.png",
+                        "fullUrl": "\/sites\/hax-camp\/files\/2019-09-24_13-39-04.png",
+                        "url": "files\/2019-09-24_13-39-04.png",
+                        "type": "image\/png",
+                        "name": "2019-09-24_13-39-04.png",
+                        "size": 285989
                     }
                 ],
                 "readtime": 1,
