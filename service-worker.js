@@ -37,7 +37,156 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
+var precacheConfig = [
+    [
+        "pages\/schedule\/unconference\/index.html",
+        "DNHGKexj8azNfeRb8YS3Cw"
+    ],
+    [
+        "pages\/hax-camp\/index.html",
+        "dVHkyYiZ69MSKfhvLo6R8g"
+    ],
+    [
+        "pages\/details\/index.html",
+        "wh6Xarr11TWvCrjeetVw"
+    ],
+    [
+        "pages\/why-attend\/index.html",
+        "fJB1Wl5M10H1XukRD1FQ"
+    ],
+    [
+        "pages\/whos-coming\/index.html",
+        "mdHsTC86xbUQjPIrWCI3w"
+    ],
+    [
+        "pages\/convince-my-hippo\/index.html",
+        "6JwI1w7Kj4K1vigmiHuMnw"
+    ],
+    [
+        "pages\/register\/index.html",
+        "coUWX5o4OaOYVk7gtoG9ew"
+    ],
+    [
+        "pages\/schedule\/index.html",
+        "vynXI1yXsYB0sDkBUxIcFA"
+    ],
+    [
+        "pages\/getting-here\/index.html",
+        "Pz0oMAsNXXJnHJZ6CJaYg"
+    ],
+    [
+        "pages\/coc\/index.html",
+        "cCPgZXDsC6SwvhqwYvT32Q"
+    ],
+    [
+        "pages\/sponsors\/index.html",
+        "ilMHgKHjOoesK5CBCcSQg"
+    ],
+    [
+        "index.html",
+        "pJdmpa4vpOPYikBDCtRgxw"
+    ],
+    [
+        "manifest.json",
+        "AGfHdezXINXD6lrtRwTEw"
+    ],
+    [
+        "site.json",
+        "oMd6IqcH7rNyVuVxYZfpg"
+    ],
+    [
+        "assets\/icon-192x192.png",
+        "74dSgETTt2brsR060RY9Q"
+    ],
+    [
+        "assets\/icon-144x144.png",
+        "mwZmJEqvI4ZaomkPYjbsbw"
+    ],
+    [
+        "assets\/icon-96x96.png",
+        "VAPu1xptU6EyvzjXJ0g"
+    ],
+    [
+        "assets\/icon-72x72.png",
+        "swQSScfQu5rBcTHRZd7wiw"
+    ],
+    [
+        "assets\/icon-48x48.png",
+        "MZZtPZxc47sRbVXHlP01A"
+    ],
+    [
+        "404.html",
+        "dSqOj2FfwLtvzh03W3Gyg"
+    ],
+    [
+        "files\/Tom Profile Edit2.jpg",
+        "ScKrVmdG6VnwWYW8eSITg"
+    ],
+    [
+        "files\/3450183.png",
+        "2vPNkZKZ5sW8UVQoThAcRA"
+    ],
+    [
+        "files\/2019-09-24_13-39-04.png",
+        "wxFhEC7TAqAzFwPJjO5vw"
+    ],
+    [
+        "files\/n9uXHmHw_400x400.jpg",
+        "Bg2OCp3Iart3FUpHhrmVnw"
+    ],
+    [
+        "files\/thumbnail_IMG_0550.jpg",
+        "QmNEODexOqw3TEh2vGLyQ"
+    ],
+    [
+        "files\/haxcampposter.jpg",
+        "AmdLG7UWhOY5OGQWIiNxhQ"
+    ],
+    [
+        "files\/xmas_tree_sweater.jpg",
+        "8KRwQQM5OYlakJJbawQEw"
+    ],
+    [
+        "files\/bee.png",
+        "MFngOAGtorvH78WS446Q"
+    ],
+    [
+        "files\/2019-08-29_20-45-10.png",
+        "zNbKrKogSn8n6S3kx2ZQ"
+    ],
+    [
+        "files\/thumbnail_8AC306AC89C743F39F524D8743D7D1E7.jpg",
+        "M3tyup5Xc1FojmA9HDonxg"
+    ],
+    [
+        "files\/2019-08-29_20-44-53.png",
+        "r63IIWDhSPaRC0fp5KWntQ"
+    ],
+    [
+        "files\/fusco.jpg",
+        "8iH7wRxfCz3BWoPjl67L7w"
+    ],
+    [
+        "files\/IMG_20190307_142259.jpg",
+        "8OkItQreBhhbFEFKJJf2A"
+    ],
+    [
+        "files\/cgl_square_2M.jpg",
+        "plUvxFsvibPQHed8NQTA"
+    ],
+    [
+        "files\/thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png",
+        "PqBw5Nwz1bWbgCJMJeiqCw"
+    ],
+    [
+        "files\/logo--500.png",
+        "rlraY6VkuiZlwtpl7MajA"
+    ],
+    [
+        "files\/jolie.jpg",
+        "zi5p8JNs7xrB3XKVMSpxg"
+    ]
+];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -285,6 +434,3 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
-{% if cdnRegex %}
-toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
-{% endif %}

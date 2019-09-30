@@ -1,7 +1,7 @@
 {
-    "name": "{{ title }}",
-    "short_name": "{{ short }}",
-    "description": "{{ description }}",
+    "name": "hax.camp",
+    "short_name": "hax-camp",
+    "description": "HAXcamp",
     "icons": [
         {
             "src": "assets\/android-icon-36x36.png",
@@ -46,9 +46,9 @@
             "density": "4.0"
         }
     ],
-    "scope": "{{ basePath }}",
-    "start_url": "{{ basePath }}",
+    "scope": "/",
+    "start_url": "/",
     "display": "standalone",
-    "theme_color": "{{ hexCode }}",
-    "background_color": "{{ hexCode }}"
+    "theme_color": "#3a00ff",
+    "background_color": "#3a00ff"
 }
