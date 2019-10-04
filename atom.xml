@@ -11,17 +11,29 @@
   <entry>
     <title>Scavenger Hunt</title>
     <id>https://hax.camp/scavenger-hunt</id>
-    <updated>2019-10-04T05:39:48-06:00</updated>
+    <updated>2019-10-04T06:55:52-06:00</updated>
     <published>2019-10-04T05:32:42-06:00</published>
-    <summary>We'll We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM!</summary>
+    <summary>We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the hockey web components team.</summary>
     <link href="https://hax.camp/scavenger-hunt"/>
     
     <content type="html">
-      <![CDATA[ <p>We'll </p>
-<grid-plate layout="8/4" responsive-size="md" style="width: 100%;">
-<img src="files/IMG_20190726_105535.jpg" slot="col-2" style="width: 75%;"/>
-<img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-2" style="width: 75%;"/><p slot="col-1">We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM!</p>
-<img src="files/IMG_20190819_205859.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190716_102855.jpg" slot="col-2" style="width: 75%;"/></grid-plate>
+      <![CDATA[ <grid-plate layout="8/4" responsive-size="md" style="width: 100%;">
+<img src="files/IMG_20190819_205859.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_105535.jpg" slot="col-2" style="width: 75%;"/>
+<img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-2" style="width: 75%;"/><p slot="col-1">We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor <b>WaxaM</b>
+! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the <strike>hockey</strike>
+ web components team.</p>
+<ol slot="col-1">
+  <li>Attend HAX camp</li>
+<li>Star, Fork, Clone the HAXcms repo</li>
+<li>Install or get a copy of HAXcms either on HAXonDemand, ReclaimHosting or setup your own (we support ddev, docker, vagrant and w/mamp installs as it's a flat file system that only requires apache2.4 / php 7.1+)</li>
+<li>Tweet / insta / all the socials a photo of the hax camp poster with #HAXTheWeb #webcomponents and @haxcamp</li>
+<li>Send out a photo of someone in a hockey jersey #HAXTheWeb #webcomponents and @haxcamp</li>
+<li>Live blog sessions on HAXcms that you attend making sure to use hash tags for people to follow along</li>
+<li class="hovered">The first 15 people to post notes from at least 3 sessions</li>
+<li>Let us send out a photo of you in your sweet threads</li>
+<li>Walk away with a sick jersey</li>
+</ol>
+<img src="files/IMG_20190716_102855.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/></grid-plate>
  ]]>
     </content>
   </entry>

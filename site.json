@@ -474,10 +474,10 @@
             "order": "5",
             "parent": null,
             "title": "Scavenger Hunt",
-            "description": "We'll\u00a0We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM!",
+            "description": "We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the hockey web components team.",
             "metadata": {
                 "created": 1570188762,
-                "updated": 1570189188,
+                "updated": 1570193752,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/EBd7L7eXkAAOW_d.jpg",
@@ -531,13 +531,12 @@
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 1,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "p": 1,
                         "grid-plate": 1
                     },
-                    "elements": 2
+                    "elements": 1
                 }
             }
         },
