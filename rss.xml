@@ -14,9 +14,9 @@
       <description>
           <![CDATA[ <p>We'll </p>
 <grid-plate layout="8/4" responsive-size="md" style="width: 100%;">
-<img src="files/IMG_20190726_105535.jpg" slot="col-2"/>
-<img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-2"/><p slot="col-1">We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM!</p>
-<img src="files/IMG_20190819_205859.jpg" slot="col-2" style="width: 50%;"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190716_102855.jpg" slot="col-2" style="width: 75%;"/></grid-plate>
+<img src="files/IMG_20190726_105535.jpg" slot="col-2" style="width: 75%;"/>
+<img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-2" style="width: 75%;"/><p slot="col-1">We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM!</p>
+<img src="files/IMG_20190819_205859.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190716_102855.jpg" slot="col-2" style="width: 75%;"/></grid-plate>
  ]]>
       </description>
       <category></category>
