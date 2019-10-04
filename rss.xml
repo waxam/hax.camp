@@ -6,8 +6,18 @@
     <description>HAXcamp</description>
     <copyright>Copyright (C) 2019 https://hax.camp</copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2019 05:31:48 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 05:32:20 -0600</lastBuildDate>
     <atom:link href="https://hax.camp/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scavenger Hunt</title>
+      <link>https://hax.camp/scavenger-hunt</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/scavenger-hunt</guid>
+      <pubDate>Fri, 04 Oct 2019 05:32:42 -0600</pubDate>
+    </item>
     <item>
       <title>Who is coming</title>
       <link>https://hax.camp/whos-coming</link>
@@ -509,6 +519,31 @@ planned session items but it is largely up to the group in attendance as to what
       <pubDate>Tue, 28 May 2019 18:22:36 -0600</pubDate>
     </item>
     <item>
+      <title>Details</title>
+      <link>https://hax.camp/details</link>
+      <description>
+          <![CDATA[ <h3>When is it?</h3>
+<p>October 7th and 8th, 2019<br/></p>
+<h3>Where is it?</h3>
+<blockquote class="hax-active"><span style=""><span style="caret-color: rgb(25, 30, 35);"><b>Duke University<br/>Bostock Library<br/>Telecom Drive<br/>Durham, NC 27710</b>
+
+
+
+</span><br/></span></blockquote>
+<html-block style="display: block; width: 100%;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1687.3797126688928!2d-78.9396484850072!3d36.00311075229569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6ae3a206b37%3A0xb1b730d7077b2d71!2sTelecom+Dr%2C+Durham%2C+NC+27710!5e0!3m2!1sen!2sus!4v1565888263939!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border: 0px; margin: 0px auto; display: block; width: 100%;" allowfullscreen=""></iframe>
+
+
+</html-block>
+<p>Duke has graciously offered to host the <i>first ever</i>
+ HAX Camp to increase knowledge sharing among web component developers and those who would most benefit from them.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>https://hax.camp/details</guid>
+      <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
+    </item>
+    <item>
       <title>Code of conduct</title>
       <link>https://hax.camp/coc</link>
       <description>
@@ -589,31 +624,6 @@ which presumes innocence until guilt is proven.
       </description>
       <category></category>
       <guid>https://hax.camp/coc</guid>
-      <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
-    </item>
-    <item>
-      <title>Details</title>
-      <link>https://hax.camp/details</link>
-      <description>
-          <![CDATA[ <h3>When is it?</h3>
-<p>October 7th and 8th, 2019<br/></p>
-<h3>Where is it?</h3>
-<blockquote class="hax-active"><span style=""><span style="caret-color: rgb(25, 30, 35);"><b>Duke University<br/>Bostock Library<br/>Telecom Drive<br/>Durham, NC 27710</b>
-
-
-
-</span><br/></span></blockquote>
-<html-block style="display: block; width: 100%;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1687.3797126688928!2d-78.9396484850072!3d36.00311075229569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6ae3a206b37%3A0xb1b730d7077b2d71!2sTelecom+Dr%2C+Durham%2C+NC+27710!5e0!3m2!1sen!2sus!4v1565888263939!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border: 0px; margin: 0px auto; display: block; width: 100%;" allowfullscreen=""></iframe>
-
-
-</html-block>
-<p>Duke has graciously offered to host the <i>first ever</i>
- HAX Camp to increase knowledge sharing among web component developers and those who would most benefit from them.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>https://hax.camp/details</guid>
       <pubDate>Tue, 28 May 2019 18:20:22 -0600</pubDate>
     </item>
     <item>
