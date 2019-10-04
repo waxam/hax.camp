@@ -518,6 +518,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190716_102855.jpg",
                         "size": 124200
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/IMG_20190819_205859.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/IMG_20190819_205859.jpg",
+                        "url": "files\/IMG_20190819_205859.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190819_205859.jpg",
+                        "size": 141777
                     }
                 ]
             }
