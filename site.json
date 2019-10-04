@@ -477,7 +477,17 @@
             "description": "",
             "metadata": {
                 "created": 1570188762,
-                "updated": 1570188762
+                "updated": 1570188762,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/EBd7L7eXkAAOW_d.jpg",
+                        "fullUrl": "\/sites\/hax-camp\/files\/EBd7L7eXkAAOW_d.jpg",
+                        "url": "files\/EBd7L7eXkAAOW_d.jpg",
+                        "type": "image\/jpeg",
+                        "name": "EBd7L7eXkAAOW_d.jpg",
+                        "size": 1546770
+                    }
+                ]
             }
         },
         {
