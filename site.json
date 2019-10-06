@@ -573,22 +573,22 @@
             "order": "7",
             "parent": null,
             "title": "Code of conduct",
-            "description": "Code of Conduct.Don't troll people by showing VDOM and everything will be cool.No but seriously..Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge ",
+            "description": "Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge to making participation in our event as awesome as we possibly can.It is the policy of hax-camp to ",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1570194220,
+                "updated": 1570383965,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,
-                    "paragraphs": 11,
+                    "paragraphs": 8,
                     "schema": [],
                     "tags": {
-                        "p": 11,
                         "h2": 3,
+                        "p": 8,
                         "h3": 5,
                         "ul": 2
                     },
-                    "elements": 21
+                    "elements": 18
                 }
             }
         }
