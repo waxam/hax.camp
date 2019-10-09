@@ -515,25 +515,22 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>hax-camp</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-10-06T11:45:48-06:00</updated>
+    <updated>2019-10-08T22:55:21-06:00</updated>
     <published>2019-05-28T18:08:49-06:00</published>
-    <summary>< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!! Check out the EventBright and register today!Join our slack (channel #haxca</summary>
+    <summary>< hax-camp > 2019 is in the books! Thank you to everyone who came out to share web components and knowledge of related topics!Keep the conversation going: Join our slack (channel #haxcamp) an</summary>
     <link href="https://hax.camp/hax-camp"/>
     
     <content type="html">
       <![CDATA[ <p><b>< hax-camp ></b>
- is a first of its kind <i><b><a href="schedule/unconference">unconference</a>
-</b>
-</i>
- dedicated to all thing <a href="https://open-wc.org">Web components</a>
-</p>
-<div><div><p><b>Registration is now open!! <a href="https://www.eventbrite.com/e/haxcamp-web-components-all-the-things-tickets-69761529613?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing">Check out the EventBright and register today</a>
-<span>!</span></b>
-</p>
-<p><a href="https://join.slack.com/t/elmsln/shared_invite/enQtMjg2MzUxMTYyNjcyLWNhYzU1ODk0MjQ5MWZlNjVjNWJkMmZlODJiMGNmNDBjODk2NDc2MDUzNTZkODE4NTRiMjUzYzkzOTBkNjI4NGE">Join our slack</a>
- (channel #haxcamp) and follow <a href="https://twitter.com/search?q=%23HAXTheWeb&src=typed_query&f=live">#HAXTheWeb</a>
- or <a href="https://twitter.com/haxcamp">@haxcamp</a>
- during the event for live updates and links to streams of different rooms throughout the days!</p>
+ 2019 is in the books! Thank you to everyone who came out to share web components and knowledge of related topics!</p>
+<video-player accent-color="blue" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX The Camp 2019 Address by @btopro" preload="metadata" source="https://www.youtube.com/watch?v=f_tEA9O9pco" source-type="youtube" sticky-corner="top-right" youtube-id="f_tEA9O9pco" schema-resource-id="#ee930948-058e-97dc-18a6" resource="#ee930948-058e-97dc-18a6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" sources="[]" tracks="[]"></video-player>
+<div><div><p><b>Keep the conversation going: </b>
+<a href="https://join.slack.com/t/elmsln/shared_invite/enQtMjg2MzUxMTYyNjcyLWNhYzU1ODk0MjQ5MWZlNjVjNWJkMmZlODJiMGNmNDBjODk2NDc2MDUzNTZkODE4NTRiMjUzYzkzOTBkNjI4NGE" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">Join our slack</a>
+<span>
+ (channel #haxcamp) and follow </span><a href="https://twitter.com/search?q=%23HAXTheWeb&src=typed_query&f=live" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">#HAXTheWeb</a>
+<span>
+ or </span><a href="https://twitter.com/haxcamp" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">@haxcamp</a>
+<span style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);"> for updates, links and to have community with other webcomponent developers!</span></p>
 </div>
 </div>
 <img src="files/haxcampposter.jpg" alt="HAX Camp Duke poster describing how to sign up." style="width: 100%; margin: 0px auto; display: block;"/><p><span>Want to learn more about </span><strong>LitElement</strong>

@@ -123,22 +123,28 @@
             "order": "0",
             "parent": null,
             "title": "hax-camp",
-            "description": "< hax-camp > is a first of its kind unconference dedicated to all thing Web componentsRegistration is now open!!\u00a0Check out the EventBright and register today!Join our slack\u00a0(channel #haxca",
+            "description": "< hax-camp >\u00a02019 is in the books! Thank you to everyone who came out to share web components and knowledge of related topics!Keep the conversation going:\u00a0Join our slack\u00a0(channel #haxcamp) an",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1570383948,
+                "updated": 1570596921,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
                     "paragraphs": 11,
-                    "schema": [],
+                    "schema": [
+                        {
+                            "resource": "#ee930948-058e-97dc-18a6",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
                         "p": 11,
+                        "video-player": 1,
                         "div": 1,
                         "img": 1,
                         "h3": 1
                     },
-                    "elements": 14
+                    "elements": 15
                 },
                 "files": [
                     {
