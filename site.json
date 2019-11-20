@@ -154,6 +154,14 @@
                         "type": "image\/jpeg",
                         "name": "haxcampposter.jpg",
                         "size": 186801
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/hax-camp\/files\/overflow.png",
+                        "fullUrl": "\/sites\/hax-camp\/files\/overflow.png",
+                        "url": "files\/overflow.png",
+                        "type": "image\/png",
+                        "name": "overflow.png",
+                        "size": 14971
                     }
                 ]
             }
