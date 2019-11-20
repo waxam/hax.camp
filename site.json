@@ -8,16 +8,19 @@
         "author": {
             "name": "Bryan Ollendyke",
             "image": "files\/headshot.jpg",
-            "socialLink": "https:\/\/twitter.com\/btopro"
+            "socialLink": "https:\/\/twitter.com\/btopro",
+            "email": ""
         },
         "site": {
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1570194220,
+            "updated": 1574263604,
             "settings": {
                 "pathauto": false,
-                "publishPagesOn": false
+                "publishPagesOn": false,
+                "sw": false,
+                "forceUpgrade": false
             },
             "git": {
                 "vendor": "github",
@@ -32,7 +35,9 @@
                 "lastPublished": 1570596932,
                 "publishedLocation": "https:\/\/hax.camp",
                 "offline": false
-            }
+            },
+            "version": "0.12.3",
+            "logo": "files\/overflow.png"
         },
         "theme": {
             "element": "learn-two-theme",
