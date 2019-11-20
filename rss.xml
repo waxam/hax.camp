@@ -494,19 +494,20 @@ which presumes innocence until guilt is proven.
       <title>hax-camp</title>
       <link>https://hax.camp/hax-camp</link>
       <description>
-          <![CDATA[ <p><b>< hax-camp ></b>
- 2019 is in the books! Thank you to everyone who came out to share web components and knowledge of related topics!</p>
-<video-player accent-color="blue" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX The Camp 2019 Address by @btopro" preload="metadata" source="https://www.youtube.com/watch?v=f_tEA9O9pco" source-type="youtube" sticky-corner="top-right" youtube-id="f_tEA9O9pco" schema-resource-id="#ee930948-058e-97dc-18a6" resource="#ee930948-058e-97dc-18a6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" sources="[]" tracks="[]"></video-player>
+          <![CDATA[ <p>Missed<b> < hax-camp ></b>
+ 2019? Don't worry, we've got big plans for 2020 with multiple events. Thank you to everyone who came out to share web components knowledge at Duke.</p>
 <div><div><p><b>Keep the conversation going: </b>
 <a href="https://join.slack.com/t/elmsln/shared_invite/enQtMjg2MzUxMTYyNjcyLWNhYzU1ODk0MjQ5MWZlNjVjNWJkMmZlODJiMGNmNDBjODk2NDc2MDUzNTZkODE4NTRiMjUzYzkzOTBkNjI4NGE" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">Join our slack</a>
 <span>
  (channel #haxcamp) and follow </span><a href="https://twitter.com/search?q=%23HAXTheWeb&src=typed_query&f=live" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">#HAXTheWeb</a>
 <span>
  or </span><a href="https://twitter.com/haxcamp" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">@haxcamp</a>
-<span style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);"> for updates, links and to have community with other webcomponent developers!</span></p>
+<span> for updates, links and to have community with other webcomponent developers! </span><span>Here's a recording of the </span><b>HAX The Camp 2019 Address</b>
+<span>. See you in 2020!</span></p>
 </div>
 </div>
-<img src="files/haxcampposter.jpg" alt="HAX Camp Duke poster describing how to sign up." style="width: 100%; margin: 0px auto; display: block;"/><p><span>Want to learn more about </span><strong>LitElement</strong>
+<video-player accent-color="blue" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX The Camp 2019 Address by @btopro" preload="metadata" source="https://www.youtube.com/watch?v=f_tEA9O9pco" source-type="youtube" sticky-corner="top-right" youtube-id="f_tEA9O9pco" schema-resource-id="#ee930948-058e-97dc-18a6" resource="#ee930948-058e-97dc-18a6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" sources="[]" tracks="[]"></video-player>
+<img src="files/haxcampposter.jpg" alt="HAX Camp Duke poster describing how to sign up." style="width: 80%; margin: 0px auto; display: block;"/><p><span>Want to learn more about </span><strong>LitElement</strong>
 <span>
 , </span><strong>Polymer</strong>
 <span>

@@ -123,10 +123,10 @@
             "order": "0",
             "parent": null,
             "title": "hax-camp",
-            "description": "< hax-camp >\u00a02019 is in the books! Thank you to everyone who came out to share web components and knowledge of related topics!Keep the conversation going:\u00a0Join our slack\u00a0(channel #haxcamp) an",
+            "description": "Missed < hax-camp >\u00a02019? Don't worry, we've got big plans for 2020 with multiple events. Thank you to everyone who came out to share web components knowledge at Duke.Keep the conversation going:\u00a0",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1570596921,
+                "updated": 1574263575,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -139,8 +139,8 @@
                     ],
                     "tags": {
                         "p": 11,
-                        "video-player": 1,
                         "div": 1,
+                        "video-player": 1,
                         "img": 1,
                         "h3": 1
                     },
