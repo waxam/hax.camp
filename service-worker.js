@@ -44,43 +44,47 @@ var precacheConfig = [
     ],
     [
         "pages\/hax-camp\/index.html",
-        "laPVtxvFcOFZ90dOe66sNA"
+        "MglwXaPge1EK7f52FQkmuA"
     ],
     [
         "pages\/why-attend\/index.html",
-        "fJB1Wl5M10H1XukRD1FQ"
+        "GewG1rXwvCNHyYGKtGayRg"
+    ],
+    [
+        "pages\/past-hax-camps\/haxcamp-1-duke-2019\/index.html",
+        "MCXOUwrMdjQhLWqwhQJ3Pg"
     ],
     [
         "pages\/convince-my-hippo\/index.html",
         "6JwI1w7Kj4K1vigmiHuMnw"
     ],
     [
+        "pages\/past-hax-camps\/index.html",
+        "c7qM4ecFzfn38SxFwkjfw"
+    ],
+    [
         "pages\/register\/index.html",
-        "coUWX5o4OaOYVk7gtoG9ew"
+        "cWjPGZGbb9xBNBqFp1tlGg"
     ],
     [
         "pages\/whos-coming\/index.html",
-        "mdHsTC86xbUQjPIrWCI3w"
-    ],
-    [
-        "pages\/getting-here\/index.html",
-        "Pz0oMAsNXXJnHJZ6CJaYg"
+        "SU2hYftfsR15E3n3TkSw"
     ],
     [
         "pages\/sponsors\/index.html",
-        "ilMHgKHjOoesK5CBCcSQg"
+        "pV9AhJX6skzlmCVWe9JIA"
     ],
     [
         "pages\/scavenger-hunt\/index.html",
-        "552Q8glyYIJP2PpghSmgQ"
+        "LEm403gi4QiYWG2zbZGsA"
     ],
     [
         "pages\/schedule\/index.html",
-        "bv7oNWSG4QnyPatJwgLzMg"
+        "izSLpjjPXkgsX35LEHqjTg"
     ],
     [
         "pages\/details\/index.html",
-        "wh6Xarr11TWvCrjeetVw"
+        "afzc6DJMuJbzZPBuQZYpw"
     ],
     [
         "pages\/coc\/index.html",
@@ -140,7 +144,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "HcoizQ5Ag9T3WDJvjlrxCg"
+        "lI53rNwfSYY1VPuQ6F8GYw"
     ],
     [
         "404.html",
