@@ -3,242 +3,44 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2019-10-04T07:03:40-06:00</updated>
+  <updated>2020-03-06T20:23:55+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
   <id>https://hax.camp/feed</id>
   <entry>
-    <title>Scavenger Hunt</title>
-    <id>https://hax.camp/scavenger-hunt</id>
-    <updated>2019-10-04T18:56:48-06:00</updated>
-    <published>2019-10-04T05:32:42-06:00</published>
-    <summary>We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the hockey web components team.</summary>
-    <link href="https://hax.camp/scavenger-hunt"/>
+    <title>HAXcamp 1: Duke 2019</title>
+    <id>https://hax.camp/past-hax-camps/haxcamp-1-duke-2019</id>
+    <updated>2020-03-06T20:53:52+00:00</updated>
+    <published>2020-03-06T20:23:55+00:00</published>
+    <summary>SponsorsA big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatHost location; Breakfast, Lun</summary>
+    <link href="https://hax.camp/past-hax-camps/haxcamp-1-duke-2019"/>
     
     <content type="html">
-      <![CDATA[ <grid-plate layout="8/4" responsive-size="md" style="width: 100%;">
-<img src="files/IMG_20190819_205859.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_105535.jpg" slot="col-2" style="width: 75%;"/>
-<img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-2" style="width: 75%;"/><p slot="col-1">We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor <b>WaxaM</b>
-! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the <strike>hockey</strike>
- web components team.</p>
-<ol slot="col-1">
-  <li>Attend HAX camp</li>
-<li><a href="https://github.com/elmsln/haxcms" target="_blank">Star, Fork, Clone the HAXcms repo</a>
-</li>
-<li>Install or get a copy of HAXcms either on <a href="http://2019.hax.camp" target="_blank">HAXonDemand</a>
-, <a href="https://reclaimhosting.com/" target="_blank">ReclaimHosting</a>
- or setup your own (we support ddev, docker, vagrant and w/mamp installs as it's a flat file system that only requires apache2.4 / php 7.1+)</li>
-<li>Tweet / FB / insta / whatev a photo of the hax camp poster with #HAXTheWeb #webcomponents and <a href="https://twitter.com/haxcamp" target="_blank">@haxcamp</a>
-</li>
-<li>Send out a photo of a hockey jersey (there will be many) with #HAXTheWeb #webcomponents and <a href="https://twitter.com/haxcamp" target="_blank">@haxcamp</a>
-</li>
-<li>Live blog sessions on HAXcms that you attend making sure to use the same hash tags for people to follow along and send <a href="https://twitter.com/haxcamp" target="_blank" style="font-size: 24px; font-weight: 400;">@haxcamp</a>
- a link to your blog</li>
-<li>Be among the <strong>first 10 people</strong>
- to post notes / a write up of at least <b>3</b>
-<strong> sessions</strong>
-, a jersey is yours</li>
-<li>Let us send out a photo of you in your sweet threads and take a "team photo" when we "fill out the roster"</li>
-<li>Walk away with a sick jersey to keep and spread the good vibes of team HAXTheWeb!</li>
-</ol>
-<p slot="col-1"><b>The person who covers the most topics / the most of the event</b>
- will walk away with a limited edition, embroidered H-A-X Camp 19 Carolina Hurricanes jersey!</p>
-<img src="files/IMG_20190716_102855.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/></grid-plate>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Who is coming</title>
-    <id>https://hax.camp/whos-coming</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-09-12T14:01:40-06:00</published>
-    <summary>HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show off our open source library of web compo</summary>
-    <link href="https://hax.camp/whos-coming"/>
-    
-    <content type="html">
-      <![CDATA[ <p>HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.</p>
-<person-testimonial style="width: 75%;" elevation="1" image="files/2019-09-24_13-39-04.png" name="@KENDALLTOTTEN" position="Front-end Web Development Manager, redhat.com" accent-color="red">  <span>I'm excited to show off our open source library of web components, PatternFly Elements, and how the components make use of some powerhouse CSS variables! I want to learn more about how to handle browser edge cases.</span>
-</person-testimonial>
-<person-testimonial elevation="1" image="files/xmas_tree_sweater.jpg" name="@kreynen" position="Digital Marketing Developer at University of Colorado" accent-color="light-green" style="width: 75%;" __utils="[object HTMLElement]">  <span>I'm excited to show how Web Components are now a standard in mainstream services like Salesforce and how web developers can use Salesforce resources outside of Salesforce.</span>
-</person-testimonial>
-<person-testimonial elevation="1" image="files/n9uXHmHw_400x400.jpg" name="@NikkiMK" position="HAX Core contributor" accent-color="deep-purple" style="width: 75%;" __utils="[object HTMLElement]">  <span>I'm excited to show off our rich-text-editor element coming to HAX in the near future as well as learn more about how PatternFly Elements are handling SASS color variables.</span>
-</person-testimonial>
-<person-testimonial elevation="1" image="files/thumbnail_IMG_0550.jpg" name="@timmmmyboy" position="Cofounder, Reclaim Hosting" accent-color="brown" style="width: 75%;" __utils="[object HTMLElement]">  <span>I’m looking forward to exploring how we can make HAX as easy as possible to spin up in a variety of environments.</span>
-</person-testimonial>
-<person-testimonial style="width: 75%;" elevation="1" image="files/jolie.jpg" name="@jolietingen" position="Product Manager, Kits" accent-color="blue" __utils="[object HTMLElement]">  <span>I'm attending HAX Camp to learn the value and best practices of using web components, and learning how HAX and PatternFly have put this into practice.</span>
-</person-testimonial>
-<person-testimonial style="width: 75%;" elevation="1" image="files/fusco.jpg" name="David Fusco, PSU" position="Associate Dean of Undergraduate & Graduate Studies, College of IST" accent-color="blue" __utils="[object HTMLElement]">  <span>I’m excited to show people that great solutions can be built by bringing passionate creators together with a common vision to make education and learning experiences better.</span>
-</person-testimonial>
-<person-testimonial elevation="1" image="files/Tom Profile Edit2.jpg" name="@Tom_Var" position="Instructional Production Specialist" accent-color="light-green" style="width: 75%;" __utils="[object HTMLElement]">  <span>I look forward to learning how to make a theme in HAX so people have an easier and more interactive way to show off everything from resumes to online courses</span>
-</person-testimonial>
-<person-testimonial style="width: 75%;" elevation="1" image="files/cgl_square_2M.jpg" name="Chuck Lavera" position="HAX core contributor" accent-color="deep-orange" __utils="[object HTMLElement]">  <span>I'm excited to share our work on HAXcms theming, as well as to showcase how we create HAX-editable web components and wire them into custom themes.</span>
-</person-testimonial>
-<person-testimonial style="width: 75%;" elevation="1" image="files/IMG_20190307_142259.jpg" name="@btopro" position="HAX / ELMS:LN Project lead" accent-color="blue" __utils="[object HTMLElement]">  <span style="width: 75%;">I'm excited to show people the latest and greatest that HAXcms has to offer as well as learn more about how Sakai and Redhat have been leveraging web components in their design work.</span>
-</person-testimonial>
-<p>Join these and other cool cats at <a href="https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-69761529613?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare">HAX camp October 7th and 8th</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-!</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Sponsors</title>
-    <id>https://hax.camp/sponsors</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-08-15T12:21:02-06:00</published>
-    <summary>A big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatHost locati</summary>
-    <link href="https://hax.camp/sponsors"/>
-    
-    <content type="html">
-      <![CDATA[ <p>A big thank you to all of our sponsors of <b>< hax-camp ></b>
-
-
-
-
-, This event is only made possible with your support!</p>
-<grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1-1" responsive-size="md" style="width: 100%;">  
-
-  
-  
-<img src="files/logo--500.png" alt="Red Hat" slot="col-2" style="width: 75%; margin: 0px auto; display: block;"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%; margin: 0px auto; display: block;"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 25%; margin: 0px auto; display: block;"/><h2 slot="col-3">WaxaM</h2>
-
-
-
-
-<h2 slot="col-1">Duke Learning Innovation</h2>
-
-
-
-
-<p><br/></p>
-
-
-
-
-<p><br/></p>
-
-
-
-
-<h2 slot="col-2">Red Hat</h2>
-
-
-
-
-<p><br/></p>
-
-
-
-
-<p slot="col-1">Host location; Breakfast, Lunch, Sakai streaming session room</p>
-
-
-
-
-
-
-<p slot="col-3">Swag, hosting, website, operational support</p>
-
-
-
-
-<p slot="col-2">Lunch, Tuesday lunch and learn</p>
-
-
-<img src="files/thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png" alt="Reclaim Hosting VHS cassette logo" slot="col-2" style="width: 75%;"/><h2 slot="col-2">Reclaim hosting</h2>
-
-<p><br/></p>
-
-<p><br/></p>
-
-<p slot="col-2">After party</p>
-
+      <![CDATA[ <grid-plate layout="1-1" responsive-size="md" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" style="width: 100%;" hide-ops column-widths="[&quot;50%&quot;,&quot;50%&quot;]"><img src="files/haxcampposter.jpg" alt="HAX Camp Duke poster describing how to sign up." style="width: 75%; margin: 0px auto; display: block;" slot="col-1" ="false"=""="false"/><video-player accent-color="blue" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX The Camp 2019 Address by @btopro" preload="metadata" source="https://www.youtube.com/watch?v=f_tEA9O9pco" source-type="youtube" sticky-corner="top-right" youtube-id="f_tEA9O9pco" schema-resource-id="#ee930948-058e-97dc-18a6" resource="#ee930948-058e-97dc-18a6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%; margin: 0px auto; display: block;" sources="[]" tracks="[]" slot="col-2"></video-player>
 </grid-plate>
-<p>Interested in helping sponsor <b>hax-camp</b>
-
-
-
-
-
-? Reach out to info[at]waxam.io about how you can get involved in making our camp a success!</p>
-<br/><br/> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Getting here</title>
-    <id>https://hax.camp/getting-here</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-08-15T10:57:14-06:00</published>
-    <summary>hax-camp will be held at the Duke University Bostock Library(Floor 1) on October 7th & 8th 2019.Bostock LibraryTelecom DriveDurham, NC 27710ParkingBryan Center lot is the closest - se</summary>
-    <link href="https://hax.camp/getting-here"/>
-    
-    <content type="html">
-      <![CDATA[ <p><b>hax-camp </b>
-
-will be held at the Duke University <a href="https://naming.library.duke.edu/room/14181">Bostock Library</a>
-
-<span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);"><a href="https://naming.library.duke.edu/room/14181">(Floor 1)</a>
-
-
- on October 7th & 8th 2019.</span></p>
-<blockquote class="hax-active"><span style=""><span style="caret-color: rgb(25, 30, 35);"><b>Bostock Library<br/>Telecom Drive<br/>Durham, NC 27710</b>
-
-
-
-</span><br/></span></blockquote>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1687.3797126688928!2d-78.9396484850072!3d36.00311075229569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6ae3a206b37%3A0xb1b730d7077b2d71!2sTelecom+Dr%2C+Durham%2C+NC+27710!5e0!3m2!1sen!2sus!4v1565888263939!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border: 0px; margin: 0px auto; display: block; width: 100%;" allowfullscreen=""></iframe>
-<h3>Parking</h3>
-<p><span style="caret-color: rgb(0, 0, 0);"><span style="">Bryan Center lot is the closest - see
-<span id="docs-internal-guid-9fca6db2-7fff-9715-58b8-a2f9a34b7c65" style=""><a href="https://parking.duke.edu/visitor" style="">https://parking.duke.edu/visitor</a>
-
-
-
- for details</span></span></span></p>
-<h3 class="hax-active"><span style="caret-color: rgb(0, 0, 0);"><span style=""><span style="">Transportation</span></span></span></h3>
-<p><span style="caret-color: rgb(0, 0, 0);"><span style=""><span style="">The <a href="https://www.rdu.com/">Raleigh-Durham International Airport</a>
-
-
-
- is a 25 minute drive from the Duke Library and around a $20-30 cab ride.</span></span></span></p>
-<h3><span style="caret-color: var(--hax-color-text);">Hotels</span></h3>
-<p><span style="caret-color: rgb(25, 30, 35);" class="hax-active">Durham has many hotels in the surrounding area including a few just off campus and one on campus. Many are staying at the <a href="https://www.marriott.com/hotels/travel/rdufs-courtyard-durham-near-duke-university-downtown/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe">Courtyard Durham near Duke University / Downtown</a>
-.</span></p>
-<p><span style="caret-color: rgb(25, 30, 35);">Here's a <a href="https://www.google.com/maps/search/Hotels/@36.0052302,-78.9457881,14.9z/data=!4m14!2m13!3m6!1sHotels!2sTelecom+Dr,+Durham,+NC+27710!3s0x89ace6ae3a206b37:0xb1b730d7077b2d71!4m2!1d-78.9388428!2d36.0031066!5m5!5m4!1s2019-10-06!2i3!4m1!1i1?hl=en-US">Shortcut google link</a>
-
-
-
- to see what else is around if you'd rather stay elsewhere or want to just see the area.</span></p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Schedule</title>
-    <id>https://hax.camp/schedule</id>
-    <updated>2019-10-04T07:05:38-06:00</updated>
-    <published>2019-08-15T10:54:37-06:00</published>
-    <summary>The schedule will be fully built out by attendees the first 45 minutes of each day. We'll take a photo and post it here and twitter after the schedule has been created. Unconferences can be nebulou</summary>
-    <link href="https://hax.camp/schedule"/>
-    
-    <content type="html">
-      <![CDATA[ <p>The schedule will be fully built out <i>by attendees</i>
- the first 45 minutes of each day. We'll take a photo and post it here and twitter after the schedule has been created. <i>Unconferences</i>
- can be nebulous so here's an idea of what to expect!</p>
-<h3>Example / planned discussions</h3>
+<h2 style="width: 100%;" id="header-5ab674cf-82b0-40fe-768e-f22e42e0b945">Sponsors</h2>
+<p style="width: 100%;">A big thank you to all of our sponsors of <b>< hax-camp ></b>
+, This event is only made possible with your support!</p>
+<grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1-1" responsive-size="md" style="width: 100%;" hide-ops column-widths="[&quot;33.3333333%&quot;,&quot;33.3333333%&quot;,&quot;33.3333333%&quot;]">  
+  
+  
+<img src="files/logo--500.png" alt="Red Hat" slot="col-2" style="width: 75%; margin: 0px auto; display: block;" ="false"=""="false"/><img src="files/2019-08-29_20-45-10.png" alt="Duke Learning Innovations" slot="col-1" style="width: 75%; margin: 0px auto; display: block;" ="false"=""="false"/><img src="files/bee.png" alt="WaxaM Inc" slot="col-3" style="width: 25%; margin: 0px auto; display: block;" ="false"=""="false"/><h2 slot="col-3">WaxaM</h2>
+<h2 slot="col-1">Duke Learning Innovation</h2>
+<p></p>
+<p></p>
+<h2 slot="col-2">Red Hat</h2>
+<p></p>
+<p slot="col-1">Host location; Breakfast, Lunch, Sakai streaming session room</p>
+<p slot="col-3">Swag, hosting, website, operational support</p>
+<p slot="col-2">Lunch, Tuesday lunch and learn</p>
+<img src="files/thumbnail_RH-VHS-Logo-Blue-with-Orange-620x394.png" alt="Reclaim Hosting VHS cassette logo" slot="col-2" style="width: 75%;" ="false"=""="false"/><h2 slot="col-2">Reclaim hosting</h2>
+<p></p>
+<p></p>
+<p slot="col-2">After party</p>
+</grid-plate>
+<h2 style="width: 100%;" id="header-5e1caa16-59f6-f792-c10e-aefb6f118197">Schedule</h2>
+<h3 id="header-6bfb96d8-9c1c-22ea-ed26-251d43908403" style="width: 100%;">Example / planned discussions</h3>
 <ul><li><b>Library usage discussion</b>
  - Who's using what, experiences, likes / dislikes. LitElement vs VanillaJS vs SkateJS, etc.</li>
 <li><b>Theming web components</b>
@@ -266,7 +68,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
  - When to do one vs the other, CDN discussions</li>
 <li>Anything you bring to the table! These are just suggestions based on who's going to be there!</li>
 </ul>
-<h3>Monday Oct 7th 2019</h3>
+<h3 id="header-4e7c0182-6652-9d3b-836a-e39335948036">Monday Oct 7th 2019</h3>
 <ul><li>9:00 - 9:15 - coffee and registration</li>
 <li>9:15 - 9:30 - Welcome to hax-camp from organizers</li>
 <li>9:30 - 10:30 - Introductions and schedule formation</li>
@@ -284,12 +86,208 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
 </b>
 </li>
 </ul>
-<h3><span>Tuesday Oct 8th 2019</span></h3>
+<h3 id="header-73855199-da05-8929-0cd2-d30481d134e8" style="width: 100%;"><span>Tuesday Oct 8th 2019</span></h3>
 <ul><li>9:00 - 9:30 - coffee and registration</li>
 <li>9:30 - 10:15 - Schedule formation</li>
 <li>10:35 - 11:20 - Slot 1 discussions / presentations</li>
 <li>11:30 - 12:15 - Slot 2 discussions / presentations</li>
 <li>12:20 - 1:35 - Lunch, PatternFly by PFElements Team</li>
+<li>1:40 - 2:25 - Slot 3 discussions / presentations</li>
+<li>2:35 - 3:20 - Slot 4 discussions / presentations</li>
+<li>3:30 - 4:15 - Slot 5 discussions / presentations</li>
+<li>4:15 - 4:30 - Debrief / "build our roster" / make evening plans</li>
+</ul>
+<h2 style="width: 100%;" id="header-8040cbe2-0951-31f8-f8e7-19645e48f604">Getting here</h2>
+<p style="width: 100%;"><b>hax-camp </b>
+will be held at the Duke University <a href="https://naming.library.duke.edu/room/14181">Bostock Library</a>
+<span><a href="https://naming.library.duke.edu/room/14181">(Floor 1)</a>
+ on October 7th & 8th 2019.</span></p>
+<blockquote><span><span><b>Bostock Library<br/>Telecom Drive<br/>Durham, NC 27710</b>
+</span><br/></span></blockquote>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1687.3797126688928!2d-78.9396484850072!3d36.00311075229569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6ae3a206b37%3A0xb1b730d7077b2d71!2sTelecom+Dr%2C+Durham%2C+NC+27710!5e0!3m2!1sen!2sus!4v1565888263939!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border: 0px; margin: 0px auto; display: block; width: 100%;" allowfullscreen=""></iframe>
+<h3 id="header-ccf53d3b-23f7-d249-4f0f-ba11465a5487">Parking</h3>
+<p><span><span>Bryan Center lot is the closest - see
+<span id="docs-internal-guid-9fca6db2-7fff-9715-58b8-a2f9a34b7c65" style=""><a href="https://parking.duke.edu/visitor" style="">https://parking.duke.edu/visitor</a>
+ for details</span></span></span></p>
+<h3 id="header-6d453367-06d0-323c-c9aa-97f40a466bd2"><span><span><span>Transportation</span></span></span></h3>
+<p><span><span><span>The <a href="https://www.rdu.com/">Raleigh-Durham International Airport</a>
+ is a 25 minute drive from the Duke Library and around a $20-30 cab ride.</span></span></span></p>
+<h3 id="header-95eff809-e7d4-80c0-57ea-7ec3bfc1008e"><span>Hotels</span></h3>
+<p><span>Durham has many hotels in the surrounding area including a few just off campus and one on campus. Many are staying at the <a href="https://www.marriott.com/hotels/travel/rdufs-courtyard-durham-near-duke-university-downtown/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe">Courtyard Durham near Duke University / Downtown</a>
+.</span></p>
+<p><span>Here's a <a href="https://www.google.com/maps/search/Hotels/@36.0052302,-78.9457881,14.9z/data=!4m14!2m13!3m6!1sHotels!2sTelecom+Dr,+Durham,+NC+27710!3s0x89ace6ae3a206b37:0xb1b730d7077b2d71!4m2!1d-78.9388428!2d36.0031066!5m5!5m4!1s2019-10-06!2i3!4m1!1i1?hl=en-US">Shortcut google link</a>
+ to see what else is around if you'd rather stay elsewhere or want to just see the area.</span></p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Past HAX camps</title>
+    <id>https://hax.camp/past-hax-camps</id>
+    <updated>2020-03-06T20:52:32+00:00</updated>
+    <published>2020-03-06T20:23:55+00:00</published>
+    <summary>This contains notes and meetings of past HAX camps to give you an idea of the history of the organizing effort, where we've been and hopefully an idea of where we're going as a result!</summary>
+    <link href="https://hax.camp/past-hax-camps"/>
+    
+    <content type="html">
+      <![CDATA[ <p style="width: 100%;">This contains notes and meetings of past HAX camps to give you an idea of the history of the organizing effort, where we've been and hopefully an idea of where we're going as a result!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Scavenger Hunt</title>
+    <id>https://hax.camp/scavenger-hunt</id>
+    <updated>2020-03-06T20:46:07+00:00</updated>
+    <published>2019-10-04T11:32:42+00:00</published>
+    <summary>We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the hockey web components team.</summary>
+    <link href="https://hax.camp/scavenger-hunt"/>
+    
+    <content type="html">
+      <![CDATA[ <grid-plate layout="8/4" responsive-size="md" style="width: 100%;" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" hide-ops column-widths="[&quot;66.6666667%&quot;,&quot;33.3333337%&quot;]">
+<img src="files/IMG_20190819_205859.jpg" slot="col-2" style="width: 75%;"="false"/><img src="files/IMG_20190726_105535.jpg" slot="col-2" style="width: 75%;"="false"/>
+<img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-2" style="width: 75%;"="false"/><p slot="col-1" style="width: 100%;">We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor <b>WaxaM</b>
+! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the <strike>hockey</strike>
+ web components team.</p>
+<ol slot="col-1">
+  <li>Attend a HAX camp</li>
+<li><a href="https://github.com/elmsln/haxcms" target="_blank">Star, Fork, Clone the HAXcms repo</a>
+</li>
+<li>Install HAX or HAXcms either via <a href="http://2019.hax.camp" target="_blank">HAXonDemand</a>
+, <a href="https://reclaimhosting.com/" target="_blank">ReclaimHosting</a>
+ or setup your own (we support ddev, drupal 7/8, backdrop, classicpress, wordpress, gravcms, docker and W/MAMP installs as it's a flat file system that only requires apache2.4 / php 7.1+)</li>
+<li>Tweet / FB / insta / whatev a photo of the hax camp poster with #HAXTheWeb #webcomponents and <a href="https://twitter.com/haxcamp" target="_blank">@haxcamp</a>
+</li>
+<li>Send out a photo of a hockey jersey (there will be many) with #HAXTheWeb #webcomponents and <a href="https://twitter.com/haxcamp" target="_blank">@haxcamp</a>
+</li>
+<li>Live blog sessions on HAXcms that you attend making sure to use the same hash tags for people to follow along and send <a href="https://twitter.com/haxcamp" target="_blank" style="font-size: 24px; font-weight: 400;">@haxcamp</a>
+ a link to your blog</li>
+<li>Let us send out a photo of you in your sweet threads and take a "team photo" when we "fill out the roster"</li>
+<li>Walk away with a sick jersey to keep and spread the good vibes of team HAXTheWeb!</li>
+</ol>
+<img src="files/IMG_20190716_102855.jpg" slot="col-2" style="width: 75%;"="false"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"="false"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"="false"/></grid-plate>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Who is coming</title>
+    <id>https://hax.camp/whos-coming</id>
+    <updated>2020-03-06T20:24:36+00:00</updated>
+    <published>2019-09-12T20:01:40+00:00</published>
+    <summary>HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show off our open source library of web compo</summary>
+    <link href="https://hax.camp/whos-coming"/>
+    
+    <content type="html">
+      <![CDATA[ <p style="width: 100%;">HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.</p>
+<person-testimonial style="width: 75%;" elevation="1" image="files/2019-09-24_13-39-04.png" name="@KENDALLTOTTEN" position="Front-end Web Development Manager, redhat.com" accent-color="red">  <span>I'm excited to show off our open source library of web components, PatternFly Elements, and how the components make use of some powerhouse CSS variables! I want to learn more about how to handle browser edge cases.</span>
+</person-testimonial>
+<person-testimonial elevation="1" image="files/xmas_tree_sweater.jpg" name="@kreynen" position="Digital Marketing Developer at University of Colorado" accent-color="light-green" style="width: 75%;" __utils="[object HTMLElement]">  <span>I'm excited to show how Web Components are now a standard in mainstream services like Salesforce and how web developers can use Salesforce resources outside of Salesforce.</span>
+</person-testimonial>
+<person-testimonial elevation="1" image="files/n9uXHmHw_400x400.jpg" name="@NikkiMK" position="HAX Core contributor" accent-color="deep-purple" style="width: 75%;" __utils="[object HTMLElement]">  <span>I'm excited to show off our rich-text-editor element coming to HAX in the near future as well as learn more about how PatternFly Elements are handling SASS color variables.</span>
+</person-testimonial>
+<person-testimonial elevation="1" image="files/thumbnail_IMG_0550.jpg" name="@timmmmyboy" position="Cofounder, Reclaim Hosting" accent-color="brown" style="width: 75%;" __utils="[object HTMLElement]">  <span>I’m looking forward to exploring how we can make HAX as easy as possible to spin up in a variety of environments.</span>
+</person-testimonial>
+<person-testimonial style="width: 75%;" elevation="1" image="files/jolie.jpg" name="@jolietingen" position="Product Manager, Kits" accent-color="blue" __utils="[object HTMLElement]">  <span>I'm attending HAX Camp to learn the value and best practices of using web components, and learning how HAX and PatternFly have put this into practice.</span>
+</person-testimonial>
+<person-testimonial style="width: 75%;" elevation="1" image="files/fusco.jpg" name="David Fusco, PSU" position="Associate Dean of Undergraduate & Graduate Studies, College of IST" accent-color="blue" __utils="[object HTMLElement]">  <span>I’m excited to show people that great solutions can be built by bringing passionate creators together with a common vision to make education and learning experiences better.</span>
+</person-testimonial>
+<person-testimonial elevation="1" image="files/Tom Profile Edit2.jpg" name="@Tom_Var" position="Instructional Production Specialist" accent-color="light-green" style="width: 75%;" __utils="[object HTMLElement]">  <span>I look forward to learning how to make a theme in HAX so people have an easier and more interactive way to show off everything from resumes to online courses</span>
+</person-testimonial>
+<person-testimonial style="width: 75%;" elevation="1" image="files/cgl_square_2M.jpg" name="Chuck Lavera" position="HAX core contributor" accent-color="deep-orange" __utils="[object HTMLElement]">  <span>I'm excited to share our work on HAXcms theming, as well as to showcase how we create HAX-editable web components and wire them into custom themes.</span>
+</person-testimonial>
+<person-testimonial style="width: 75%;" elevation="1" image="files/IMG_20190307_142259.jpg" name="@btopro" position="HAX / ELMS:LN Project lead" accent-color="blue" __utils="[object HTMLElement]">  <span>I'm excited to show people the latest and greatest that HAXcms has to offer as well as learn more about how Sakai and Redhat have been leveraging web components in their design work.</span>
+</person-testimonial>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Sponsors</title>
+    <id>https://hax.camp/sponsors</id>
+    <updated>2020-03-06T20:44:28+00:00</updated>
+    <published>2019-08-15T18:21:02+00:00</published>
+    <summary>HAX camps are always looking for free or low cost venues, lunch sponsors and those looking to help spread and support our message of uniting software communities around web components.DemographicsSo</summary>
+    <link href="https://hax.camp/sponsors"/>
+    
+    <content type="html">
+      <![CDATA[ <p style="width: 100%;">HAX camps are always looking for free or low cost venues, lunch sponsors and those looking to help spread and support our message of uniting software communities around web components.</p>
+<h2 style="width: 100%;" id="header-a46cdad0-27bf-975d-d51d-359a473454c3">Demographics</h2>
+<ul style="width: 100%;"><li>Software developers, managers, educators, designers</li>
+<li>Diverse software communities with developers spanning every industry and platform imaginable</li>
+<li>Small scale, focused on relationship building and spreading knowledge</li>
+</ul>
+<h2 style="width: 100%;" id="header-0ed16fc6-e5b5-d05d-e9cf-ec5d6dd0fc48">What you'll get by sponsoring</h2>
+<ul style="width: 100%;"><li>A chance to help communities unite and build a better future</li>
+<li>Access to talented developers across a spectrum of technology stacks</li>
+<li>Name and logo recognition on our website as well as slide decks used to begin the day</li>
+<li>Consideration for leading a talk about your company's experience with web components during lunch (<i><b>not sales</b>
+</i>
+)</li>
+<li>Good will knowing you helped bring developers together that can benefit your own company and platform through shared efforts</li>
+</ul>
+<h2 style="width: 100%;" id="header-ebc65528-8c78-7753-444f-7822a7d48775">What you won't get by sponsoring</h2>
+<ul style="width: 100%;"><li>Constant spam about our events</li>
+<li>Swag (unless you want to buy stickers)</li>
+<li>Leads / email address / data points</li>
+</ul>
+<p style="width: 100%;">Interested in helping sponsor a <b>hax-camp</b>
+? Reach out to info[at]waxam.io about how you can get involved in making a successful camp!</p>
+<br/><br/><br/><br/> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Schedule</title>
+    <id>https://hax.camp/schedule</id>
+    <updated>2020-03-06T20:48:48+00:00</updated>
+    <published>2019-08-15T16:54:37+00:00</published>
+    <summary>The schedule will be fully built out by attendees the first 45 minutes of each day. We'll take a photo and post it here and twitter after the schedule has been created. Unconferences can be nebulou</summary>
+    <link href="https://hax.camp/schedule"/>
+    
+    <content type="html">
+      <![CDATA[ <p style="width: 100%;">The schedule will be fully built out <i>by attendees</i>
+ the first 45 minutes of each day. We'll take a photo and post it here and twitter after the schedule has been created. <i>Unconferences</i>
+ can be nebulous so here's an idea of what to expect!</p>
+<h3 id="header-6bfb96d8-9c1c-22ea-ed26-251d43908403">Example / planned discussions</h3>
+<ul style="width: 100%;"><li><b>Library usage discussion</b>
+ - Who's using what, experiences, likes / dislikes. LitElement vs VanillaJS vs any others!</li>
+<li><b>Theming web components</b>
+ - custom properties vs css variables</li>
+<li><b>Light DOM vs shadow DOM</b>
+<span>
+ - Pros & cons, lessons learned</span><br/></li>
+<li><b>making hello-world</b>
+ - Creating a hello-world element with <a href="https://open-wc.org/">open-wc tooling</a>
+</li>
+<li><b>Tooling workflows</b>
+ - Rollup? Webpack? Polymer build? experience share and comparisons of <b>WCFactory</b>
+ vs <b>OpenWc</b>
+ vs others</li>
+<li><b>HAXeditor / HAXcms UX</b>
+ - discussion and roadmap prioritization</li>
+<li><b>Monorepos vs multiple repos</b>
+<span>
+ - How to manage WCs at scale with teams of developers and projects</span><br/></li>
+<li><b>Bundle vs unbundle</b>
+ - When to do one vs the other, CDN discussions</li>
+<li>Anything you bring to the table! These are just suggestions based on who's going to be there!</li>
+</ul>
+<h2 style="width: 100%;" id="header-10ab01d3-a894-760a-6f00-b2ca68580f54">Example schedule Day 1</h2>
+<ul style="width: 100%;"><li>9:00 - 9:15 - coffee and registration</li>
+<li>9:15 - 9:30 - Welcome to hax-camp from organizers</li>
+<li>9:30 - 10:30 - Introductions and schedule formation</li>
+<li>10:35 - 11:20 - Slot 1 discussions / presentations</li>
+<li>11:30 - 12:15 - Slot 2 discussions / presentations</li>
+<li>12:20 - 1:35 - Lunch, <i>talk by sponsor X</i>
+</li>
+<li>1:40 - 2:25 - Slot 3 discussions / presentations</li>
+<li>2:35 - 3:20 - Slot 4 discussions / presentations</li>
+<li>3:30 - 4:15 - Slot 5 discussions / presentations</li>
+<li>4:15 - 4:30 - Debrief</li>
+<li>4:30 - 6:30 - After party by sponsor Y</li>
+</ul>
+<h3 id="header-73855199-da05-8929-0cd2-d30481d134e8" style="width: 100%;">Example schedule day 2</h3>
+<ul style="width: 100%;"><li>9:00 - 9:30 - coffee and registration</li>
+<li>9:30 - 10:15 - Schedule formation</li>
+<li>10:35 - 11:20 - Slot 1 discussions / presentations</li>
+<li>11:30 - 12:15 - Slot 2 discussions / presentations</li>
+<li>12:20 - 1:35 - Lunch, talk by sponsor Z</li>
 <li>1:40 - 2:25 - Slot 3 discussions / presentations</li>
 <li>2:35 - 3:20 - Slot 4 discussions / presentations</li>
 <li>3:30 - 4:15 - Slot 5 discussions / presentations</li>
@@ -301,24 +299,24 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Registration</title>
     <id>https://hax.camp/register</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-05-28T18:59:02-06:00</published>
-    <summary>Registration is now open! Check out the EventBright and register today!</summary>
+    <updated>2020-03-06T20:36:29+00:00</updated>
+    <published>2019-05-29T00:59:02+00:00</published>
+    <summary>2020 HAX camp registrationsOpen Apereo 2020 takes place at Michigan University June 15 - 19th. A HAX camp will take place lunch June 17th through lunch the 18th. Registration for Apereo is required</summary>
     <link href="https://hax.camp/register"/>
     
     <content type="html">
-      <![CDATA[ <p>Registration is now open! <a href="https://www.eventbrite.com/e/haxcamp-web-components-all-the-things-tickets-69761529613?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing">Check out the EventBright and register today</a>
-
-!</p>
-<meme-maker image-url="https://media1.giphy.com/media/oWjyixDbWuAk8/giphy.gif" top-text="one of us" bottom-text="one of us" style="width: 50%;"></meme-maker>
+      <![CDATA[ <h2 style="width: 100%;" id="header-f3b46200-f3d7-c7ed-43c5-3b0aab57f587">2020 HAX camp registrations</h2>
+<p style="width: 100%;"><a href="https://na.eventscloud.com/ereg/index.php?eventid=485892&">Open Apereo 2020</a>
+ takes place at Michigan University June 15 - 19th. A HAX camp will take place lunch June 17th through lunch the 18th. Registration for Apereo is required and includes a week long program dedicated to educational technology and pedagogical innovation.</p>
+<p style="width: 100%;">More registrations for future events will become available as we confirm venues. Stay tuned!</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Convince your boss</title>
     <id>https://hax.camp/convince-my-hippo</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-05-28T18:34:09-06:00</published>
+    <updated>2020-03-06T20:23:55+00:00</updated>
+    <published>2019-05-29T00:34:09+00:00</published>
     <summary>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man</summary>
     <link href="https://hax.camp/convince-my-hippo"/>
     
@@ -345,8 +343,8 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Whats an Unconference?</title>
     <id>https://hax.camp/schedule/unconference</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-05-28T18:22:36-06:00</published>
+    <updated>2020-03-06T20:23:55+00:00</updated>
+    <published>2019-05-29T00:22:36+00:00</published>
     <summary>If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there</summary>
     <link href="https://hax.camp/schedule/unconference"/>
     
@@ -376,82 +374,55 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Why attend</title>
     <id>https://hax.camp/why-attend</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-05-28T18:22:36-06:00</published>
-    <summary>Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb and have communi</summary>
+    <updated>2020-03-06T20:54:43+00:00</updated>
+    <published>2019-05-29T00:22:36+00:00</published>
+    <summary>Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb and have community with c</summary>
     <link href="https://hax.camp/why-attend"/>
     
     <content type="html">
-      <![CDATA[ <h3 class="hax-active">Why should I come</h3>
+      <![CDATA[ <h3 id="header-1038c459-1c1a-1e63-6380-111748b0c85e" style="width: 100%;">Why should I come</h3>
 <ul><li>Learn from others about how they are using web components<br/></li>
-
 <li>Learn about <a href="https://www.patternfly.org/">PatternFly Elements</a>
-
  from their web component pros</li>
-
-
-
-
-
-
 <li>Learn about all things #<a href="https://haxtheweb.org/">HAXTheWeb</a>
-
  and have community with core HAX developers and join the community</li>
-
-
-
-
-
-
 <li>See the future of OER with practical applications of web components</li>
-
-
-
-
-
-
 </ul>
-<h2>Who should come?</h2>
-<meme-maker image-url="https://live.staticflickr.com/4481/37249987684_d9efac206b_b.jpg" top-text="Everybody" bottom-text="everybody!" style="width: 25%;"></meme-maker>
-<p>No but <a href="https://homestarrunner.com/">"sewe-us-lee"</a>
-
-
+<h2 id="header-bb029b06-3c65-2c7d-5648-b03693c690f0">Who should come?</h2>
+<grid-plate layout="1-1" responsive-size="md" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" style="width: 100%;" hide-ops column-widths="[&quot;50%&quot;,&quot;50%&quot;]"><p style="width: 100%;" slot="col-1">No but <a href="https://homestarrunner.com/">"sewe-us-lee"</a>
 , everyone should come to HAX camp! HAX camp is for all skill levels. The only requirement is that you are interested in web components and learning more about them!</p>
+<meme-maker image-url="https://live.staticflickr.com/4481/37249987684_d9efac206b_b.jpg" top-text="Everybody" bottom-text="everybody!" style="width: 75%; margin: 0px auto; display: block;" slot="col-2">
+    <div>Everybody</div>
+      <img src="https://live.staticflickr.com/4481/37249987684_d9efac206b_b.jpg" alt="" preload="lazy"/>
+    <div>everybody!</div></meme-maker>
+</grid-plate>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Details</title>
     <id>https://hax.camp/details</id>
-    <updated>2019-10-04T07:03:40-06:00</updated>
-    <published>2019-05-28T18:20:22-06:00</published>
-    <summary>When is it?October 7th and 8th, 2019Where is it?Duke UniversityBostock LibraryTelecom DriveDurham, NC 27710Duke has graciously offered to host the first ever HAX Camp to increase knowled</summary>
+    <updated>2020-03-06T20:56:45+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
+    <summary>Where are the next ones?HAX camp DC - Stay tuned!HAX camp Apereo / Michigan - June 17 - 18!HAX camp Penn State - Stay tuned!HAX camp Duke (2020) - Stay tuned! </summary>
     <link href="https://hax.camp/details"/>
     
     <content type="html">
-      <![CDATA[ <h3>When is it?</h3>
-<p>October 7th and 8th, 2019<br/></p>
-<h3>Where is it?</h3>
-<blockquote class="hax-active"><span style=""><span style="caret-color: rgb(25, 30, 35);"><b>Duke University<br/>Bostock Library<br/>Telecom Drive<br/>Durham, NC 27710</b>
-
-
-
-</span><br/></span></blockquote>
-<html-block style="display: block; width: 100%;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1687.3797126688928!2d-78.9396484850072!3d36.00311075229569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6ae3a206b37%3A0xb1b730d7077b2d71!2sTelecom+Dr%2C+Durham%2C+NC+27710!5e0!3m2!1sen!2sus!4v1565888263939!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border: 0px; margin: 0px auto; display: block; width: 100%;" allowfullscreen=""></iframe>
-
-
-</html-block>
-<p>Duke has graciously offered to host the <i>first ever</i>
- HAX Camp to increase knowledge sharing among web component developers and those who would most benefit from them.</p>
+      <![CDATA[ <h3 id="header-fb4eee7f-cb3d-e92f-9bf1-36b6ab3b76e1" style="width: 100%;">Where are the next ones?</h3>
+<p style="width: 100%;">HAX camp DC - Stay tuned!</p>
+<p style="width: 100%;">HAX camp Apereo / Michigan - June 17 - 18!</p>
+<p style="width: 100%;">HAX camp Penn State - Stay tuned!</p>
+<p style="width: 100%;">HAX camp Duke (2020) - Stay tuned!</p>
+<html-block style="width: 100%; display: block;">
+ </html-block>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Code of conduct</title>
     <id>https://hax.camp/coc</id>
-    <updated>2019-10-06T11:46:05-06:00</updated>
-    <published>2019-05-28T18:20:22-06:00</published>
+    <updated>2020-03-06T20:23:55+00:00</updated>
+    <published>2019-05-29T00:20:22+00:00</published>
     <summary>Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge to making participation in our event as awesome as we possibly can.It is the policy of hax-camp to </summary>
     <link href="https://hax.camp/coc"/>
     
@@ -513,16 +484,17 @@ which presumes innocence until guilt is proven.
     </content>
   </entry>
   <entry>
-    <title>hax-camp</title>
+    <title>What is hax-camp?</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2019-11-20T08:26:15-07:00</updated>
-    <published>2019-05-28T18:08:49-06:00</published>
-    <summary>Missed < hax-camp > 2019? Don't worry, we've got big plans for 2020 with multiple events. Thank you to everyone who came out to share web components knowledge at Duke.Keep the conversation going: </summary>
+    <updated>2020-03-06T20:51:47+00:00</updated>
+    <published>2019-05-29T00:08:49+00:00</published>
+    <summary>Missed  2019? Don&#39;t worry, we&#39;ve got big plans for 2020 with multiple events.Keep the conversation going: Join our slack (channel #haxcamp) and follow #HAXTheWeb or @haxcamp f</summary>
     <link href="https://hax.camp/hax-camp"/>
     
     <content type="html">
-      <![CDATA[ <p>Missed<b> < hax-camp ></b>
- 2019? Don't worry, we've got big plans for 2020 with multiple events. Thank you to everyone who came out to share web components knowledge at Duke.</p>
+      <![CDATA[ <video-player accent-color="blue" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX The Camp 2019 Address by @btopro" preload="metadata" source="https://www.youtube.com/watch?v=f_tEA9O9pco" source-type="youtube" sticky-corner="top-right" youtube-id="f_tEA9O9pco" schema-resource-id="#ee930948-058e-97dc-18a6" resource="#ee930948-058e-97dc-18a6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block; height: 495px;" sources="[]" tracks="[]"></video-player>
+<p style="width: 100%;">Missed<b> < hax-camp ></b>
+ 2019? Don't worry, we've got big plans for 2020 with multiple events.</p>
 <div><div><p><b>Keep the conversation going: </b>
 <a href="https://join.slack.com/t/elmsln/shared_invite/enQtMjg2MzUxMTYyNjcyLWNhYzU1ODk0MjQ5MWZlNjVjNWJkMmZlODJiMGNmNDBjODk2NDc2MDUzNTZkODE4NTRiMjUzYzkzOTBkNjI4NGE" style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">Join our slack</a>
 <span>
@@ -533,7 +505,6 @@ which presumes innocence until guilt is proven.
 <span>. See you in 2020!</span></p>
 </div>
 </div>
-<video-player accent-color="blue" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX The Camp 2019 Address by @btopro" preload="metadata" source="https://www.youtube.com/watch?v=f_tEA9O9pco" source-type="youtube" sticky-corner="top-right" youtube-id="f_tEA9O9pco" schema-resource-id="#ee930948-058e-97dc-18a6" resource="#ee930948-058e-97dc-18a6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" sources="[]" tracks="[]"></video-player>
 <img src="files/haxcampposter.jpg" alt="HAX Camp Duke poster describing how to sign up." style="width: 80%; margin: 0px auto; display: block;"/><p><span>Want to learn more about </span><strong>LitElement</strong>
 <span>
 , </span><strong>Polymer</strong>
@@ -564,7 +535,7 @@ and want to show off? <em>Join us!</em>
 <p><strong>< hax-camp ></strong>
  provides a space for collaboration, discussion, and sharing of best practices for those exploring web components. Whether you are using HAXeditor, HAXcms, or anything else, you’ll learn and share valuable knowledge about web components at <strong>< hax-camp ></strong>
 </p>
-<h3>Why is the camp called HAX?</h3>
+<h3 id="header-33d74eb1-c7ea-3a7b-d8fe-570775181e47">Why is the camp called HAX?</h3>
 <p><a href="https://github.com/w3c/webcomponents">Web components</a>
  are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces, is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they "hack" traditional ways of doing silo'ed front-end application development. And thus, we will all be HAX'ing how we used to work, building new reusable pieces that work across our applications!<br/></p>
 <p>The founders of this event work on a project called <a href="https://haxtheweb.org/" target="_blank" data-mce-href="https://haxtheweb.org">HAXTheWeb</a>
