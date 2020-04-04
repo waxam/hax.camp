@@ -92,7 +92,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "WGa3vji4VdX4pB29a5rsbQ"
+        "8DziwZUUW7yRcamiowQ"
     ],
     [
         "files\/haxcms-managed\/512x512-overflow.png",
@@ -144,7 +144,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "lI53rNwfSYY1VPuQ6F8GYw"
+        "WLXvvchb5adWhwXetu7Wuw"
     ],
     [
         "404.html",
