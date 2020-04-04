@@ -2,7 +2,7 @@
     "id": "7091efcd-8d42-42d7-9105-9bc5d30932e1",
     "title": "hax.camp",
     "author": "btopro",
-    "description": "HAXcampd",
+    "description": "HAXcamp",
     "license": "by-nc",
     "metadata": {
         "author": {
@@ -15,7 +15,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1585966353,
+            "updated": 1585966524,
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
@@ -40,9 +40,9 @@
             "logo": "files\/overflow.png"
         },
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog",
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn",
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#3a00ff",
