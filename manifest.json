@@ -1,7 +1,7 @@
 {
     "name": "hax.camp",
     "short_name": "hax-camp",
-    "description": "HAXcampd",
+    "description": "HAXcamp",
     "icons": [
         {
             "src": "files/haxcms-managed/36x36-overflow.png",
