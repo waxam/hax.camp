@@ -1,83 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2020-03-06T20:56:45+00:00" -->
+<!-- generated-on="2020-04-27T15:33:15+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://hax.camphttps://hax.camp/schedule/unconference</loc>
-    <lastmod>2020-03-06T20:23:55+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/hax-camp</loc>
-    <lastmod>2020-03-06T20:51:47+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/why-attend</loc>
-    <lastmod>2020-03-06T20:54:43+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/past-hax-camps/haxcamp-1-duke-2019</loc>
-    <lastmod>2020-03-06T20:53:52+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/convince-my-hippo</loc>
-    <lastmod>2020-03-06T20:23:55+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/past-hax-camps</loc>
-    <lastmod>2020-03-06T20:52:32+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/register</loc>
-    <lastmod>2020-03-06T20:36:29+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/whos-coming</loc>
-    <lastmod>2020-03-06T20:24:36+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/sponsors</loc>
-    <lastmod>2020-03-06T20:44:28+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/scavenger-hunt</loc>
-    <lastmod>2020-03-06T20:46:07+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/schedule</loc>
-    <lastmod>2020-03-06T20:48:48+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/details</loc>
-    <lastmod>2020-03-06T20:56:45+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hax.camphttps://hax.camp/coc</loc>
-    <lastmod>2020-03-06T20:23:55+00:00</lastmod>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://hax.camphttps://hax.camp/weekly-un-code</loc>
+    <lastmod>2020-04-27T15:33:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

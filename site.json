@@ -15,7 +15,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1585966615,
+            "updated": 1588001595,
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
@@ -106,7 +106,7 @@
             "description": "If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1583526235,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -131,7 +131,7 @@
             "description": "Missed \u00a02019? Don&#39;t worry, we&#39;ve got big plans for 2020 with multiple events.Keep the conversation going:\u00a0Join our slack\u00a0(channel #haxcamp) and follow #HAXTheWeb or @haxcamp\u00a0f",
             "metadata": {
                 "created": 1559088529,
-                "updated": 1583527907,
+                "updated": 1588001595,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -182,7 +182,7 @@
             "description": "Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb\u00a0and have community with c",
             "metadata": {
                 "created": 1559089356,
-                "updated": 1583528083,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -208,7 +208,7 @@
             "description": "SponsorsA big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatHost location; Breakfast, Lun",
             "metadata": {
                 "created": 1583526235,
-                "updated": 1583528032,
+                "updated": 1588001595,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 9,
@@ -237,7 +237,7 @@
             "description": "HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man",
             "metadata": {
                 "created": 1559090049,
-                "updated": 1583526235,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -253,16 +253,29 @@
             }
         },
         {
+            "id": "item-6ef4afe3-0ec2-404c-b098-869eb6e851b1",
+            "indent": 0,
+            "location": "pages\/weekly-un-code\/index.html",
+            "order": "1",
+            "parent": null,
+            "title": "Weekly un-code",
+            "description": "",
+            "metadata": {
+                "created": 1588001595,
+                "updated": 1588001595
+            }
+        },
+        {
             "id": "item-2529bf4f-5f78-4ae6-a6ff-3120fd927aca",
             "indent": 0,
             "location": "pages\/past-hax-camps\/index.html",
-            "order": "1",
+            "order": "2",
             "parent": null,
             "title": "Past HAX camps",
             "description": "This contains notes and meetings of past HAX camps to give you an idea of the history of the organizing effort, where we've been and hopefully an idea of where we're going as a result!",
             "metadata": {
                 "created": 1583526235,
-                "updated": 1583527952,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -279,13 +292,13 @@
             "id": "item-763783ba-20ef-45ac-bd5e-8c51b2626845",
             "indent": 0,
             "location": "pages\/register\/index.html",
-            "order": "2",
+            "order": "3",
             "parent": null,
             "title": "Registration",
             "description": "2020 HAX camp registrationsOpen Apereo 2020\u00a0takes place at Michigan University June 15 - 19th. A HAX camp will take place lunch June 17th through lunch the 18th. Registration for Apereo is required",
             "metadata": {
                 "created": 1559091542,
-                "updated": 1583526989,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -303,13 +316,13 @@
             "id": "item-bd49f25c-0ade-4d20-b535-b615df720199",
             "indent": 0,
             "location": "pages\/whos-coming\/index.html",
-            "order": "3",
+            "order": "4",
             "parent": null,
             "title": "Who is coming",
             "description": "HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show off our open source library of web compo",
             "metadata": {
                 "created": 1568318500,
-                "updated": 1583526276,
+                "updated": 1588001595,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/IMG_20190307_142259.jpg",
@@ -401,13 +414,13 @@
             "id": "item-b99e853d-dd72-4838-a66a-77acfe2c98db",
             "indent": 0,
             "location": "pages\/sponsors\/index.html",
-            "order": "4",
+            "order": "5",
             "parent": null,
             "title": "Sponsors",
             "description": "HAX camps are always looking for free or low cost venues, lunch sponsors and those looking to help spread and support our message of uniting software communities around web components.DemographicsSo",
             "metadata": {
                 "created": 1565893262,
-                "updated": 1583527468,
+                "updated": 1588001595,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/\/3450183.png",
@@ -492,13 +505,13 @@
             "id": "item-54c89b93-d153-47d1-809d-e87503e3be7c",
             "indent": 0,
             "location": "pages\/scavenger-hunt\/index.html",
-            "order": "5",
+            "order": "6",
             "parent": null,
             "title": "Scavenger Hunt",
             "description": "We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the hockey web components team.",
             "metadata": {
                 "created": 1570188762,
-                "updated": 1583527567,
+                "updated": 1588001595,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/hax-camp\/files\/EBd7L7eXkAAOW_d.jpg",
@@ -565,13 +578,13 @@
             "id": "item-305b60c1-ebb0-420b-a5d9-466b952ac357",
             "indent": 0,
             "location": "pages\/schedule\/index.html",
-            "order": "6",
+            "order": "7",
             "parent": null,
             "title": "Schedule",
             "description": "The schedule will be fully built out by attendees the first 45 minutes of each day. We'll take a photo and post it here and twitter after the schedule has been created.\u00a0Unconferences can be nebulou",
             "metadata": {
                 "created": 1565888077,
-                "updated": 1583527728,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -591,13 +604,13 @@
             "id": "item-30720d01-2fd9-4a8c-82e3-9901178bbf75",
             "indent": 0,
             "location": "pages\/details\/index.html",
-            "order": "7",
+            "order": "8",
             "parent": null,
             "title": "Details",
             "description": "Where are the next ones?HAX camp DC - Stay tuned!HAX camp Apereo \/ Michigan - June 17 - 18!HAX camp Penn State - Stay tuned!HAX camp Duke (2020) - Stay tuned! ",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1583528205,
+                "updated": 1588001595,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -616,13 +629,13 @@
             "id": "item-4ef7f56b-a53c-4233-94f3-c246b6f32f0e",
             "indent": 0,
             "location": "pages\/coc\/index.html",
-            "order": "8",
+            "order": "9",
             "parent": null,
             "title": "Code of conduct",
             "description": "Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge to making participation in our event as awesome as we possibly can.It is the policy of hax-camp to ",
             "metadata": {
                 "created": 1559089222,
-                "updated": 1583526235,
+                "updated": 1588001595,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 8,

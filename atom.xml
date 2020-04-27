@@ -3,15 +3,27 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2020-03-06T20:23:55+00:00</updated>
+  <updated>2020-04-04T02:16:55+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
   <id>https://hax.camp/feed</id>
   <entry>
+    <title>Weekly un-code</title>
+    <id>https://hax.camp/weekly-un-code</id>
+    <updated>2020-04-27T15:33:15+00:00</updated>
+    <published>2020-04-27T15:33:15+00:00</published>
+    <summary></summary>
+    <link href="https://hax.camp/weekly-un-code"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>HAXcamp 1: Duke 2019</title>
     <id>https://hax.camp/past-hax-camps/haxcamp-1-duke-2019</id>
-    <updated>2020-03-06T20:53:52+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2020-03-06T20:23:55+00:00</published>
     <summary>SponsorsA big thank you to all of our sponsors of < hax-camp >, This event is only made possible with your support!      WaxaMDuke Learning InnovationRed HatHost location; Breakfast, Lun</summary>
     <link href="https://hax.camp/past-hax-camps/haxcamp-1-duke-2019"/>
@@ -123,7 +135,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Past HAX camps</title>
     <id>https://hax.camp/past-hax-camps</id>
-    <updated>2020-03-06T20:52:32+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2020-03-06T20:23:55+00:00</published>
     <summary>This contains notes and meetings of past HAX camps to give you an idea of the history of the organizing effort, where we've been and hopefully an idea of where we're going as a result!</summary>
     <link href="https://hax.camp/past-hax-camps"/>
@@ -136,7 +148,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Scavenger Hunt</title>
     <id>https://hax.camp/scavenger-hunt</id>
-    <updated>2020-03-06T20:46:07+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-10-04T11:32:42+00:00</published>
     <summary>We'll be giving away hockey jerseys at hax camp thanks to our swag sponsor WaxaM! Complete the scavenger hunt in order to rock the same sweet threads as the rest of the hockey web components team.</summary>
     <link href="https://hax.camp/scavenger-hunt"/>
@@ -170,7 +182,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Who is coming</title>
     <id>https://hax.camp/whos-coming</id>
-    <updated>2020-03-06T20:24:36+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-09-12T20:01:40+00:00</published>
     <summary>HAX camp represents many different communities leveraging web components. Here's a sample of who to expect to get to meet and learn with.  I'm excited to show off our open source library of web compo</summary>
     <link href="https://hax.camp/whos-coming"/>
@@ -201,7 +213,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Sponsors</title>
     <id>https://hax.camp/sponsors</id>
-    <updated>2020-03-06T20:44:28+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-08-15T18:21:02+00:00</published>
     <summary>HAX camps are always looking for free or low cost venues, lunch sponsors and those looking to help spread and support our message of uniting software communities around web components.DemographicsSo</summary>
     <link href="https://hax.camp/sponsors"/>
@@ -235,7 +247,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Schedule</title>
     <id>https://hax.camp/schedule</id>
-    <updated>2020-03-06T20:48:48+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-08-15T16:54:37+00:00</published>
     <summary>The schedule will be fully built out by attendees the first 45 minutes of each day. We'll take a photo and post it here and twitter after the schedule has been created. Unconferences can be nebulou</summary>
     <link href="https://hax.camp/schedule"/>
@@ -299,7 +311,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Registration</title>
     <id>https://hax.camp/register</id>
-    <updated>2020-03-06T20:36:29+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:59:02+00:00</published>
     <summary>2020 HAX camp registrationsOpen Apereo 2020 takes place at Michigan University June 15 - 19th. A HAX camp will take place lunch June 17th through lunch the 18th. Registration for Apereo is required</summary>
     <link href="https://hax.camp/register"/>
@@ -315,7 +327,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Convince your boss</title>
     <id>https://hax.camp/convince-my-hippo</id>
-    <updated>2020-03-06T20:23:55+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:34:09+00:00</published>
     <summary>HiPPO (Highest Paid Person's Opinion) is super important to getting funding to come to HAX camp. Here's some easy reasons they'll be thrilled to send you:Web components can be used in any Content Man</summary>
     <link href="https://hax.camp/convince-my-hippo"/>
@@ -343,7 +355,7 @@ will be held at the Duke University <a href="https://naming.library.duke.edu/ro
   <entry>
     <title>Whats an Unconference?</title>
     <id>https://hax.camp/schedule/unconference</id>
-    <updated>2020-03-06T20:23:55+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:22:36+00:00</published>
     <summary>If you&#39;ve never been, they are awesome. here&#39;s a basic definition from Wikipedia.Effectively, the people who show up form the schedule and go from there. HAX camp is not a pure Unconference as there</summary>
     <link href="https://hax.camp/schedule/unconference"/>
@@ -374,7 +386,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Why attend</title>
     <id>https://hax.camp/why-attend</id>
-    <updated>2020-03-06T20:54:43+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:22:36+00:00</published>
     <summary>Why should I comeLearn from others about how they are using web componentsLearn about PatternFly Elements from their web component prosLearn about all things #HAXTheWeb and have community with c</summary>
     <link href="https://hax.camp/why-attend"/>
@@ -402,7 +414,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Details</title>
     <id>https://hax.camp/details</id>
-    <updated>2020-03-06T20:56:45+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>Where are the next ones?HAX camp DC - Stay tuned!HAX camp Apereo / Michigan - June 17 - 18!HAX camp Penn State - Stay tuned!HAX camp Duke (2020) - Stay tuned! </summary>
     <link href="https://hax.camp/details"/>
@@ -421,7 +433,7 @@ planned session items but it is largely up to the group in attendance as to what
   <entry>
     <title>Code of conduct</title>
     <id>https://hax.camp/coc</id>
-    <updated>2020-03-06T20:23:55+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:20:22+00:00</published>
     <summary>Our pledgeIn the interest of fostering an open and welcoming environment, we as organizers pledge to making participation in our event as awesome as we possibly can.It is the policy of hax-camp to </summary>
     <link href="https://hax.camp/coc"/>
@@ -486,7 +498,7 @@ which presumes innocence until guilt is proven.
   <entry>
     <title>What is hax-camp?</title>
     <id>https://hax.camp/hax-camp</id>
-    <updated>2020-03-06T20:51:47+00:00</updated>
+    <updated>2020-04-27T15:33:15+00:00</updated>
     <published>2019-05-29T00:08:49+00:00</published>
     <summary>Missed  2019? Don&#39;t worry, we&#39;ve got big plans for 2020 with multiple events.Keep the conversation going: Join our slack (channel #haxcamp) and follow #HAXTheWeb or @haxcamp f</summary>
     <link href="https://hax.camp/hax-camp"/>
