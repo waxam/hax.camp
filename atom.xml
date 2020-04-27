@@ -3,7 +3,7 @@
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
   <subtitle>HAXcamp</subtitle>
-  <updated>2020-04-04T02:16:55+00:00</updated>
+  <updated>2020-04-27T15:33:15+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
@@ -11,13 +11,20 @@
   <entry>
     <title>Weekly un-code</title>
     <id>https://hax.camp/weekly-un-code</id>
-    <updated>2020-04-27T15:33:15+00:00</updated>
+    <updated>2020-04-27T15:37:13+00:00</updated>
     <published>2020-04-27T15:33:15+00:00</published>
-    <summary></summary>
+    <summary>Reality got you down? Us too. We had four in person camps planned for 2020 and they aren't going to happen :(. Never fear though, HAX camper's have you covered!Get an invite link to join here Frida</summary>
     <link href="https://hax.camp/weekly-un-code"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ <p>Reality got you down? Us too. We had four in person camps planned for 2020 and they aren't going to happen :(. Never fear though, HAX camper's have you covered!</p>
+<ul><li><a href="https://zmurl.com/haxuncode" target="_blank">Get an invite link to join here</a>
+ Friday 3 - 5pm EST</li>
+<li><a href="https://www.youtube.com/channel/UCgcFR9ojBu9P7VNQjt0nqbA/videos" target="_blank">Check out the YouTube channel</a>
+</li>
+</ul>
+<p>Every Friday a group of Web component enthusiasts meet to talk about what we're working on, get advise and have community even as we can't be together. All calls are recorded and chunked into segments on our YouTube channel so you can always check out what you miss!</p>
+ ]]>
     </content>
   </entry>
   <entry>

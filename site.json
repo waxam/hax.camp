@@ -259,10 +259,21 @@
             "order": "1",
             "parent": null,
             "title": "Weekly un-code",
-            "description": "",
+            "description": "Reality got you down? Us too. We had four in person camps planned for 2020 and they aren't going to happen :(. Never fear though, HAX camper's have you covered!Get an invite link to join here\u00a0Frida",
             "metadata": {
                 "created": 1588001595,
-                "updated": 1588001595
+                "updated": 1588001833,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2,
+                        "ul": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
