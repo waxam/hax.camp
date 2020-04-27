@@ -2,7 +2,7 @@
     "id": "7091efcd-8d42-42d7-9105-9bc5d30932e1",
     "title": "hax.camp",
     "author": "btopro",
-    "description": "HAXcamp",
+    "description": "hax-camp - unconferences and community dedicated to web components",
     "license": "by-nc",
     "metadata": {
         "author": {
@@ -15,7 +15,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1588001595,
+            "updated": 1588001855,
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
@@ -36,7 +36,7 @@
                 "publishedLocation": "https:\/\/hax.camp",
                 "offline": false
             },
-            "version": "1.1.1",
+            "version": "1.1.3",
             "logo": "files\/overflow.png"
         },
         "theme": {
