@@ -59,6 +59,10 @@ var precacheConfig = [
         "6JwI1w7Kj4K1vigmiHuMnw"
     ],
     [
+        "pages\/weekly-un-code\/index.html",
+        "OfEbnaXGVp5VTH0uw83A"
+    ],
+    [
         "pages\/past-hax-camps\/index.html",
         "c7qM4ecFzfn38SxFwkjfw"
     ],
@@ -92,7 +96,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "8DziwZUUW7yRcamiowQ"
+        "8jL4Zkysrz1VTV4l73HRQ"
     ],
     [
         "files\/haxcms-managed\/512x512-overflow.png",
@@ -140,11 +144,11 @@ var precacheConfig = [
     ],
     [
         "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
+        "CaDCUEIfSntkoTB9bN2FZw"
     ],
     [
         "site.json",
-        "lI53rNwfSYY1VPuQ6F8GYw"
+        "0pprzo50B1qoN4ZwH1W8g"
     ],
     [
         "404.html",

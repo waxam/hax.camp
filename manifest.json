@@ -1,7 +1,7 @@
 {
     "name": "hax.camp",
     "short_name": "hax-camp",
-    "description": "HAXcamp",
+    "description": "hax-camp - unconferences and community dedicated to web components",
     "icons": [
         {
             "src": "files/haxcms-managed/36x36-overflow.png",
@@ -46,8 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "/sites/hax-camp/",
-    "start_url": "/sites/hax-camp/",
+    "scope": "",
+    "start_url": "",
     "display": "standalone",
     "theme_color": "#3a00ff",
     "background_color": "#3a00ff"
