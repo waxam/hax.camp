@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>hax.camp</title>
   <link href="https://hax.camp/atom.xml" rel="self" />
-  <subtitle>HAXcamp</subtitle>
-  <updated>2020-04-27T15:33:15+00:00</updated>
+  <subtitle>hax-camp - unconferences and community dedicated to web components</subtitle>
+  <updated>2020-04-27T15:37:35+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
