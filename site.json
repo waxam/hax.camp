@@ -15,7 +15,7 @@
             "name": "hax-camp",
             "domain": "https:\/\/hax.camp",
             "created": 1559088529,
-            "updated": 1588001855,
+            "updated": 1594309329,
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
@@ -36,18 +36,18 @@
                 "publishedLocation": "https:\/\/hax.camp",
                 "offline": false
             },
-            "version": "1.1.3",
+            "version": "1.2.3",
             "logo": "files\/overflow.png"
         },
         "theme": {
-            "element": "learn-two-theme",
-            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
-            "name": "Learn",
+            "element": "clean-two",
+            "path": "@lrnwebcomponents\/clean-one\/clean-two.js",
+            "name": "Course theme two",
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#3a00ff",
                 "cssVariable": "--simple-colors-default-theme-indigo-7",
-                "icon": "icons:record-voice-over"
+                "icon": "icons:account-circle"
             }
         },
         "node": {
@@ -61,7 +61,6 @@
                 "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
                 "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
                 "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
-                "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
                 "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
                 "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
                 "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
