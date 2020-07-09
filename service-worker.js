@@ -72,7 +72,7 @@ var precacheConfig = [
     ],
     [
         "pages\/whos-coming\/index.html",
-        "SU2hYftfsR15E3n3TkSw"
+        "TDc51difvwFQEY6frNjSUA"
     ],
     [
         "pages\/sponsors\/index.html",
@@ -96,7 +96,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "8jL4Zkysrz1VTV4l73HRQ"
+        "QitTBCqPt0HFrPfiUx4AA"
     ],
     [
         "files\/haxcms-managed\/512x512-overflow.png",
@@ -148,7 +148,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "0pprzo50B1qoN4ZwH1W8g"
+        "vzgi95izuid0SmTTMJuEMA"
     ],
     [
         "404.html",
@@ -157,10 +157,6 @@ var precacheConfig = [
     [
         "files\/IMG_20190819_205859.jpg",
         "JUAH3PBKXvgkMCg8RINoQQ"
-    ],
-    [
-        "files\/._.DS_Store",
-        "A0pQqDXkb1dum938Ip9Mxw"
     ],
     [
         "files\/haxcampposter.jpg",
@@ -189,6 +185,10 @@ var precacheConfig = [
     [
         "files\/xmas_tree_sweater.jpg",
         "8KRwQQM5OYlakJJbawQEw"
+    ],
+    [
+        "files\/DSC_0262.JPG",
+        "jstjkz1YwrTzSbUtFpwt6Q"
     ],
     [
         "files\/cgl_square_2M.jpg",
