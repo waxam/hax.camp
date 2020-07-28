@@ -96,7 +96,15 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "QitTBCqPt0HFrPfiUx4AA"
+        "Bd2Tt3Jv5iuyoiaD5RRuA"
+    ],
+    [
+        "manifest.json",
+        "gmNXxVtnfpUk2yLp2YOQ"
+    ],
+    [
+        "site.json",
+        "vzgi95izuid0SmTTMJuEMA"
     ],
     [
         "files\/haxcms-managed\/512x512-overflow.png",
@@ -141,14 +149,6 @@ var precacheConfig = [
     [
         "files\/haxcms-managed\/16x16-overflow.png",
         "LouqMuVNSTYp4d9DBSg"
-    ],
-    [
-        "manifest.json",
-        "CaDCUEIfSntkoTB9bN2FZw"
-    ],
-    [
-        "site.json",
-        "vzgi95izuid0SmTTMJuEMA"
     ],
     [
         "404.html",
